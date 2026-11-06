@@ -158,23 +158,27 @@ Focuses on business performance and actionable findings through:
 ## 📂 Project Structure
 
 ```text
-Ecommerce_Sales_Analysis/
+Ecommerce-sales-customer-analytics/
 │
-├── data/
-│   ├── raw/
-│   └── cleaned/
+├── csv_files/
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   ├── products.csv
+│   ├── cleaned_customers.csv
+│   ├── cleaned_orders.csv
+│   ├── cleaned_ordeitems.csv
+│   └── cleaned_products.csv
 │
 ├── sql/
 │   ├── analysis_ecom.sql
-│   ├── data_cleaning.sql
 │   ├── data_cleaning_customers.sql
-│   ├── Datacleaning_OrderItems.sql
-│   ├── Datacleaning_orders.sql
 │   ├── DataCleaning_products.sql
-│   └── queries.sql
+│   ├── Datacleaning_OrderItems.sql
+│   └── Datacleaning_orders.sql
 │
-├── outputs/
-│   └── rfm_segments.csv
+├── python_code/
+│   └── Python scripts
 │
 ├── ecommerce_analysis.ipynb
 │
