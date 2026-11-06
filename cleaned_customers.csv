@@ -1,0 +1,3001 @@
+customer_id,state,signup_date,segment
+C00001,Gujarat,"2024-03-28 00:00:00",Regular
+C00002,Delhi,"2024-08-28 00:00:00",Regular
+C00003,Telangana,"2024-04-12 00:00:00",Regular
+C00004,NULL,"2024-03-09 00:00:00",Regular
+C00005,Maharashtra,"2023-12-08 00:00:00",Regular
+C00006,"Uttar Pradesh","2023-06-28 00:00:00",Regular
+C00007,Gujarat,"2023-07-24 00:00:00",Regular
+C00008,Gujarat,"2024-06-28 00:00:00",Regular
+C00009,Maharashtra,"2023-02-20 00:00:00",Regular
+C00010,Delhi,"2023-03-03 00:00:00",Regular
+C00011,Karnataka,"2023-10-17 00:00:00",Regular
+C00012,"Uttar Pradesh","2024-07-19 00:00:00",Regular
+C00013,"West Bengal","2024-04-24 00:00:00",Premium
+C00014,Telangana,"2024-03-06 00:00:00",Regular
+C00015,Delhi,"2024-01-25 00:00:00",Regular
+C00016,Karnataka,"2023-03-22 00:00:00",Regular
+C00017,"Tamil Nadu","2023-08-31 00:00:00",Regular
+C00018,Maharashtra,"2023-02-28 00:00:00",Regular
+C00019,Telangana,"2024-07-07 00:00:00",Regular
+C00020,"Tamil Nadu","2024-07-02 00:00:00",Regular
+C00021,Gujarat,"2023-07-08 00:00:00",Regular
+C00022,Karnataka,"2023-08-02 00:00:00",Regular
+C00023,NULL,"2023-08-20 00:00:00",Regular
+C00024,Telangana,"2024-10-11 00:00:00",Premium
+C00025,Gujarat,"2023-12-23 00:00:00",Regular
+C00026,Maharashtra,"2024-07-10 00:00:00",Regular
+C00027,Delhi,"2023-11-24 00:00:00",Regular
+C00028,Maharashtra,"2024-05-24 00:00:00",Regular
+C00029,Maharashtra,"2024-01-21 00:00:00",Regular
+C00030,"West Bengal","2023-07-23 00:00:00",Regular
+C00031,Gujarat,"2024-10-01 00:00:00",Regular
+C00032,"Uttar Pradesh","2024-06-01 00:00:00",Regular
+C00033,Karnataka,"2024-07-15 00:00:00",Regular
+C00034,Karnataka,"2024-11-23 00:00:00",Regular
+C00035,Delhi,"2023-07-01 00:00:00",Regular
+C00036,Maharashtra,"2023-03-08 00:00:00",Regular
+C00037,Maharashtra,"2024-03-01 00:00:00",Regular
+C00038,Delhi,"2023-08-27 00:00:00",Premium
+C00039,Karnataka,"2023-11-15 00:00:00",Regular
+C00040,"West Bengal","2023-06-21 00:00:00",Regular
+C00041,Delhi,"2023-10-18 00:00:00",Regular
+C00042,Telangana,"2023-10-15 00:00:00",Regular
+C00043,"West Bengal","2023-09-13 00:00:00",Premium
+C00044,Karnataka,"2024-06-25 00:00:00",Regular
+C00045,Telangana,"2024-03-08 00:00:00",Regular
+C00046,Gujarat,"2023-12-13 00:00:00",Regular
+C00047,Delhi,"2023-03-24 00:00:00",Premium
+C00048,Karnataka,"2024-02-21 00:00:00",Regular
+C00049,"West Bengal","2023-05-08 00:00:00",Regular
+C00050,Maharashtra,"2023-08-18 00:00:00",Regular
+C00051,Maharashtra,"2023-10-30 00:00:00",Regular
+C00052,Maharashtra,"2023-04-14 00:00:00",Regular
+C00053,Gujarat,"2023-10-12 00:00:00",Regular
+C00054,"West Bengal","2023-07-14 00:00:00",Regular
+C00055,"West Bengal","2024-09-12 00:00:00",Regular
+C00056,Gujarat,"2024-09-19 00:00:00",Regular
+C00057,Delhi,"2023-01-04 00:00:00",Regular
+C00058,"Tamil Nadu","2024-03-15 00:00:00",Regular
+C00059,Maharashtra,"2024-04-12 00:00:00",Regular
+C00060,Maharashtra,"2023-10-03 00:00:00",Regular
+C00061,"West Bengal","2023-12-09 00:00:00",Premium
+C00062,Delhi,"2024-07-30 00:00:00",Regular
+C00063,"Tamil Nadu","2023-10-03 00:00:00",Regular
+C00064,Gujarat,"2023-02-17 00:00:00",Premium
+C00065,"Tamil Nadu","2023-09-29 00:00:00",Regular
+C00066,"Tamil Nadu","2023-07-05 00:00:00",Regular
+C00067,"Tamil Nadu","2023-10-07 00:00:00",Regular
+C00068,Karnataka,"2023-06-17 00:00:00",Regular
+C00069,Maharashtra,"2023-04-20 00:00:00",Regular
+C00070,Delhi,"2024-12-20 00:00:00",Regular
+C00071,Maharashtra,"2023-04-05 00:00:00",Regular
+C00072,Delhi,"2024-05-30 00:00:00",Premium
+C00073,Telangana,"2024-06-07 00:00:00",Regular
+C00074,Karnataka,"2024-03-26 00:00:00",Regular
+C00075,Maharashtra,"2024-10-27 00:00:00",Premium
+C00076,Karnataka,"2023-01-04 00:00:00",Regular
+C00077,Karnataka,"2023-08-09 00:00:00",Premium
+C00078,NULL,"2023-05-15 00:00:00",Regular
+C00079,"Tamil Nadu","2024-02-26 00:00:00",Regular
+C00080,Gujarat,"2024-04-08 00:00:00",Regular
+C00081,"West Bengal","2024-10-17 00:00:00",Regular
+C00082,Delhi,"2023-10-05 00:00:00",Regular
+C00083,Gujarat,"2023-06-22 00:00:00",Premium
+C00084,Maharashtra,"2024-11-05 00:00:00",Premium
+C00085,NULL,"2024-05-06 00:00:00",Regular
+C00086,Maharashtra,"2024-07-12 00:00:00",Regular
+C00087,Gujarat,"2023-11-21 00:00:00",Regular
+C00088,Delhi,"2023-11-23 00:00:00",Premium
+C00089,Maharashtra,"2023-10-12 00:00:00",Regular
+C00090,Delhi,"2024-07-01 00:00:00",Premium
+C00091,Maharashtra,"2023-06-03 00:00:00",Regular
+C00092,"West Bengal","2024-12-13 00:00:00",Regular
+C00093,Delhi,"2023-05-09 00:00:00",Regular
+C00094,Delhi,"2023-12-03 00:00:00",Regular
+C00095,Karnataka,"2023-08-18 00:00:00",Regular
+C00096,"Tamil Nadu","2024-04-14 00:00:00",Premium
+C00097,Karnataka,"2024-05-11 00:00:00",Regular
+C00098,Maharashtra,"2024-11-01 00:00:00",Regular
+C00099,Maharashtra,"2024-07-30 00:00:00",Regular
+C00100,"Uttar Pradesh","2023-07-01 00:00:00",Regular
+C00101,Telangana,"2023-05-31 00:00:00",Regular
+C00102,"West Bengal","2024-10-09 00:00:00",Premium
+C00103,Karnataka,"2023-12-23 00:00:00",Premium
+C00104,"Uttar Pradesh","2023-03-13 00:00:00",Regular
+C00105,Gujarat,"2024-08-25 00:00:00",Regular
+C00106,"West Bengal","2024-04-18 00:00:00",Regular
+C00107,Delhi,"2023-01-19 00:00:00",Premium
+C00108,Karnataka,"2024-07-25 00:00:00",Regular
+C00109,Maharashtra,"2024-03-19 00:00:00",Regular
+C00110,Telangana,"2024-03-24 00:00:00",Premium
+C00111,Delhi,"2024-09-23 00:00:00",Premium
+C00112,Maharashtra,"2023-12-28 00:00:00",Regular
+C00113,Karnataka,"2023-12-03 00:00:00",Regular
+C00114,"Tamil Nadu","2024-03-26 00:00:00",Regular
+C00115,Maharashtra,"2023-05-25 00:00:00",Regular
+C00116,Telangana,"2023-04-21 00:00:00",Regular
+C00117,Gujarat,"2024-09-07 00:00:00",Regular
+C00118,"West Bengal","2023-06-07 00:00:00",Regular
+C00119,Delhi,"2024-01-04 00:00:00",Regular
+C00120,"Tamil Nadu","2023-07-17 00:00:00",Regular
+C00121,"Tamil Nadu","2023-06-18 00:00:00",Regular
+C00122,"West Bengal","2024-03-12 00:00:00",Premium
+C00123,Maharashtra,"2024-08-08 00:00:00",Regular
+C00124,Delhi,"2023-11-19 00:00:00",Premium
+C00125,Maharashtra,"2023-04-12 00:00:00",Regular
+C00126,Delhi,"2023-06-28 00:00:00",Regular
+C00127,Karnataka,"2023-05-01 00:00:00",Premium
+C00128,Maharashtra,"2024-10-06 00:00:00",Regular
+C00129,Maharashtra,"2023-08-22 00:00:00",Regular
+C00130,"Tamil Nadu","2023-09-30 00:00:00",Regular
+C00131,Maharashtra,"2023-02-21 00:00:00",Regular
+C00132,"Uttar Pradesh","2023-11-22 00:00:00",Regular
+C00133,"Tamil Nadu","2024-10-29 00:00:00",Regular
+C00134,Karnataka,"2023-10-27 00:00:00",Regular
+C00135,"Tamil Nadu","2024-04-20 00:00:00",Regular
+C00136,Maharashtra,"2023-05-13 00:00:00",Regular
+C00137,"Uttar Pradesh","2023-04-15 00:00:00",Regular
+C00138,Delhi,"2024-06-18 00:00:00",Regular
+C00139,NULL,"2023-02-17 00:00:00",Regular
+C00140,Maharashtra,"2023-11-24 00:00:00",Regular
+C00141,Delhi,"2023-08-20 00:00:00",Regular
+C00142,Delhi,"2023-01-12 00:00:00",Regular
+C00143,"Uttar Pradesh","2024-01-23 00:00:00",Regular
+C00144,"Tamil Nadu","2024-12-04 00:00:00",Regular
+C00145,Delhi,"2023-02-20 00:00:00",Regular
+C00146,Karnataka,"2024-08-18 00:00:00",Premium
+C00147,Karnataka,"2024-01-29 00:00:00",Premium
+C00148,"Tamil Nadu","2024-06-12 00:00:00",Regular
+C00149,Delhi,"2023-03-12 00:00:00",Regular
+C00150,Maharashtra,"2024-09-26 00:00:00",Regular
+C00151,Telangana,"2023-01-09 00:00:00",Premium
+C00152,Telangana,"2024-10-23 00:00:00",Premium
+C00153,Maharashtra,"2024-04-25 00:00:00",Regular
+C00154,"Tamil Nadu","2023-09-04 00:00:00",Regular
+C00155,Maharashtra,"2023-01-06 00:00:00",Regular
+C00156,"West Bengal","2024-03-21 00:00:00",Premium
+C00157,Karnataka,"2023-03-05 00:00:00",Premium
+C00158,"West Bengal","2024-03-20 00:00:00",Regular
+C00159,Gujarat,"2024-07-18 00:00:00",Regular
+C00160,Gujarat,"2023-07-15 00:00:00",Regular
+C00161,Maharashtra,"2023-06-24 00:00:00",Regular
+C00162,Telangana,"2023-06-12 00:00:00",Premium
+C00163,Karnataka,"2023-06-14 00:00:00",Regular
+C00164,Maharashtra,"2023-03-25 00:00:00",Regular
+C00165,"Tamil Nadu","2023-07-02 00:00:00",Regular
+C00166,Karnataka,"2024-04-26 00:00:00",Regular
+C00167,Telangana,"2023-08-09 00:00:00",Premium
+C00168,Gujarat,"2024-07-24 00:00:00",Regular
+C00169,Karnataka,"2024-08-21 00:00:00",Premium
+C00170,"Uttar Pradesh","2024-07-09 00:00:00",Regular
+C00171,Karnataka,"2024-01-29 00:00:00",Regular
+C00172,Delhi,"2023-08-19 00:00:00",Regular
+C00173,Karnataka,"2024-11-09 00:00:00",Regular
+C00174,NULL,"2023-05-30 00:00:00",Regular
+C00175,Maharashtra,"2023-12-06 00:00:00",Regular
+C00176,Maharashtra,"2023-11-28 00:00:00",Regular
+C00177,Delhi,"2024-06-28 00:00:00",Regular
+C00178,"Uttar Pradesh","2024-02-04 00:00:00",Regular
+C00179,Telangana,"2024-08-06 00:00:00",Regular
+C00180,Gujarat,"2024-11-01 00:00:00",Premium
+C00181,Telangana,"2023-10-13 00:00:00",Premium
+C00182,Telangana,"2024-09-30 00:00:00",Regular
+C00183,Delhi,"2023-05-04 00:00:00",Regular
+C00184,Karnataka,"2024-10-30 00:00:00",Regular
+C00185,NULL,"2023-05-10 00:00:00",Premium
+C00186,NULL,"2024-09-12 00:00:00",Regular
+C00187,Karnataka,"2023-10-12 00:00:00",Regular
+C00188,Maharashtra,"2024-12-05 00:00:00",Regular
+C00189,Gujarat,"2023-04-05 00:00:00",Premium
+C00190,Karnataka,"2023-12-06 00:00:00",Regular
+C00191,"Uttar Pradesh","2024-10-20 00:00:00",Regular
+C00192,Karnataka,"2023-02-04 00:00:00",Regular
+C00193,Maharashtra,"2023-07-13 00:00:00",Regular
+C00194,NULL,"2023-03-03 00:00:00",Premium
+C00195,Maharashtra,"2023-08-23 00:00:00",Regular
+C00196,Maharashtra,"2023-10-12 00:00:00",Regular
+C00197,"Tamil Nadu","2024-03-27 00:00:00",Regular
+C00198,Telangana,"2023-07-08 00:00:00",Regular
+C00199,Maharashtra,"2023-04-26 00:00:00",Regular
+C00200,Karnataka,"2023-05-05 00:00:00",Regular
+C00201,Gujarat,"2024-11-16 00:00:00",Premium
+C00202,"Uttar Pradesh","2024-11-26 00:00:00",Regular
+C00203,Delhi,"2023-06-11 00:00:00",Regular
+C00204,Maharashtra,"2023-05-23 00:00:00",Regular
+C00205,Maharashtra,"2023-02-09 00:00:00",Regular
+C00206,Karnataka,"2024-12-01 00:00:00",Regular
+C00207,Maharashtra,"2024-05-30 00:00:00",Regular
+C00208,"West Bengal","2024-07-09 00:00:00",Regular
+C00209,Maharashtra,"2023-08-01 00:00:00",Regular
+C00210,Delhi,"2024-04-12 00:00:00",Regular
+C00211,"West Bengal","2023-02-13 00:00:00",Regular
+C00212,"Tamil Nadu","2024-05-08 00:00:00",Regular
+C00213,NULL,"2024-02-28 00:00:00",Regular
+C00214,Gujarat,"2023-08-30 00:00:00",Premium
+C00215,"West Bengal","2024-06-02 00:00:00",Regular
+C00216,Gujarat,"2024-04-16 00:00:00",Regular
+C00217,Maharashtra,"2023-11-17 00:00:00",Regular
+C00218,Maharashtra,"2023-05-17 00:00:00",Regular
+C00219,"Uttar Pradesh","2023-01-18 00:00:00",Regular
+C00220,Delhi,"2024-11-15 00:00:00",Regular
+C00221,NULL,"2023-07-25 00:00:00",Regular
+C00222,Delhi,"2023-08-09 00:00:00",Regular
+C00223,"West Bengal","2024-05-12 00:00:00",Regular
+C00224,"Uttar Pradesh","2023-07-06 00:00:00",Regular
+C00225,Karnataka,"2023-10-02 00:00:00",Regular
+C00226,"Uttar Pradesh","2024-06-03 00:00:00",Regular
+C00227,Maharashtra,"2024-03-10 00:00:00",Premium
+C00228,"Tamil Nadu","2024-04-24 00:00:00",Regular
+C00229,"Tamil Nadu","2023-01-04 00:00:00",Regular
+C00230,Maharashtra,"2023-11-26 00:00:00",Regular
+C00231,Maharashtra,"2023-12-13 00:00:00",Regular
+C00232,Delhi,"2024-04-06 00:00:00",Premium
+C00233,"Uttar Pradesh","2023-04-21 00:00:00",Regular
+C00234,"Tamil Nadu","2023-04-27 00:00:00",Regular
+C00235,"Uttar Pradesh","2024-07-10 00:00:00",Premium
+C00236,Gujarat,"2024-05-06 00:00:00",Regular
+C00237,Delhi,"2024-08-15 00:00:00",Regular
+C00238,Gujarat,"2023-07-17 00:00:00",Regular
+C00239,Maharashtra,"2024-12-29 00:00:00",Regular
+C00240,NULL,"2023-07-19 00:00:00",Regular
+C00241,Telangana,"2024-04-20 00:00:00",Regular
+C00242,Gujarat,"2023-04-29 00:00:00",Regular
+C00243,Karnataka,"2024-11-01 00:00:00",Regular
+C00244,"Tamil Nadu","2023-08-31 00:00:00",Regular
+C00245,"Tamil Nadu","2024-08-08 00:00:00",Regular
+C00246,Telangana,"2023-08-30 00:00:00",Regular
+C00247,"Tamil Nadu","2024-07-31 00:00:00",Regular
+C00248,Delhi,"2023-11-28 00:00:00",Regular
+C00249,Karnataka,"2023-02-15 00:00:00",Premium
+C00250,Delhi,"2023-05-20 00:00:00",Regular
+C00251,"West Bengal","2024-05-13 00:00:00",Regular
+C00252,Telangana,"2023-05-21 00:00:00",Regular
+C00253,Delhi,"2023-07-20 00:00:00",Regular
+C00254,Karnataka,"2024-01-31 00:00:00",Regular
+C00255,Karnataka,"2023-07-04 00:00:00",Premium
+C00256,Gujarat,"2023-04-05 00:00:00",Regular
+C00257,Gujarat,"2024-03-31 00:00:00",Regular
+C00258,Maharashtra,"2024-05-17 00:00:00",Premium
+C00259,Maharashtra,"2024-06-19 00:00:00",Regular
+C00260,"Tamil Nadu","2024-11-20 00:00:00",Premium
+C00261,Maharashtra,"2023-04-01 00:00:00",Regular
+C00262,Telangana,"2023-11-08 00:00:00",Regular
+C00263,Karnataka,"2023-06-20 00:00:00",Premium
+C00264,Maharashtra,"2024-10-19 00:00:00",Regular
+C00265,"Uttar Pradesh","2024-01-30 00:00:00",Regular
+C00266,Maharashtra,"2023-03-13 00:00:00",Regular
+C00267,Karnataka,"2024-05-20 00:00:00",Regular
+C00268,Maharashtra,"2023-02-01 00:00:00",Regular
+C00269,Maharashtra,"2023-07-20 00:00:00",Regular
+C00270,Maharashtra,"2024-06-10 00:00:00",Regular
+C00271,Maharashtra,"2024-01-05 00:00:00",Regular
+C00272,Maharashtra,"2024-07-09 00:00:00",Regular
+C00273,NULL,"2024-02-21 00:00:00",Regular
+C00274,"Tamil Nadu","2024-09-07 00:00:00",Regular
+C00275,"West Bengal","2024-02-15 00:00:00",Regular
+C00276,Delhi,"2023-02-11 00:00:00",Regular
+C00277,Karnataka,"2023-02-22 00:00:00",Regular
+C00278,Delhi,"2024-07-21 00:00:00",Regular
+C00279,Telangana,"2023-01-29 00:00:00",Regular
+C00280,Telangana,"2023-10-02 00:00:00",Regular
+C00281,Maharashtra,"2023-01-12 00:00:00",Regular
+C00282,Maharashtra,"2023-08-10 00:00:00",Premium
+C00283,Karnataka,"2024-03-10 00:00:00",Premium
+C00284,Karnataka,"2023-05-07 00:00:00",Regular
+C00285,"Tamil Nadu","2023-12-07 00:00:00",Premium
+C00286,Delhi,"2024-12-28 00:00:00",Premium
+C00287,Maharashtra,"2023-02-21 00:00:00",Regular
+C00288,Karnataka,"2023-02-16 00:00:00",Regular
+C00289,"Tamil Nadu","2023-07-18 00:00:00",Regular
+C00290,Maharashtra,"2024-08-26 00:00:00",Regular
+C00291,Telangana,"2023-10-24 00:00:00",Regular
+C00292,Maharashtra,"2024-04-11 00:00:00",Regular
+C00293,"Uttar Pradesh","2023-01-25 00:00:00",Regular
+C00294,Maharashtra,"2024-06-20 00:00:00",Premium
+C00295,Telangana,"2023-02-19 00:00:00",Regular
+C00296,Telangana,"2024-06-03 00:00:00",Regular
+C00297,"Uttar Pradesh","2023-04-18 00:00:00",Regular
+C00298,Gujarat,"2024-09-18 00:00:00",Regular
+C00299,Gujarat,"2023-08-05 00:00:00",Premium
+C00300,"West Bengal","2023-05-15 00:00:00",Regular
+C00301,Gujarat,"2023-09-03 00:00:00",Regular
+C00302,Maharashtra,"2023-01-01 00:00:00",Regular
+C00303,"Tamil Nadu","2023-05-01 00:00:00",Regular
+C00304,Delhi,"2024-03-12 00:00:00",Regular
+C00305,Telangana,"2023-08-08 00:00:00",Premium
+C00306,Delhi,"2023-09-16 00:00:00",Regular
+C00307,Delhi,"2024-08-12 00:00:00",Regular
+C00308,"Tamil Nadu","2023-04-01 00:00:00",Regular
+C00309,Karnataka,"2023-10-17 00:00:00",Regular
+C00310,Maharashtra,"2023-05-16 00:00:00",Regular
+C00311,Delhi,"2023-12-19 00:00:00",Regular
+C00312,Delhi,"2023-08-31 00:00:00",Regular
+C00313,NULL,"2023-02-03 00:00:00",Regular
+C00314,Karnataka,"2023-02-21 00:00:00",Premium
+C00315,Karnataka,"2024-09-14 00:00:00",Regular
+C00316,Karnataka,"2023-02-11 00:00:00",Regular
+C00317,Karnataka,"2024-07-25 00:00:00",Regular
+C00318,"West Bengal","2024-10-30 00:00:00",Regular
+C00319,Karnataka,"2023-12-07 00:00:00",Regular
+C00320,"Uttar Pradesh","2023-08-16 00:00:00",Regular
+C00321,Telangana,"2024-07-20 00:00:00",Regular
+C00322,Delhi,"2024-12-18 00:00:00",Regular
+C00323,Karnataka,"2023-03-29 00:00:00",Regular
+C00324,"Tamil Nadu","2024-12-04 00:00:00",Regular
+C00325,Telangana,"2024-11-19 00:00:00",Regular
+C00326,"West Bengal","2023-04-15 00:00:00",Regular
+C00327,Gujarat,"2023-02-09 00:00:00",Regular
+C00328,"Tamil Nadu","2024-06-05 00:00:00",Regular
+C00329,"Tamil Nadu","2023-02-26 00:00:00",Regular
+C00330,Karnataka,"2024-03-14 00:00:00",Premium
+C00331,Gujarat,"2023-02-17 00:00:00",Regular
+C00332,Maharashtra,"2024-05-19 00:00:00",Regular
+C00333,"West Bengal","2023-06-19 00:00:00",Regular
+C00334,Telangana,"2023-03-12 00:00:00",Regular
+C00335,Maharashtra,"2023-02-18 00:00:00",Regular
+C00336,"Tamil Nadu","2023-05-18 00:00:00",Premium
+C00337,Maharashtra,"2024-01-30 00:00:00",Regular
+C00338,Gujarat,"2023-02-25 00:00:00",Regular
+C00339,Maharashtra,"2024-08-08 00:00:00",Regular
+C00340,"Uttar Pradesh","2024-03-17 00:00:00",Regular
+C00341,Maharashtra,"2023-08-06 00:00:00",Premium
+C00342,"Uttar Pradesh","2024-12-21 00:00:00",Regular
+C00343,Gujarat,"2024-04-25 00:00:00",Regular
+C00344,"Tamil Nadu","2024-05-05 00:00:00",Regular
+C00345,Gujarat,"2023-05-07 00:00:00",Regular
+C00346,NULL,"2024-06-02 00:00:00",Regular
+C00347,"Uttar Pradesh","2024-02-13 00:00:00",Regular
+C00348,Karnataka,"2024-12-19 00:00:00",Regular
+C00349,"Tamil Nadu","2023-12-15 00:00:00",Regular
+C00350,Maharashtra,"2024-05-09 00:00:00",Regular
+C00351,"Tamil Nadu","2023-09-07 00:00:00",Regular
+C00352,Maharashtra,"2023-01-30 00:00:00",Regular
+C00353,"Tamil Nadu","2023-04-04 00:00:00",Premium
+C00354,"Tamil Nadu","2024-09-24 00:00:00",Regular
+C00355,Delhi,"2024-06-22 00:00:00",Regular
+C00356,"Tamil Nadu","2023-09-24 00:00:00",Premium
+C00357,Gujarat,"2024-05-24 00:00:00",Regular
+C00358,Gujarat,"2023-01-04 00:00:00",Regular
+C00359,Delhi,"2023-01-28 00:00:00",Regular
+C00360,"Tamil Nadu","2024-01-06 00:00:00",Regular
+C00361,"Uttar Pradesh","2024-04-01 00:00:00",Regular
+C00362,Maharashtra,"2024-11-15 00:00:00",Premium
+C00363,Maharashtra,"2024-07-08 00:00:00",Regular
+C00364,Maharashtra,"2023-07-07 00:00:00",Regular
+C00365,"West Bengal","2024-08-18 00:00:00",Regular
+C00366,Delhi,"2023-12-25 00:00:00",Regular
+C00367,Gujarat,"2024-08-26 00:00:00",Regular
+C00368,"West Bengal","2023-05-07 00:00:00",Regular
+C00369,Karnataka,"2023-01-20 00:00:00",Regular
+C00370,Telangana,"2023-02-12 00:00:00",Regular
+C00371,Gujarat,"2024-12-24 00:00:00",Regular
+C00372,Karnataka,"2023-02-28 00:00:00",Regular
+C00373,Karnataka,"2024-11-16 00:00:00",Regular
+C00374,Karnataka,"2024-06-14 00:00:00",Regular
+C00375,Maharashtra,"2023-04-17 00:00:00",Regular
+C00376,Maharashtra,"2024-09-22 00:00:00",Regular
+C00377,"Uttar Pradesh","2023-04-16 00:00:00",Regular
+C00378,Delhi,"2023-04-15 00:00:00",Regular
+C00379,Delhi,"2024-02-25 00:00:00",Regular
+C00380,Gujarat,"2023-07-30 00:00:00",Regular
+C00381,"Tamil Nadu","2023-08-01 00:00:00",Regular
+C00382,"Uttar Pradesh","2023-05-23 00:00:00",Regular
+C00383,Gujarat,"2024-03-19 00:00:00",Regular
+C00384,Delhi,"2023-01-20 00:00:00",Regular
+C00385,Karnataka,"2023-06-28 00:00:00",Premium
+C00386,"Uttar Pradesh","2024-02-09 00:00:00",Premium
+C00387,"West Bengal","2023-12-22 00:00:00",Regular
+C00388,"Uttar Pradesh","2024-05-25 00:00:00",Regular
+C00389,Maharashtra,"2023-06-07 00:00:00",Regular
+C00390,Telangana,"2024-04-17 00:00:00",Premium
+C00391,"Tamil Nadu","2024-07-08 00:00:00",Regular
+C00392,Maharashtra,"2023-10-11 00:00:00",Regular
+C00393,"Tamil Nadu","2023-07-07 00:00:00",Regular
+C00394,"West Bengal","2024-02-10 00:00:00",Regular
+C00395,Maharashtra,"2024-02-27 00:00:00",Regular
+C00396,Delhi,"2023-03-10 00:00:00",Regular
+C00397,Telangana,"2024-02-17 00:00:00",Regular
+C00398,Karnataka,"2023-04-23 00:00:00",Regular
+C00399,Delhi,"2024-02-20 00:00:00",Premium
+C00400,Delhi,"2024-11-11 00:00:00",Regular
+C00401,Karnataka,"2024-01-28 00:00:00",Regular
+C00402,Telangana,"2024-07-09 00:00:00",Regular
+C00403,NULL,"2023-08-15 00:00:00",Regular
+C00404,Maharashtra,"2024-11-04 00:00:00",Premium
+C00405,"Uttar Pradesh","2024-08-16 00:00:00",Regular
+C00406,Telangana,"2024-10-31 00:00:00",Regular
+C00407,Karnataka,"2024-06-25 00:00:00",Premium
+C00408,Telangana,"2024-04-19 00:00:00",Regular
+C00409,Maharashtra,"2024-01-19 00:00:00",Regular
+C00410,"Uttar Pradesh","2024-11-08 00:00:00",Regular
+C00411,"West Bengal","2024-09-11 00:00:00",Regular
+C00412,"West Bengal","2023-11-01 00:00:00",Regular
+C00413,Maharashtra,"2023-03-04 00:00:00",Regular
+C00414,Telangana,"2023-01-03 00:00:00",Premium
+C00415,Maharashtra,"2023-06-20 00:00:00",Regular
+C00416,Karnataka,"2023-02-15 00:00:00",Premium
+C00417,Maharashtra,"2023-06-04 00:00:00",Regular
+C00418,Gujarat,"2023-03-21 00:00:00",Regular
+C00419,Maharashtra,"2024-12-17 00:00:00",Premium
+C00420,Telangana,"2023-03-11 00:00:00",Regular
+C00421,"West Bengal","2024-04-02 00:00:00",Regular
+C00422,Maharashtra,"2023-09-14 00:00:00",Regular
+C00423,Maharashtra,"2023-05-08 00:00:00",Regular
+C00424,Maharashtra,"2024-05-26 00:00:00",Premium
+C00425,"Tamil Nadu","2024-12-09 00:00:00",Regular
+C00426,Gujarat,"2024-07-31 00:00:00",Regular
+C00427,Karnataka,"2024-12-12 00:00:00",Regular
+C00428,Telangana,"2024-03-06 00:00:00",Regular
+C00429,Maharashtra,"2024-05-06 00:00:00",Regular
+C00430,Gujarat,"2023-04-17 00:00:00",Regular
+C00431,"Uttar Pradesh","2024-09-14 00:00:00",Regular
+C00432,Gujarat,"2024-06-29 00:00:00",Regular
+C00433,"West Bengal","2023-07-05 00:00:00",Regular
+C00434,Telangana,"2023-09-17 00:00:00",Regular
+C00435,Maharashtra,"2024-03-21 00:00:00",Regular
+C00436,Maharashtra,"2023-01-10 00:00:00",Regular
+C00437,Maharashtra,"2024-08-20 00:00:00",Regular
+C00438,Delhi,"2023-07-24 00:00:00",Regular
+C00439,Gujarat,"2023-02-24 00:00:00",Regular
+C00440,"Tamil Nadu","2023-08-30 00:00:00",Regular
+C00441,Telangana,"2024-09-02 00:00:00",Premium
+C00442,Maharashtra,"2023-07-20 00:00:00",Regular
+C00443,Gujarat,"2024-01-29 00:00:00",Regular
+C00444,Maharashtra,"2024-08-15 00:00:00",Premium
+C00445,Karnataka,"2023-01-25 00:00:00",Regular
+C00446,"West Bengal","2024-07-08 00:00:00",Premium
+C00447,"Uttar Pradesh","2023-07-30 00:00:00",Regular
+C00448,"Tamil Nadu","2024-05-22 00:00:00",Regular
+C00449,Maharashtra,"2023-05-18 00:00:00",Regular
+C00450,"Tamil Nadu","2023-04-12 00:00:00",Regular
+C00451,Maharashtra,"2024-07-29 00:00:00",Regular
+C00452,Telangana,"2024-08-12 00:00:00",Regular
+C00453,"West Bengal","2024-12-17 00:00:00",Regular
+C00454,Maharashtra,"2024-05-09 00:00:00",Premium
+C00455,Maharashtra,"2023-12-07 00:00:00",Regular
+C00456,Maharashtra,"2023-05-23 00:00:00",Regular
+C00457,"Uttar Pradesh","2023-08-04 00:00:00",Premium
+C00458,Delhi,"2024-04-18 00:00:00",Regular
+C00459,Gujarat,"2023-09-10 00:00:00",Regular
+C00460,"Tamil Nadu","2023-12-19 00:00:00",Regular
+C00461,"Tamil Nadu","2023-05-03 00:00:00",Regular
+C00462,Maharashtra,"2023-11-17 00:00:00",Regular
+C00463,"Uttar Pradesh","2023-06-23 00:00:00",Regular
+C00464,Karnataka,"2023-03-23 00:00:00",Regular
+C00465,"Tamil Nadu","2023-04-07 00:00:00",Regular
+C00466,"West Bengal","2024-01-14 00:00:00",Regular
+C00467,"West Bengal","2023-09-25 00:00:00",Regular
+C00468,"Uttar Pradesh","2023-03-14 00:00:00",Regular
+C00469,Maharashtra,"2024-01-11 00:00:00",Regular
+C00470,Delhi,"2023-04-30 00:00:00",Regular
+C00471,Delhi,"2023-01-12 00:00:00",Regular
+C00472,Delhi,"2023-04-07 00:00:00",Regular
+C00473,Maharashtra,"2023-11-24 00:00:00",Regular
+C00474,Maharashtra,"2024-11-27 00:00:00",Premium
+C00475,Karnataka,"2023-06-26 00:00:00",Regular
+C00476,Karnataka,"2023-07-27 00:00:00",Regular
+C00477,Delhi,"2023-06-27 00:00:00",Regular
+C00478,"Tamil Nadu","2023-09-17 00:00:00",Regular
+C00479,"Tamil Nadu","2024-06-07 00:00:00",Premium
+C00480,Delhi,"2023-08-24 00:00:00",Premium
+C00481,Delhi,"2024-04-25 00:00:00",Premium
+C00482,Maharashtra,"2024-10-17 00:00:00",Regular
+C00483,"Tamil Nadu","2024-11-21 00:00:00",Regular
+C00484,Karnataka,"2024-02-15 00:00:00",Regular
+C00485,Maharashtra,"2024-06-04 00:00:00",Regular
+C00486,Delhi,"2024-11-01 00:00:00",Regular
+C00487,Delhi,"2024-07-28 00:00:00",Regular
+C00488,Karnataka,"2023-08-07 00:00:00",Regular
+C00489,"Tamil Nadu","2023-04-07 00:00:00",Premium
+C00490,"Tamil Nadu","2023-03-25 00:00:00",Regular
+C00491,"West Bengal","2024-10-05 00:00:00",Regular
+C00492,"West Bengal","2024-02-11 00:00:00",Premium
+C00493,"West Bengal","2023-08-05 00:00:00",Regular
+C00494,Karnataka,"2023-09-10 00:00:00",Regular
+C00495,Gujarat,"2023-07-25 00:00:00",Regular
+C00496,"Tamil Nadu","2024-08-08 00:00:00",Regular
+C00497,Delhi,"2024-03-23 00:00:00",Regular
+C00498,"Tamil Nadu","2024-10-03 00:00:00",Regular
+C00499,Karnataka,"2023-08-09 00:00:00",Regular
+C00500,Delhi,"2023-12-11 00:00:00",Regular
+C00501,Gujarat,"2023-03-30 00:00:00",Regular
+C00502,Telangana,"2024-12-10 00:00:00",Regular
+C00503,"Uttar Pradesh","2024-01-09 00:00:00",Regular
+C00504,Delhi,"2024-02-08 00:00:00",Regular
+C00505,"Tamil Nadu","2023-10-29 00:00:00",Regular
+C00506,Gujarat,"2023-07-17 00:00:00",Regular
+C00507,Karnataka,"2024-11-23 00:00:00",Regular
+C00508,Telangana,"2023-12-23 00:00:00",Regular
+C00509,Delhi,"2024-05-07 00:00:00",Regular
+C00510,Maharashtra,"2023-01-28 00:00:00",Regular
+C00511,Maharashtra,"2023-07-21 00:00:00",Regular
+C00512,Telangana,"2024-08-09 00:00:00",Regular
+C00513,NULL,"2023-03-06 00:00:00",Regular
+C00514,Karnataka,"2023-03-16 00:00:00",Regular
+C00515,Karnataka,"2024-08-14 00:00:00",Regular
+C00516,Maharashtra,"2023-08-14 00:00:00",Regular
+C00517,Karnataka,"2023-07-19 00:00:00",Regular
+C00518,Gujarat,"2024-02-17 00:00:00",Regular
+C00519,Maharashtra,"2023-05-23 00:00:00",Regular
+C00520,Telangana,"2023-02-01 00:00:00",Regular
+C00521,Telangana,"2023-01-04 00:00:00",Premium
+C00522,Karnataka,"2023-02-27 00:00:00",Premium
+C00523,Maharashtra,"2023-04-26 00:00:00",Premium
+C00524,"Tamil Nadu","2024-05-23 00:00:00",Regular
+C00525,Maharashtra,"2023-08-06 00:00:00",Regular
+C00526,Karnataka,"2023-02-22 00:00:00",Regular
+C00527,"Uttar Pradesh","2023-01-11 00:00:00",Regular
+C00528,"Uttar Pradesh","2023-12-15 00:00:00",Regular
+C00529,Gujarat,"2024-09-05 00:00:00",Regular
+C00530,Karnataka,"2023-09-05 00:00:00",Regular
+C00531,"West Bengal","2023-02-16 00:00:00",Regular
+C00532,"West Bengal","2023-06-16 00:00:00",Premium
+C00533,Delhi,"2023-12-31 00:00:00",Regular
+C00534,"West Bengal","2023-05-18 00:00:00",Regular
+C00535,Maharashtra,"2024-12-15 00:00:00",Regular
+C00536,Maharashtra,"2024-07-11 00:00:00",Regular
+C00537,"Tamil Nadu","2023-09-09 00:00:00",Premium
+C00538,Maharashtra,"2024-11-25 00:00:00",Regular
+C00539,Maharashtra,"2023-08-26 00:00:00",Premium
+C00540,Telangana,"2023-04-13 00:00:00",Regular
+C00541,"Uttar Pradesh","2024-11-15 00:00:00",Regular
+C00542,"Tamil Nadu","2024-12-01 00:00:00",Regular
+C00543,Telangana,"2023-08-17 00:00:00",Regular
+C00544,"Uttar Pradesh","2024-03-10 00:00:00",Regular
+C00545,Maharashtra,"2023-05-07 00:00:00",Regular
+C00546,Delhi,"2024-04-13 00:00:00",Premium
+C00547,Delhi,"2024-05-18 00:00:00",Regular
+C00548,Maharashtra,"2024-06-02 00:00:00",Premium
+C00549,Gujarat,"2024-02-20 00:00:00",Regular
+C00550,Delhi,"2024-05-29 00:00:00",Premium
+C00551,Delhi,"2024-02-10 00:00:00",Regular
+C00552,Maharashtra,"2024-08-21 00:00:00",Regular
+C00553,Maharashtra,"2023-05-12 00:00:00",Regular
+C00554,Telangana,"2023-12-19 00:00:00",Regular
+C00555,Maharashtra,"2023-10-31 00:00:00",Premium
+C00556,Karnataka,"2024-01-25 00:00:00",Regular
+C00557,Karnataka,"2023-04-14 00:00:00",Regular
+C00558,Delhi,"2023-08-25 00:00:00",Regular
+C00559,"Tamil Nadu","2024-11-27 00:00:00",Regular
+C00560,Delhi,"2023-03-18 00:00:00",Regular
+C00561,Maharashtra,"2024-04-08 00:00:00",Regular
+C00562,Karnataka,"2024-04-30 00:00:00",Regular
+C00563,Telangana,"2023-12-13 00:00:00",Regular
+C00564,"Tamil Nadu","2023-01-25 00:00:00",Regular
+C00565,"West Bengal","2023-01-26 00:00:00",Premium
+C00566,"West Bengal","2023-07-21 00:00:00",Regular
+C00567,Gujarat,"2023-03-16 00:00:00",Regular
+C00568,Maharashtra,"2023-03-10 00:00:00",Regular
+C00569,Karnataka,"2023-04-27 00:00:00",Regular
+C00570,"Tamil Nadu","2023-05-20 00:00:00",Regular
+C00571,Karnataka,"2024-09-04 00:00:00",Regular
+C00572,Telangana,"2024-04-11 00:00:00",Regular
+C00573,Delhi,"2023-01-23 00:00:00",Regular
+C00574,Gujarat,"2024-04-03 00:00:00",Regular
+C00575,Telangana,"2023-04-10 00:00:00",Premium
+C00576,Delhi,"2023-11-04 00:00:00",Regular
+C00577,Telangana,"2023-01-28 00:00:00",Regular
+C00578,"Tamil Nadu","2023-03-07 00:00:00",Regular
+C00579,Telangana,"2023-04-07 00:00:00",Regular
+C00580,Karnataka,"2023-11-13 00:00:00",Regular
+C00581,Delhi,"2023-12-05 00:00:00",Regular
+C00582,"Tamil Nadu","2023-09-15 00:00:00",Regular
+C00583,Maharashtra,"2024-03-28 00:00:00",Regular
+C00584,Delhi,"2024-06-09 00:00:00",Regular
+C00585,Telangana,"2024-06-15 00:00:00",Premium
+C00586,"Tamil Nadu","2024-02-27 00:00:00",Regular
+C00587,Maharashtra,"2024-02-03 00:00:00",Regular
+C00588,Karnataka,"2023-12-25 00:00:00",Regular
+C00589,Maharashtra,"2023-06-23 00:00:00",Premium
+C00590,Maharashtra,"2023-12-22 00:00:00",Regular
+C00591,"Uttar Pradesh","2023-01-08 00:00:00",Regular
+C00592,Delhi,"2024-12-06 00:00:00",Regular
+C00593,Karnataka,"2023-09-28 00:00:00",Regular
+C00594,NULL,"2024-07-06 00:00:00",Regular
+C00595,Maharashtra,"2024-11-29 00:00:00",Premium
+C00596,Karnataka,"2023-12-29 00:00:00",Regular
+C00597,"West Bengal","2024-09-21 00:00:00",Regular
+C00598,"Tamil Nadu","2023-12-16 00:00:00",Regular
+C00599,"Uttar Pradesh","2023-04-07 00:00:00",Premium
+C00600,"Tamil Nadu","2023-01-20 00:00:00",Premium
+C00601,Delhi,"2023-04-10 00:00:00",Regular
+C00602,Gujarat,"2024-11-19 00:00:00",Regular
+C00603,Telangana,"2023-12-13 00:00:00",Regular
+C00604,Gujarat,"2023-08-21 00:00:00",Regular
+C00605,"Uttar Pradesh","2023-11-22 00:00:00",Premium
+C00606,Gujarat,"2023-07-06 00:00:00",Regular
+C00607,Telangana,"2024-09-27 00:00:00",Regular
+C00608,Maharashtra,"2024-12-30 00:00:00",Regular
+C00609,Gujarat,"2023-03-03 00:00:00",Regular
+C00610,Delhi,"2024-06-08 00:00:00",Premium
+C00611,"Tamil Nadu","2023-09-02 00:00:00",Regular
+C00612,"West Bengal","2023-02-04 00:00:00",Regular
+C00613,"Uttar Pradesh","2024-11-04 00:00:00",Regular
+C00614,"Uttar Pradesh","2023-02-15 00:00:00",Premium
+C00615,Karnataka,"2023-05-31 00:00:00",Regular
+C00616,Gujarat,"2023-01-19 00:00:00",Premium
+C00617,Gujarat,"2023-12-11 00:00:00",Regular
+C00618,Karnataka,"2024-03-13 00:00:00",Regular
+C00619,Maharashtra,"2023-08-23 00:00:00",Regular
+C00620,Maharashtra,"2023-02-22 00:00:00",Regular
+C00621,Gujarat,"2023-03-26 00:00:00",Regular
+C00622,Delhi,"2024-11-12 00:00:00",Regular
+C00623,"Uttar Pradesh","2024-08-11 00:00:00",Regular
+C00624,Delhi,"2024-11-14 00:00:00",Regular
+C00625,"Uttar Pradesh","2024-01-23 00:00:00",Regular
+C00626,Delhi,"2024-02-03 00:00:00",Regular
+C00627,Gujarat,"2024-07-27 00:00:00",Regular
+C00628,Maharashtra,"2024-03-26 00:00:00",Regular
+C00629,"Tamil Nadu","2023-11-15 00:00:00",Premium
+C00630,Gujarat,"2023-08-02 00:00:00",Premium
+C00631,"Uttar Pradesh","2023-12-21 00:00:00",Regular
+C00632,Telangana,"2023-02-16 00:00:00",Regular
+C00633,Maharashtra,"2023-05-21 00:00:00",Regular
+C00634,Karnataka,"2024-06-22 00:00:00",Regular
+C00635,Maharashtra,"2024-09-25 00:00:00",Premium
+C00636,Maharashtra,"2023-03-16 00:00:00",Regular
+C00637,"West Bengal","2023-03-12 00:00:00",Regular
+C00638,"West Bengal","2023-03-04 00:00:00",Regular
+C00639,Gujarat,"2024-07-31 00:00:00",Regular
+C00640,Telangana,"2023-08-16 00:00:00",Premium
+C00641,Gujarat,"2023-08-27 00:00:00",Regular
+C00642,Gujarat,"2023-01-10 00:00:00",Regular
+C00643,Maharashtra,"2024-12-10 00:00:00",Regular
+C00644,Karnataka,"2023-11-13 00:00:00",Premium
+C00645,"Tamil Nadu","2024-08-05 00:00:00",Regular
+C00646,Telangana,"2024-05-31 00:00:00",Premium
+C00647,Maharashtra,"2023-04-14 00:00:00",Premium
+C00648,Delhi,"2024-08-07 00:00:00",Regular
+C00649,"West Bengal","2024-02-06 00:00:00",Premium
+C00650,Maharashtra,"2024-03-17 00:00:00",Regular
+C00651,Delhi,"2023-05-27 00:00:00",Regular
+C00652,Telangana,"2024-09-10 00:00:00",Regular
+C00653,"West Bengal","2024-11-11 00:00:00",Regular
+C00654,NULL,"2023-10-24 00:00:00",Regular
+C00655,Telangana,"2023-03-09 00:00:00",Regular
+C00656,Karnataka,"2024-09-11 00:00:00",Regular
+C00657,Telangana,"2024-10-09 00:00:00",Regular
+C00658,Karnataka,"2024-01-05 00:00:00",Regular
+C00659,"Tamil Nadu","2024-02-27 00:00:00",Regular
+C00660,Delhi,"2023-06-12 00:00:00",Regular
+C00661,Karnataka,"2023-02-19 00:00:00",Premium
+C00662,Telangana,"2024-11-20 00:00:00",Premium
+C00663,Maharashtra,"2023-12-19 00:00:00",Regular
+C00664,Maharashtra,"2023-07-20 00:00:00",Regular
+C00665,Karnataka,"2024-05-21 00:00:00",Regular
+C00666,"West Bengal","2023-01-20 00:00:00",Regular
+C00667,Gujarat,"2023-02-28 00:00:00",Regular
+C00668,"Uttar Pradesh","2023-06-27 00:00:00",Regular
+C00669,Karnataka,"2023-11-25 00:00:00",Regular
+C00670,Delhi,"2023-09-25 00:00:00",Regular
+C00671,Maharashtra,"2023-05-17 00:00:00",Regular
+C00672,"Tamil Nadu","2023-09-14 00:00:00",Regular
+C00673,"Uttar Pradesh","2023-09-01 00:00:00",Premium
+C00674,"West Bengal","2024-01-19 00:00:00",Regular
+C00675,"Tamil Nadu","2024-02-15 00:00:00",Regular
+C00676,Delhi,"2024-10-06 00:00:00",Regular
+C00677,Telangana,"2024-08-11 00:00:00",Regular
+C00678,Delhi,"2023-08-02 00:00:00",Regular
+C00679,Maharashtra,"2024-10-20 00:00:00",Regular
+C00680,Karnataka,"2024-01-16 00:00:00",Regular
+C00681,Maharashtra,"2023-05-18 00:00:00",Regular
+C00682,Maharashtra,"2023-09-06 00:00:00",Regular
+C00683,Maharashtra,"2024-06-25 00:00:00",Regular
+C00684,Delhi,"2024-08-22 00:00:00",Regular
+C00685,"Tamil Nadu","2023-10-01 00:00:00",Regular
+C00686,Karnataka,"2023-04-26 00:00:00",Premium
+C00687,Delhi,"2023-05-21 00:00:00",Regular
+C00688,"Uttar Pradesh","2023-03-17 00:00:00",Regular
+C00689,Gujarat,"2024-05-25 00:00:00",Premium
+C00690,"Tamil Nadu","2024-01-03 00:00:00",Regular
+C00691,Karnataka,"2023-11-26 00:00:00",Regular
+C00692,Telangana,"2024-05-05 00:00:00",Regular
+C00693,Karnataka,"2024-08-27 00:00:00",Regular
+C00694,Karnataka,"2024-08-03 00:00:00",Regular
+C00695,Telangana,"2023-04-11 00:00:00",Premium
+C00696,"Tamil Nadu","2024-03-06 00:00:00",Premium
+C00697,Gujarat,"2024-10-06 00:00:00",Regular
+C00698,"Tamil Nadu","2024-07-18 00:00:00",Regular
+C00699,"West Bengal","2023-08-29 00:00:00",Regular
+C00700,Karnataka,"2023-10-14 00:00:00",Regular
+C00701,Karnataka,"2024-10-11 00:00:00",Regular
+C00702,Karnataka,"2023-01-24 00:00:00",Regular
+C00703,Maharashtra,"2024-01-19 00:00:00",Regular
+C00704,Telangana,"2023-03-26 00:00:00",Regular
+C00705,Karnataka,"2024-10-15 00:00:00",Regular
+C00706,"Tamil Nadu","2023-01-29 00:00:00",Regular
+C00707,Gujarat,"2023-01-18 00:00:00",Regular
+C00708,Gujarat,"2023-08-29 00:00:00",Premium
+C00709,Delhi,"2023-05-27 00:00:00",Regular
+C00710,Delhi,"2023-12-28 00:00:00",Regular
+C00711,"Uttar Pradesh","2023-08-07 00:00:00",Regular
+C00712,"West Bengal","2023-09-18 00:00:00",Regular
+C00713,Gujarat,"2024-02-17 00:00:00",Premium
+C00714,Telangana,"2024-02-14 00:00:00",Premium
+C00715,Gujarat,"2024-11-13 00:00:00",Regular
+C00716,Maharashtra,"2023-12-17 00:00:00",Regular
+C00717,"Tamil Nadu","2024-02-16 00:00:00",Regular
+C00718,Maharashtra,"2024-05-09 00:00:00",Regular
+C00719,"West Bengal","2023-05-08 00:00:00",Regular
+C00720,"Uttar Pradesh","2024-05-01 00:00:00",Regular
+C00721,Delhi,"2024-09-21 00:00:00",Regular
+C00722,Delhi,"2023-08-21 00:00:00",Regular
+C00723,Maharashtra,"2023-05-11 00:00:00",Regular
+C00724,"Uttar Pradesh","2023-09-10 00:00:00",Regular
+C00725,Maharashtra,"2023-07-20 00:00:00",Regular
+C00726,Maharashtra,"2024-03-03 00:00:00",Regular
+C00727,Karnataka,"2024-09-22 00:00:00",Regular
+C00728,Maharashtra,"2024-03-11 00:00:00",Regular
+C00729,Delhi,"2023-04-02 00:00:00",Regular
+C00730,Delhi,"2023-08-18 00:00:00",Regular
+C00731,Karnataka,"2024-05-18 00:00:00",Premium
+C00732,Maharashtra,"2023-08-30 00:00:00",Premium
+C00733,Maharashtra,"2024-03-04 00:00:00",Regular
+C00734,Delhi,"2024-05-21 00:00:00",Regular
+C00735,Maharashtra,"2023-08-29 00:00:00",Regular
+C00736,"West Bengal","2024-04-17 00:00:00",Regular
+C00737,Maharashtra,"2023-10-18 00:00:00",Regular
+C00738,Karnataka,"2023-04-09 00:00:00",Regular
+C00739,Delhi,"2023-09-29 00:00:00",Regular
+C00740,Delhi,"2023-11-18 00:00:00",Regular
+C00741,Maharashtra,"2023-01-02 00:00:00",Regular
+C00742,Maharashtra,"2024-10-13 00:00:00",Regular
+C00743,Telangana,"2024-01-21 00:00:00",Regular
+C00744,Maharashtra,"2023-01-27 00:00:00",Regular
+C00745,Delhi,"2024-09-25 00:00:00",Regular
+C00746,Delhi,"2024-09-16 00:00:00",Regular
+C00747,Karnataka,"2023-01-09 00:00:00",Regular
+C00748,Delhi,"2023-04-30 00:00:00",Regular
+C00749,Gujarat,"2023-09-23 00:00:00",Regular
+C00750,Telangana,"2024-01-06 00:00:00",Premium
+C00751,Karnataka,"2024-06-13 00:00:00",Regular
+C00752,Karnataka,"2023-11-06 00:00:00",Regular
+C00753,Karnataka,"2024-03-22 00:00:00",Regular
+C00754,Delhi,"2023-01-08 00:00:00",Premium
+C00755,"West Bengal","2024-04-25 00:00:00",Regular
+C00756,Karnataka,"2024-10-30 00:00:00",Premium
+C00757,Karnataka,"2024-01-20 00:00:00",Regular
+C00758,"Uttar Pradesh","2023-11-29 00:00:00",Regular
+C00759,Maharashtra,"2023-08-05 00:00:00",Regular
+C00760,Delhi,"2024-11-27 00:00:00",Regular
+C00761,"West Bengal","2023-01-25 00:00:00",Regular
+C00762,Maharashtra,"2023-07-29 00:00:00",Regular
+C00763,Maharashtra,"2023-04-12 00:00:00",Regular
+C00764,Maharashtra,"2024-09-24 00:00:00",Premium
+C00765,Telangana,"2023-12-19 00:00:00",Regular
+C00766,Maharashtra,"2024-11-04 00:00:00",Regular
+C00767,Maharashtra,"2024-04-30 00:00:00",Regular
+C00768,Maharashtra,"2024-02-11 00:00:00",Premium
+C00769,Maharashtra,"2024-01-13 00:00:00",Premium
+C00770,"Tamil Nadu","2023-05-28 00:00:00",Regular
+C00771,Karnataka,"2024-02-15 00:00:00",Premium
+C00772,"Tamil Nadu","2024-05-15 00:00:00",Premium
+C00773,"Tamil Nadu","2024-12-05 00:00:00",Premium
+C00774,Telangana,"2024-02-05 00:00:00",Premium
+C00775,Maharashtra,"2024-11-16 00:00:00",Regular
+C00776,Telangana,"2024-11-20 00:00:00",Regular
+C00777,"Tamil Nadu","2024-01-17 00:00:00",Regular
+C00778,Maharashtra,"2023-11-17 00:00:00",Regular
+C00779,Gujarat,"2023-04-15 00:00:00",Regular
+C00780,Telangana,"2023-07-16 00:00:00",Regular
+C00781,Karnataka,"2024-10-03 00:00:00",Premium
+C00782,Telangana,"2023-04-11 00:00:00",Regular
+C00783,Delhi,"2023-10-17 00:00:00",Premium
+C00784,"Tamil Nadu","2024-05-25 00:00:00",Regular
+C00785,"Uttar Pradesh","2023-06-25 00:00:00",Regular
+C00786,Karnataka,"2024-12-12 00:00:00",Regular
+C00787,Gujarat,"2024-04-19 00:00:00",Regular
+C00788,Karnataka,"2023-01-21 00:00:00",Regular
+C00789,Gujarat,"2023-06-30 00:00:00",Regular
+C00790,"Tamil Nadu","2024-06-24 00:00:00",Regular
+C00791,Maharashtra,"2024-09-22 00:00:00",Regular
+C00792,Delhi,"2024-11-07 00:00:00",Regular
+C00793,Karnataka,"2024-09-13 00:00:00",Premium
+C00794,Maharashtra,"2023-02-24 00:00:00",Regular
+C00795,Maharashtra,"2024-06-16 00:00:00",Regular
+C00796,Karnataka,"2023-03-22 00:00:00",Regular
+C00797,Maharashtra,"2023-02-25 00:00:00",Premium
+C00798,Maharashtra,"2024-05-20 00:00:00",Regular
+C00799,Gujarat,"2023-12-16 00:00:00",Regular
+C00800,"West Bengal","2024-04-18 00:00:00",Regular
+C00801,Gujarat,"2024-09-13 00:00:00",Regular
+C00802,Karnataka,"2023-02-20 00:00:00",Regular
+C00803,Telangana,"2024-01-21 00:00:00",Regular
+C00804,"Tamil Nadu","2024-09-01 00:00:00",Regular
+C00805,Maharashtra,"2023-11-18 00:00:00",Regular
+C00806,Maharashtra,"2024-01-18 00:00:00",Regular
+C00807,"West Bengal","2023-12-30 00:00:00",Premium
+C00808,Maharashtra,"2024-10-24 00:00:00",Regular
+C00809,Delhi,"2023-02-06 00:00:00",Regular
+C00810,"Uttar Pradesh","2024-10-02 00:00:00",Regular
+C00811,Maharashtra,"2024-08-18 00:00:00",Regular
+C00812,Maharashtra,"2024-08-16 00:00:00",Regular
+C00813,"Uttar Pradesh","2023-10-28 00:00:00",Regular
+C00814,"Tamil Nadu","2024-01-12 00:00:00",Regular
+C00815,Maharashtra,"2023-09-27 00:00:00",Regular
+C00816,Telangana,"2023-07-03 00:00:00",Regular
+C00817,Telangana,"2024-10-01 00:00:00",Regular
+C00818,"Tamil Nadu","2024-01-05 00:00:00",Premium
+C00819,NULL,"2024-06-12 00:00:00",Regular
+C00820,Karnataka,"2023-03-15 00:00:00",Regular
+C00821,Maharashtra,"2024-07-29 00:00:00",Regular
+C00822,"Tamil Nadu","2024-04-25 00:00:00",Regular
+C00823,Karnataka,"2024-12-29 00:00:00",Premium
+C00824,"West Bengal","2023-04-08 00:00:00",Regular
+C00825,Telangana,"2024-01-30 00:00:00",Regular
+C00826,Maharashtra,"2024-01-09 00:00:00",Regular
+C00827,"Tamil Nadu","2024-01-29 00:00:00",Regular
+C00828,Karnataka,"2023-02-09 00:00:00",Premium
+C00829,Telangana,"2023-12-12 00:00:00",Regular
+C00830,Karnataka,"2023-08-07 00:00:00",Regular
+C00831,"Tamil Nadu","2024-03-26 00:00:00",Regular
+C00832,"Tamil Nadu","2023-06-19 00:00:00",Regular
+C00833,Delhi,"2023-11-14 00:00:00",Regular
+C00834,"West Bengal","2024-03-28 00:00:00",Regular
+C00835,Gujarat,"2023-02-16 00:00:00",Regular
+C00836,"Tamil Nadu","2024-07-28 00:00:00",Regular
+C00837,Gujarat,"2024-06-06 00:00:00",Regular
+C00838,"Uttar Pradesh","2023-02-11 00:00:00",Regular
+C00839,Delhi,"2023-02-17 00:00:00",Premium
+C00840,Delhi,"2024-09-12 00:00:00",Regular
+C00841,Maharashtra,"2023-07-26 00:00:00",Regular
+C00842,Gujarat,"2024-09-20 00:00:00",Regular
+C00843,"Tamil Nadu","2023-12-31 00:00:00",Premium
+C00844,Delhi,"2023-09-07 00:00:00",Regular
+C00845,Maharashtra,"2023-07-19 00:00:00",Regular
+C00846,Telangana,"2024-04-26 00:00:00",Regular
+C00847,Delhi,"2023-03-22 00:00:00",Regular
+C00848,"West Bengal","2023-10-21 00:00:00",Regular
+C00849,Maharashtra,"2023-09-10 00:00:00",Regular
+C00850,"Uttar Pradesh","2023-04-23 00:00:00",Regular
+C00851,Maharashtra,"2023-09-15 00:00:00",Premium
+C00852,Maharashtra,"2024-01-21 00:00:00",Regular
+C00853,Telangana,"2024-05-09 00:00:00",Regular
+C00854,Telangana,"2023-03-05 00:00:00",Regular
+C00855,Maharashtra,"2024-09-28 00:00:00",Premium
+C00856,Delhi,"2024-10-03 00:00:00",Premium
+C00857,Gujarat,"2024-05-20 00:00:00",Regular
+C00858,Telangana,"2024-11-05 00:00:00",Regular
+C00859,Karnataka,"2023-11-09 00:00:00",Regular
+C00860,Delhi,"2024-08-22 00:00:00",Premium
+C00861,Gujarat,"2024-06-14 00:00:00",Regular
+C00862,Gujarat,"2024-02-15 00:00:00",Regular
+C00863,Gujarat,"2023-05-12 00:00:00",Regular
+C00864,"Tamil Nadu","2024-02-12 00:00:00",Premium
+C00865,Maharashtra,"2024-10-19 00:00:00",Premium
+C00866,Telangana,"2024-12-19 00:00:00",Premium
+C00867,Telangana,"2023-11-24 00:00:00",Regular
+C00868,Gujarat,"2023-06-30 00:00:00",Regular
+C00869,Maharashtra,"2024-06-29 00:00:00",Premium
+C00870,Maharashtra,"2023-02-25 00:00:00",Regular
+C00871,Gujarat,"2023-04-21 00:00:00",Regular
+C00872,Maharashtra,"2024-02-15 00:00:00",Premium
+C00873,"Uttar Pradesh","2024-12-23 00:00:00",Regular
+C00874,Karnataka,"2023-08-29 00:00:00",Regular
+C00875,"West Bengal","2023-11-20 00:00:00",Regular
+C00876,Telangana,"2023-08-24 00:00:00",Regular
+C00877,Delhi,"2023-11-18 00:00:00",Regular
+C00878,Karnataka,"2023-01-06 00:00:00",Regular
+C00879,"Tamil Nadu","2024-03-10 00:00:00",Regular
+C00880,"Tamil Nadu","2024-03-11 00:00:00",Premium
+C00881,Delhi,"2023-08-19 00:00:00",Regular
+C00882,"Tamil Nadu","2023-07-12 00:00:00",Regular
+C00883,"Uttar Pradesh","2024-07-09 00:00:00",Regular
+C00884,Delhi,"2023-05-18 00:00:00",Regular
+C00885,Maharashtra,"2023-02-04 00:00:00",Regular
+C00886,Karnataka,"2023-01-30 00:00:00",Regular
+C00887,Delhi,"2024-10-05 00:00:00",Regular
+C00888,Maharashtra,"2023-09-23 00:00:00",Regular
+C00889,Maharashtra,"2023-03-16 00:00:00",Regular
+C00890,"West Bengal","2024-10-03 00:00:00",Premium
+C00891,Karnataka,"2023-04-19 00:00:00",Regular
+C00892,"Uttar Pradesh","2023-09-03 00:00:00",Regular
+C00893,Karnataka,"2023-01-16 00:00:00",Premium
+C00894,Maharashtra,"2024-05-10 00:00:00",Regular
+C00895,Gujarat,"2024-05-25 00:00:00",Regular
+C00896,Telangana,"2024-07-06 00:00:00",Regular
+C00897,Karnataka,"2023-07-12 00:00:00",Regular
+C00898,Maharashtra,"2023-08-28 00:00:00",Regular
+C00899,Maharashtra,"2024-11-15 00:00:00",Regular
+C00900,"Tamil Nadu","2024-08-22 00:00:00",Regular
+C00901,Delhi,"2023-01-28 00:00:00",Regular
+C00902,Karnataka,"2024-05-20 00:00:00",Regular
+C00903,Maharashtra,"2024-08-16 00:00:00",Regular
+C00904,Delhi,"2024-02-13 00:00:00",Regular
+C00905,"Uttar Pradesh","2024-04-12 00:00:00",Regular
+C00906,"West Bengal","2023-01-01 00:00:00",Regular
+C00907,Delhi,"2023-01-22 00:00:00",Regular
+C00908,Maharashtra,"2023-01-26 00:00:00",Regular
+C00909,Karnataka,"2023-04-27 00:00:00",Regular
+C00910,Karnataka,"2024-12-24 00:00:00",Premium
+C00911,Gujarat,"2024-04-08 00:00:00",Regular
+C00912,Telangana,"2024-07-25 00:00:00",Regular
+C00913,Telangana,"2023-08-04 00:00:00",Regular
+C00914,"Uttar Pradesh","2024-11-15 00:00:00",Regular
+C00915,"Uttar Pradesh","2023-05-26 00:00:00",Regular
+C00916,"Uttar Pradesh","2024-10-20 00:00:00",Regular
+C00917,Maharashtra,"2023-01-23 00:00:00",Regular
+C00918,Maharashtra,"2023-01-15 00:00:00",Premium
+C00919,Karnataka,"2023-02-27 00:00:00",Regular
+C00920,"Tamil Nadu","2024-08-01 00:00:00",Regular
+C00921,Maharashtra,"2023-07-07 00:00:00",Regular
+C00922,Telangana,"2023-11-26 00:00:00",Regular
+C00923,"Tamil Nadu","2023-12-11 00:00:00",Regular
+C00924,"Tamil Nadu","2024-07-30 00:00:00",Regular
+C00925,Maharashtra,"2023-09-12 00:00:00",Premium
+C00926,Karnataka,"2023-01-05 00:00:00",Regular
+C00927,Maharashtra,"2023-10-10 00:00:00",Premium
+C00928,Telangana,"2023-07-30 00:00:00",Premium
+C00929,"Tamil Nadu","2024-06-17 00:00:00",Premium
+C00930,Gujarat,"2024-07-02 00:00:00",Regular
+C00931,Karnataka,"2023-03-09 00:00:00",Regular
+C00932,Karnataka,"2024-08-01 00:00:00",Regular
+C00933,Delhi,"2023-02-21 00:00:00",Regular
+C00934,Gujarat,"2024-03-28 00:00:00",Regular
+C00935,Gujarat,"2023-10-12 00:00:00",Regular
+C00936,Maharashtra,"2023-08-08 00:00:00",Regular
+C00937,"Uttar Pradesh","2023-12-19 00:00:00",Premium
+C00938,Maharashtra,"2023-08-15 00:00:00",Regular
+C00939,Telangana,"2024-08-02 00:00:00",Premium
+C00940,Maharashtra,"2024-12-06 00:00:00",Regular
+C00941,Karnataka,"2024-08-18 00:00:00",Regular
+C00942,Telangana,"2023-11-17 00:00:00",Premium
+C00943,Maharashtra,"2024-01-03 00:00:00",Premium
+C00944,Delhi,"2023-11-23 00:00:00",Regular
+C00945,Delhi,"2024-08-02 00:00:00",Premium
+C00946,Karnataka,"2024-02-08 00:00:00",Regular
+C00947,"West Bengal","2023-12-08 00:00:00",Premium
+C00948,Telangana,"2023-10-26 00:00:00",Regular
+C00949,Telangana,"2023-10-01 00:00:00",Regular
+C00950,Karnataka,"2024-02-08 00:00:00",Regular
+C00951,"Tamil Nadu","2024-05-17 00:00:00",Regular
+C00952,Karnataka,"2023-11-12 00:00:00",Regular
+C00953,Karnataka,"2024-08-11 00:00:00",Regular
+C00954,Maharashtra,"2024-08-26 00:00:00",Regular
+C00955,"Uttar Pradesh","2023-11-10 00:00:00",Premium
+C00956,Telangana,"2024-10-25 00:00:00",Regular
+C00957,Gujarat,"2023-05-07 00:00:00",Regular
+C00958,Delhi,"2024-11-11 00:00:00",Regular
+C00959,Delhi,"2023-08-03 00:00:00",Regular
+C00960,"Tamil Nadu","2024-02-16 00:00:00",Regular
+C00961,"Tamil Nadu","2023-07-27 00:00:00",Regular
+C00962,Delhi,"2023-11-19 00:00:00",Regular
+C00963,Maharashtra,"2023-09-06 00:00:00",Regular
+C00964,Maharashtra,"2024-05-29 00:00:00",Regular
+C00965,"Uttar Pradesh","2023-03-01 00:00:00",Regular
+C00966,Delhi,"2024-09-03 00:00:00",Premium
+C00967,"Uttar Pradesh","2024-10-21 00:00:00",Regular
+C00968,Maharashtra,"2024-02-15 00:00:00",Regular
+C00969,"Tamil Nadu","2024-02-04 00:00:00",Regular
+C00970,NULL,"2024-05-25 00:00:00",Regular
+C00971,Karnataka,"2023-05-26 00:00:00",Regular
+C00972,Maharashtra,"2024-07-01 00:00:00",Regular
+C00973,Maharashtra,"2023-06-09 00:00:00",Premium
+C00974,Telangana,"2024-05-08 00:00:00",Regular
+C00975,Karnataka,"2023-08-12 00:00:00",Regular
+C00976,"Tamil Nadu","2024-06-28 00:00:00",Regular
+C00977,Delhi,"2024-07-31 00:00:00",Regular
+C00978,Delhi,"2023-06-02 00:00:00",Regular
+C00979,"Tamil Nadu","2024-03-26 00:00:00",Regular
+C00980,Maharashtra,"2023-12-30 00:00:00",Premium
+C00981,"Uttar Pradesh","2023-08-03 00:00:00",Regular
+C00982,Gujarat,"2024-03-05 00:00:00",Regular
+C00983,Gujarat,"2024-12-25 00:00:00",Regular
+C00984,Delhi,"2023-01-02 00:00:00",Regular
+C00985,Maharashtra,"2024-11-29 00:00:00",Premium
+C00986,"Uttar Pradesh","2024-09-16 00:00:00",Premium
+C00987,Karnataka,"2024-01-22 00:00:00",Premium
+C00988,Maharashtra,"2024-03-21 00:00:00",Regular
+C00989,Karnataka,"2023-09-27 00:00:00",Regular
+C00990,Gujarat,"2023-04-05 00:00:00",Regular
+C00991,"Tamil Nadu","2024-02-22 00:00:00",Regular
+C00992,Gujarat,"2024-08-18 00:00:00",Regular
+C00993,Gujarat,"2023-06-18 00:00:00",Regular
+C00994,Maharashtra,"2024-06-07 00:00:00",Regular
+C00995,"Uttar Pradesh","2024-06-30 00:00:00",Premium
+C00996,Delhi,"2024-07-07 00:00:00",Regular
+C00997,"Tamil Nadu","2023-09-06 00:00:00",Premium
+C00998,Maharashtra,"2023-10-14 00:00:00",Regular
+C00999,"Uttar Pradesh","2023-10-31 00:00:00",Regular
+C01000,Karnataka,"2024-09-15 00:00:00",Regular
+C01001,Maharashtra,"2024-10-19 00:00:00",Regular
+C01002,Delhi,"2023-10-30 00:00:00",Regular
+C01003,Maharashtra,"2024-12-09 00:00:00",Regular
+C01004,Maharashtra,"2024-02-21 00:00:00",Regular
+C01005,"Tamil Nadu","2023-10-09 00:00:00",Premium
+C01006,Delhi,"2023-01-01 00:00:00",Regular
+C01007,"Uttar Pradesh","2024-03-22 00:00:00",Regular
+C01008,Karnataka,"2024-04-15 00:00:00",Regular
+C01009,Gujarat,"2024-12-07 00:00:00",Regular
+C01010,Delhi,"2024-06-08 00:00:00",Regular
+C01011,"West Bengal","2023-01-22 00:00:00",Regular
+C01012,"Tamil Nadu","2024-02-18 00:00:00",Regular
+C01013,Delhi,"2024-06-26 00:00:00",Regular
+C01014,"Uttar Pradesh","2023-12-29 00:00:00",Regular
+C01015,Karnataka,"2023-11-10 00:00:00",Regular
+C01016,Maharashtra,"2024-08-14 00:00:00",Premium
+C01017,"West Bengal","2024-03-22 00:00:00",Regular
+C01018,Telangana,"2024-05-12 00:00:00",Regular
+C01019,Maharashtra,"2023-12-05 00:00:00",Regular
+C01020,Delhi,"2023-07-22 00:00:00",Regular
+C01021,Telangana,"2024-01-14 00:00:00",Regular
+C01022,Gujarat,"2024-12-01 00:00:00",Regular
+C01023,"Uttar Pradesh","2024-03-15 00:00:00",Regular
+C01024,"Tamil Nadu","2024-05-31 00:00:00",Regular
+C01025,"West Bengal","2023-04-01 00:00:00",Regular
+C01026,Karnataka,"2024-12-22 00:00:00",Premium
+C01027,"Uttar Pradesh","2023-06-28 00:00:00",Regular
+C01028,Karnataka,"2024-12-10 00:00:00",Regular
+C01029,Gujarat,"2023-11-22 00:00:00",Premium
+C01030,Delhi,"2024-11-01 00:00:00",Premium
+C01031,"Tamil Nadu","2024-10-13 00:00:00",Regular
+C01032,"West Bengal","2024-07-05 00:00:00",Premium
+C01033,Delhi,"2024-10-30 00:00:00",Regular
+C01034,Telangana,"2024-03-20 00:00:00",Regular
+C01035,Delhi,"2024-09-11 00:00:00",Premium
+C01036,"West Bengal","2023-05-06 00:00:00",Regular
+C01037,Karnataka,"2023-02-21 00:00:00",Regular
+C01038,Delhi,"2024-02-01 00:00:00",Regular
+C01039,Delhi,"2024-08-14 00:00:00",Regular
+C01040,Maharashtra,"2024-07-12 00:00:00",Regular
+C01041,Maharashtra,"2024-01-21 00:00:00",Premium
+C01042,"West Bengal","2024-01-16 00:00:00",Regular
+C01043,"West Bengal","2024-03-21 00:00:00",Regular
+C01044,"West Bengal","2024-09-25 00:00:00",Regular
+C01045,Maharashtra,"2024-09-06 00:00:00",Regular
+C01046,Karnataka,"2023-03-22 00:00:00",Regular
+C01047,Maharashtra,"2024-03-10 00:00:00",Premium
+C01048,Gujarat,"2023-10-06 00:00:00",Regular
+C01049,Telangana,"2024-08-06 00:00:00",Regular
+C01050,Karnataka,"2024-01-05 00:00:00",Regular
+C01051,"West Bengal","2024-12-24 00:00:00",Regular
+C01052,Maharashtra,"2023-11-12 00:00:00",Regular
+C01053,Karnataka,"2024-05-10 00:00:00",Regular
+C01054,Maharashtra,"2023-03-21 00:00:00",Regular
+C01055,Karnataka,"2024-11-11 00:00:00",Regular
+C01056,"West Bengal","2023-04-23 00:00:00",Premium
+C01057,Telangana,"2023-10-04 00:00:00",Regular
+C01058,Maharashtra,"2024-09-03 00:00:00",Regular
+C01059,"Tamil Nadu","2024-12-07 00:00:00",Regular
+C01060,NULL,"2023-12-20 00:00:00",Regular
+C01061,"Uttar Pradesh","2023-12-20 00:00:00",Premium
+C01062,"Tamil Nadu","2023-02-05 00:00:00",Regular
+C01063,Karnataka,"2024-12-15 00:00:00",Regular
+C01064,"Tamil Nadu","2023-01-13 00:00:00",Regular
+C01065,Karnataka,"2023-01-20 00:00:00",Premium
+C01066,"Uttar Pradesh","2023-12-12 00:00:00",Regular
+C01067,Delhi,"2023-01-03 00:00:00",Regular
+C01068,"West Bengal","2023-04-30 00:00:00",Regular
+C01069,Maharashtra,"2024-04-03 00:00:00",Regular
+C01070,Delhi,"2024-05-29 00:00:00",Premium
+C01071,Telangana,"2023-08-06 00:00:00",Regular
+C01072,"Tamil Nadu","2024-08-03 00:00:00",Regular
+C01073,Delhi,"2024-03-19 00:00:00",Regular
+C01074,"Uttar Pradesh","2023-06-16 00:00:00",Premium
+C01075,Telangana,"2024-06-04 00:00:00",Regular
+C01076,Karnataka,"2024-03-08 00:00:00",Regular
+C01077,"Tamil Nadu","2024-08-15 00:00:00",Premium
+C01078,Delhi,"2023-04-23 00:00:00",Regular
+C01079,"Tamil Nadu","2023-06-18 00:00:00",Premium
+C01080,Karnataka,"2023-08-10 00:00:00",Regular
+C01081,Karnataka,"2023-09-07 00:00:00",Regular
+C01082,Telangana,"2024-10-10 00:00:00",Regular
+C01083,"Uttar Pradesh","2024-06-18 00:00:00",Regular
+C01084,Telangana,"2024-02-02 00:00:00",Regular
+C01085,"Uttar Pradesh","2024-01-30 00:00:00",Regular
+C01086,Gujarat,"2024-10-08 00:00:00",Premium
+C01087,Gujarat,"2023-11-23 00:00:00",Regular
+C01088,Gujarat,"2023-06-14 00:00:00",Regular
+C01089,Delhi,"2023-04-10 00:00:00",Regular
+C01090,Delhi,"2023-08-29 00:00:00",Regular
+C01091,Karnataka,"2024-04-21 00:00:00",Regular
+C01092,"West Bengal","2023-12-10 00:00:00",Regular
+C01093,Karnataka,"2023-11-04 00:00:00",Regular
+C01094,Karnataka,"2023-12-17 00:00:00",Regular
+C01095,"Tamil Nadu","2024-12-12 00:00:00",Regular
+C01096,Delhi,"2024-12-29 00:00:00",Regular
+C01097,Maharashtra,"2023-04-28 00:00:00",Premium
+C01098,Gujarat,"2023-03-25 00:00:00",Regular
+C01099,Telangana,"2023-06-28 00:00:00",Regular
+C01100,Maharashtra,"2024-09-13 00:00:00",Regular
+C01101,Maharashtra,"2023-12-02 00:00:00",Regular
+C01102,Karnataka,"2024-09-22 00:00:00",Regular
+C01103,Gujarat,"2024-04-17 00:00:00",Premium
+C01104,NULL,"2024-02-08 00:00:00",Premium
+C01105,Maharashtra,"2023-07-25 00:00:00",Regular
+C01106,Gujarat,"2023-09-09 00:00:00",Regular
+C01107,Maharashtra,"2023-04-18 00:00:00",Regular
+C01108,Delhi,"2024-01-15 00:00:00",Regular
+C01109,"Uttar Pradesh","2023-07-24 00:00:00",Regular
+C01110,Maharashtra,"2023-08-02 00:00:00",Regular
+C01111,Maharashtra,"2023-01-29 00:00:00",Regular
+C01112,Delhi,"2024-08-06 00:00:00",Regular
+C01113,"Tamil Nadu","2024-11-16 00:00:00",Regular
+C01114,"Uttar Pradesh","2023-12-30 00:00:00",Regular
+C01115,"Uttar Pradesh","2024-01-27 00:00:00",Regular
+C01116,Maharashtra,"2024-11-06 00:00:00",Regular
+C01117,Maharashtra,"2024-01-09 00:00:00",Regular
+C01118,Gujarat,"2024-03-30 00:00:00",Premium
+C01119,Karnataka,"2023-11-09 00:00:00",Regular
+C01120,Telangana,"2024-01-11 00:00:00",Regular
+C01121,"West Bengal","2024-01-16 00:00:00",Regular
+C01122,Maharashtra,"2024-06-03 00:00:00",Regular
+C01123,Telangana,"2024-03-17 00:00:00",Regular
+C01124,Maharashtra,"2024-01-03 00:00:00",Regular
+C01125,Delhi,"2023-02-25 00:00:00",Regular
+C01126,"Tamil Nadu","2024-10-22 00:00:00",Regular
+C01127,Delhi,"2024-10-10 00:00:00",Regular
+C01128,"West Bengal","2023-05-15 00:00:00",Regular
+C01129,"West Bengal","2023-08-03 00:00:00",Regular
+C01130,"Uttar Pradesh","2024-12-11 00:00:00",Regular
+C01131,NULL,"2023-08-23 00:00:00",Regular
+C01132,Delhi,"2024-08-15 00:00:00",Regular
+C01133,Maharashtra,"2024-07-27 00:00:00",Regular
+C01134,Gujarat,"2024-09-20 00:00:00",Regular
+C01135,"Uttar Pradesh","2023-01-12 00:00:00",Regular
+C01136,Karnataka,"2023-12-19 00:00:00",Regular
+C01137,NULL,"2024-02-17 00:00:00",Regular
+C01138,Delhi,"2024-09-03 00:00:00",Regular
+C01139,Maharashtra,"2023-06-13 00:00:00",Regular
+C01140,"West Bengal","2023-08-12 00:00:00",Regular
+C01141,Karnataka,"2023-05-12 00:00:00",Regular
+C01142,Gujarat,"2024-07-10 00:00:00",Regular
+C01143,Telangana,"2024-12-30 00:00:00",Regular
+C01144,Telangana,"2023-04-13 00:00:00",Regular
+C01145,Delhi,"2023-06-20 00:00:00",Regular
+C01146,Karnataka,"2023-08-13 00:00:00",Regular
+C01147,Gujarat,"2024-10-10 00:00:00",Regular
+C01148,Gujarat,"2023-11-22 00:00:00",Regular
+C01149,Delhi,"2023-07-25 00:00:00",Regular
+C01150,Telangana,"2023-08-24 00:00:00",Regular
+C01151,Maharashtra,"2024-03-12 00:00:00",Premium
+C01152,Telangana,"2023-10-10 00:00:00",Regular
+C01153,Maharashtra,"2023-04-13 00:00:00",Regular
+C01154,Maharashtra,"2024-08-21 00:00:00",Regular
+C01155,"Tamil Nadu","2023-11-05 00:00:00",Regular
+C01156,Maharashtra,"2023-07-07 00:00:00",Regular
+C01157,Maharashtra,"2024-06-15 00:00:00",Premium
+C01158,Maharashtra,"2024-06-28 00:00:00",Regular
+C01159,Delhi,"2023-04-24 00:00:00",Regular
+C01160,Gujarat,"2023-02-23 00:00:00",Regular
+C01161,Maharashtra,"2023-02-03 00:00:00",Regular
+C01162,"West Bengal","2024-07-12 00:00:00",Regular
+C01163,Telangana,"2024-04-01 00:00:00",Regular
+C01164,Maharashtra,"2024-08-01 00:00:00",Regular
+C01165,Maharashtra,"2024-04-02 00:00:00",Regular
+C01166,Telangana,"2023-10-21 00:00:00",Regular
+C01167,Telangana,"2024-03-06 00:00:00",Regular
+C01168,"Tamil Nadu","2024-06-11 00:00:00",Premium
+C01169,Gujarat,"2023-10-19 00:00:00",Regular
+C01170,Maharashtra,"2024-10-30 00:00:00",Premium
+C01171,Delhi,"2024-10-18 00:00:00",Regular
+C01172,Gujarat,"2024-08-07 00:00:00",Premium
+C01173,Karnataka,"2024-12-25 00:00:00",Regular
+C01174,Gujarat,"2023-10-13 00:00:00",Regular
+C01175,Delhi,"2023-03-25 00:00:00",Regular
+C01176,Gujarat,"2023-12-20 00:00:00",Premium
+C01177,Delhi,"2024-06-28 00:00:00",Regular
+C01178,Karnataka,"2024-07-22 00:00:00",Regular
+C01179,Maharashtra,"2023-10-11 00:00:00",Regular
+C01180,Maharashtra,"2023-08-02 00:00:00",Regular
+C01181,NULL,"2023-11-22 00:00:00",Premium
+C01182,Maharashtra,"2024-08-09 00:00:00",Regular
+C01183,Maharashtra,"2023-02-14 00:00:00",Regular
+C01184,Maharashtra,"2023-08-28 00:00:00",Regular
+C01185,Maharashtra,"2023-06-17 00:00:00",Regular
+C01186,Telangana,"2024-08-11 00:00:00",Regular
+C01187,Delhi,"2023-12-09 00:00:00",Regular
+C01188,"Uttar Pradesh","2023-03-05 00:00:00",Regular
+C01189,Maharashtra,"2023-07-11 00:00:00",Regular
+C01190,"West Bengal","2023-02-02 00:00:00",Premium
+C01191,Delhi,"2023-12-14 00:00:00",Regular
+C01192,Delhi,"2024-12-29 00:00:00",Regular
+C01193,Telangana,"2024-02-19 00:00:00",Regular
+C01194,"Uttar Pradesh","2024-09-26 00:00:00",Premium
+C01195,Telangana,"2024-06-26 00:00:00",Regular
+C01196,Maharashtra,"2024-10-06 00:00:00",Regular
+C01197,Karnataka,"2023-08-16 00:00:00",Regular
+C01198,"West Bengal","2024-11-25 00:00:00",Premium
+C01199,Karnataka,"2023-06-24 00:00:00",Premium
+C01200,Gujarat,"2023-11-16 00:00:00",Regular
+C01201,"Tamil Nadu","2024-05-12 00:00:00",Premium
+C01202,"Tamil Nadu","2023-07-29 00:00:00",Regular
+C01203,Telangana,"2023-07-13 00:00:00",Regular
+C01204,"West Bengal","2023-04-05 00:00:00",Regular
+C01205,Maharashtra,"2023-01-04 00:00:00",Regular
+C01206,Maharashtra,"2024-01-01 00:00:00",Regular
+C01207,"Tamil Nadu","2024-12-21 00:00:00",Premium
+C01208,Delhi,"2023-06-10 00:00:00",Premium
+C01209,Karnataka,"2023-11-18 00:00:00",Regular
+C01210,Delhi,"2024-11-13 00:00:00",Regular
+C01211,Gujarat,"2024-07-17 00:00:00",Regular
+C01212,Telangana,"2023-01-03 00:00:00",Regular
+C01213,"Tamil Nadu","2024-01-01 00:00:00",Premium
+C01214,Delhi,"2023-04-15 00:00:00",Regular
+C01215,Karnataka,"2023-06-30 00:00:00",Regular
+C01216,"Tamil Nadu","2023-06-29 00:00:00",Regular
+C01217,Karnataka,"2024-03-23 00:00:00",Premium
+C01218,"Tamil Nadu","2023-05-26 00:00:00",Premium
+C01219,"West Bengal","2023-07-03 00:00:00",Regular
+C01220,Maharashtra,"2023-06-14 00:00:00",Regular
+C01221,Maharashtra,"2023-09-18 00:00:00",Regular
+C01222,Maharashtra,"2024-04-23 00:00:00",Regular
+C01223,Telangana,"2023-10-19 00:00:00",Regular
+C01224,"West Bengal","2023-08-28 00:00:00",Premium
+C01225,Maharashtra,"2024-01-13 00:00:00",Premium
+C01226,NULL,"2024-03-24 00:00:00",Premium
+C01227,Delhi,"2023-01-12 00:00:00",Regular
+C01228,Delhi,"2024-10-11 00:00:00",Regular
+C01229,"Uttar Pradesh","2024-10-30 00:00:00",Premium
+C01230,Maharashtra,"2024-03-15 00:00:00",Regular
+C01231,Maharashtra,"2024-02-24 00:00:00",Regular
+C01232,"Tamil Nadu","2024-05-22 00:00:00",Premium
+C01233,Maharashtra,"2023-11-18 00:00:00",Regular
+C01234,"West Bengal","2023-09-24 00:00:00",Premium
+C01235,Maharashtra,"2023-09-15 00:00:00",Regular
+C01236,Maharashtra,"2023-04-27 00:00:00",Premium
+C01237,Maharashtra,"2024-09-06 00:00:00",Regular
+C01238,Delhi,"2023-08-23 00:00:00",Regular
+C01239,Maharashtra,"2023-07-27 00:00:00",Premium
+C01240,Maharashtra,"2024-12-04 00:00:00",Regular
+C01241,Telangana,"2024-01-05 00:00:00",Regular
+C01242,Karnataka,"2024-03-29 00:00:00",Regular
+C01243,Karnataka,"2023-06-29 00:00:00",Regular
+C01244,Maharashtra,"2023-07-22 00:00:00",Premium
+C01245,Karnataka,"2024-06-15 00:00:00",Regular
+C01246,Karnataka,"2023-11-26 00:00:00",Regular
+C01247,"Tamil Nadu","2023-04-18 00:00:00",Regular
+C01248,Maharashtra,"2024-09-01 00:00:00",Premium
+C01249,Telangana,"2023-10-22 00:00:00",Premium
+C01250,"Uttar Pradesh","2024-05-02 00:00:00",Premium
+C01251,Maharashtra,"2023-09-07 00:00:00",Regular
+C01252,Maharashtra,"2024-02-14 00:00:00",Regular
+C01253,Maharashtra,"2024-07-20 00:00:00",Regular
+C01254,"Tamil Nadu","2024-10-08 00:00:00",Regular
+C01255,Maharashtra,"2023-06-01 00:00:00",Regular
+C01256,Telangana,"2024-05-05 00:00:00",Regular
+C01257,Gujarat,"2024-10-29 00:00:00",Regular
+C01258,Gujarat,"2024-04-14 00:00:00",Regular
+C01259,"Tamil Nadu","2023-04-15 00:00:00",Regular
+C01260,"Uttar Pradesh","2023-05-19 00:00:00",Regular
+C01261,Maharashtra,"2023-05-29 00:00:00",Regular
+C01262,Delhi,"2023-03-19 00:00:00",Premium
+C01263,Karnataka,"2024-07-04 00:00:00",Regular
+C01264,"Uttar Pradesh","2024-12-05 00:00:00",Premium
+C01265,"Tamil Nadu","2024-01-13 00:00:00",Regular
+C01266,Gujarat,"2024-03-13 00:00:00",Regular
+C01267,Maharashtra,"2024-07-18 00:00:00",Regular
+C01268,"Uttar Pradesh","2023-10-31 00:00:00",Regular
+C01269,Delhi,"2023-12-11 00:00:00",Regular
+C01270,Delhi,"2024-03-05 00:00:00",Regular
+C01271,"Uttar Pradesh","2023-08-11 00:00:00",Premium
+C01272,Delhi,"2023-02-15 00:00:00",Premium
+C01273,Delhi,"2024-02-19 00:00:00",Regular
+C01274,"Tamil Nadu","2024-08-23 00:00:00",Regular
+C01275,Maharashtra,"2023-02-23 00:00:00",Regular
+C01276,Karnataka,"2023-06-08 00:00:00",Regular
+C01277,Maharashtra,"2023-07-11 00:00:00",Regular
+C01278,Maharashtra,"2024-08-10 00:00:00",Regular
+C01279,Telangana,"2024-01-04 00:00:00",Regular
+C01280,"Tamil Nadu","2024-01-26 00:00:00",Regular
+C01281,Karnataka,"2024-04-16 00:00:00",Premium
+C01282,Delhi,"2023-07-21 00:00:00",Premium
+C01283,Delhi,"2024-06-04 00:00:00",Regular
+C01284,"Tamil Nadu","2023-01-23 00:00:00",Premium
+C01285,"Uttar Pradesh","2023-03-25 00:00:00",Regular
+C01286,"Uttar Pradesh","2024-08-18 00:00:00",Regular
+C01287,Delhi,"2024-04-25 00:00:00",Premium
+C01288,Karnataka,"2023-05-09 00:00:00",Premium
+C01289,Delhi,"2023-11-17 00:00:00",Premium
+C01290,"Tamil Nadu","2023-02-07 00:00:00",Regular
+C01291,Delhi,"2024-05-05 00:00:00",Premium
+C01292,"West Bengal","2024-07-05 00:00:00",Regular
+C01293,"Tamil Nadu","2023-07-23 00:00:00",Regular
+C01294,Karnataka,"2023-09-13 00:00:00",Regular
+C01295,Karnataka,"2023-06-22 00:00:00",Regular
+C01296,Karnataka,"2023-10-12 00:00:00",Regular
+C01297,Maharashtra,"2023-07-18 00:00:00",Regular
+C01298,Maharashtra,"2023-06-30 00:00:00",Premium
+C01299,Gujarat,"2023-11-11 00:00:00",Regular
+C01300,Delhi,"2024-09-19 00:00:00",Regular
+C01301,Maharashtra,"2024-07-10 00:00:00",Regular
+C01302,"Tamil Nadu","2023-08-06 00:00:00",Regular
+C01303,Gujarat,"2024-11-19 00:00:00",Regular
+C01304,Karnataka,"2023-06-03 00:00:00",Regular
+C01305,Telangana,"2024-10-26 00:00:00",Regular
+C01306,"Uttar Pradesh","2023-08-14 00:00:00",Regular
+C01307,"Tamil Nadu","2024-01-30 00:00:00",Regular
+C01308,"West Bengal","2023-05-29 00:00:00",Premium
+C01309,Maharashtra,"2024-07-10 00:00:00",Regular
+C01310,"Uttar Pradesh","2023-08-20 00:00:00",Regular
+C01311,Delhi,"2024-09-28 00:00:00",Regular
+C01312,"Uttar Pradesh","2023-03-02 00:00:00",Regular
+C01313,"Tamil Nadu","2024-01-02 00:00:00",Regular
+C01314,Maharashtra,"2023-04-26 00:00:00",Regular
+C01315,Maharashtra,"2024-10-10 00:00:00",Regular
+C01316,"West Bengal","2023-11-01 00:00:00",Regular
+C01317,"Tamil Nadu","2024-05-07 00:00:00",Regular
+C01318,Maharashtra,"2024-10-04 00:00:00",Regular
+C01319,Gujarat,"2024-01-27 00:00:00",Regular
+C01320,Telangana,"2023-02-11 00:00:00",Regular
+C01321,Delhi,"2023-06-11 00:00:00",Regular
+C01322,Delhi,"2023-06-05 00:00:00",Premium
+C01323,Maharashtra,"2024-10-29 00:00:00",Regular
+C01324,Gujarat,"2024-10-25 00:00:00",Regular
+C01325,Karnataka,"2023-12-15 00:00:00",Regular
+C01326,Telangana,"2024-10-11 00:00:00",Regular
+C01327,Karnataka,"2023-06-29 00:00:00",Regular
+C01328,"Tamil Nadu","2024-05-10 00:00:00",Regular
+C01329,Karnataka,"2023-10-14 00:00:00",Regular
+C01330,Maharashtra,"2023-06-25 00:00:00",Regular
+C01331,Gujarat,"2023-07-02 00:00:00",Regular
+C01332,Delhi,"2023-11-03 00:00:00",Regular
+C01333,"Tamil Nadu","2023-09-05 00:00:00",Regular
+C01334,"Uttar Pradesh","2023-06-04 00:00:00",Regular
+C01335,"Uttar Pradesh","2023-09-01 00:00:00",Regular
+C01336,Telangana,"2023-04-04 00:00:00",Regular
+C01337,Maharashtra,"2024-12-08 00:00:00",Premium
+C01338,NULL,"2023-10-05 00:00:00",Regular
+C01339,Telangana,"2023-03-20 00:00:00",Regular
+C01340,Karnataka,"2024-02-25 00:00:00",Regular
+C01341,Maharashtra,"2024-10-06 00:00:00",Regular
+C01342,Gujarat,"2023-09-20 00:00:00",Regular
+C01343,Delhi,"2024-09-09 00:00:00",Regular
+C01344,"Tamil Nadu","2024-03-21 00:00:00",Regular
+C01345,"Uttar Pradesh","2024-06-23 00:00:00",Regular
+C01346,"Tamil Nadu","2023-08-05 00:00:00",Premium
+C01347,Delhi,"2023-01-27 00:00:00",Premium
+C01348,Karnataka,"2023-09-10 00:00:00",Regular
+C01349,Delhi,"2024-11-05 00:00:00",Regular
+C01350,Maharashtra,"2024-07-31 00:00:00",Regular
+C01351,Gujarat,"2024-07-26 00:00:00",Premium
+C01352,Telangana,"2024-10-03 00:00:00",Premium
+C01353,Karnataka,"2023-09-30 00:00:00",Regular
+C01354,Karnataka,"2023-08-24 00:00:00",Regular
+C01355,Telangana,"2024-11-06 00:00:00",Regular
+C01356,Maharashtra,"2024-02-22 00:00:00",Premium
+C01357,"Tamil Nadu","2023-08-06 00:00:00",Regular
+C01358,Delhi,"2023-07-23 00:00:00",Regular
+C01359,"West Bengal","2024-10-02 00:00:00",Regular
+C01360,Maharashtra,"2023-02-08 00:00:00",Regular
+C01361,"West Bengal","2023-02-15 00:00:00",Regular
+C01362,Karnataka,"2024-06-22 00:00:00",Regular
+C01363,"Tamil Nadu","2023-01-01 00:00:00",Regular
+C01364,Maharashtra,"2023-05-05 00:00:00",Regular
+C01365,Delhi,"2024-12-24 00:00:00",Regular
+C01366,"Tamil Nadu","2023-11-07 00:00:00",Regular
+C01367,Maharashtra,"2024-06-15 00:00:00",Premium
+C01368,Maharashtra,"2023-12-22 00:00:00",Regular
+C01369,Maharashtra,"2023-03-08 00:00:00",Regular
+C01370,Karnataka,"2023-05-15 00:00:00",Regular
+C01371,Maharashtra,"2024-07-09 00:00:00",Regular
+C01372,"Uttar Pradesh","2023-03-11 00:00:00",Regular
+C01373,Delhi,"2024-03-10 00:00:00",Regular
+C01374,Gujarat,"2023-09-12 00:00:00",Regular
+C01375,"Uttar Pradesh","2023-09-28 00:00:00",Regular
+C01376,Maharashtra,"2024-11-26 00:00:00",Regular
+C01377,"West Bengal","2024-03-18 00:00:00",Regular
+C01378,Telangana,"2024-03-25 00:00:00",Regular
+C01379,"Tamil Nadu","2023-09-13 00:00:00",Regular
+C01380,Delhi,"2023-10-06 00:00:00",Regular
+C01381,Delhi,"2024-05-15 00:00:00",Regular
+C01382,Maharashtra,"2023-01-29 00:00:00",Regular
+C01383,"Tamil Nadu","2023-06-23 00:00:00",Regular
+C01384,"Uttar Pradesh","2024-03-14 00:00:00",Premium
+C01385,"Uttar Pradesh","2024-03-31 00:00:00",Regular
+C01386,Maharashtra,"2023-03-09 00:00:00",Regular
+C01387,"West Bengal","2024-07-29 00:00:00",Regular
+C01388,Karnataka,"2024-02-01 00:00:00",Regular
+C01389,Telangana,"2023-06-23 00:00:00",Premium
+C01390,Maharashtra,"2024-07-02 00:00:00",Regular
+C01391,"Uttar Pradesh","2024-12-24 00:00:00",Premium
+C01392,Telangana,"2023-11-06 00:00:00",Regular
+C01393,Maharashtra,"2023-07-26 00:00:00",Regular
+C01394,Maharashtra,"2023-08-07 00:00:00",Premium
+C01395,Telangana,"2024-03-08 00:00:00",Regular
+C01396,Maharashtra,"2023-02-04 00:00:00",Regular
+C01397,"Tamil Nadu","2023-12-19 00:00:00",Regular
+C01398,Telangana,"2023-01-19 00:00:00",Premium
+C01399,"Tamil Nadu","2023-01-29 00:00:00",Regular
+C01400,Delhi,"2023-11-10 00:00:00",Regular
+C01401,NULL,"2024-06-28 00:00:00",Premium
+C01402,Maharashtra,"2024-10-06 00:00:00",Regular
+C01403,"Uttar Pradesh","2023-03-05 00:00:00",Regular
+C01404,Karnataka,"2023-06-28 00:00:00",Regular
+C01405,Maharashtra,"2023-11-04 00:00:00",Regular
+C01406,Karnataka,"2024-02-24 00:00:00",Premium
+C01407,"Uttar Pradesh","2024-12-21 00:00:00",Regular
+C01408,Maharashtra,"2024-05-14 00:00:00",Regular
+C01409,Telangana,"2024-01-29 00:00:00",Regular
+C01410,"West Bengal","2023-02-14 00:00:00",Regular
+C01411,Telangana,"2023-02-28 00:00:00",Premium
+C01412,"Uttar Pradesh","2023-04-22 00:00:00",Regular
+C01413,Telangana,"2024-04-27 00:00:00",Regular
+C01414,"Uttar Pradesh","2023-08-30 00:00:00",Regular
+C01415,Maharashtra,"2023-06-25 00:00:00",Regular
+C01416,Gujarat,"2024-05-04 00:00:00",Regular
+C01417,"Tamil Nadu","2024-08-18 00:00:00",Regular
+C01418,"Tamil Nadu","2023-11-17 00:00:00",Regular
+C01419,Telangana,"2024-10-05 00:00:00",Premium
+C01420,"Uttar Pradesh","2024-06-19 00:00:00",Regular
+C01421,"West Bengal","2024-06-06 00:00:00",Regular
+C01422,Delhi,"2024-09-25 00:00:00",Regular
+C01423,Delhi,"2023-05-15 00:00:00",Regular
+C01424,Delhi,"2024-07-07 00:00:00",Regular
+C01425,Karnataka,"2024-11-30 00:00:00",Regular
+C01426,Delhi,"2024-12-25 00:00:00",Regular
+C01427,Maharashtra,"2024-02-26 00:00:00",Premium
+C01428,Maharashtra,"2024-07-04 00:00:00",Premium
+C01429,Gujarat,"2024-10-10 00:00:00",Premium
+C01430,Delhi,"2024-09-14 00:00:00",Regular
+C01431,"Uttar Pradesh","2024-10-17 00:00:00",Premium
+C01432,"Tamil Nadu","2024-08-30 00:00:00",Regular
+C01433,Maharashtra,"2023-10-06 00:00:00",Regular
+C01434,Maharashtra,"2024-06-17 00:00:00",Regular
+C01435,Maharashtra,"2023-10-27 00:00:00",Regular
+C01436,"Uttar Pradesh","2024-08-08 00:00:00",Regular
+C01437,Maharashtra,"2024-08-14 00:00:00",Regular
+C01438,Delhi,"2024-11-13 00:00:00",Regular
+C01439,"Uttar Pradesh","2024-03-05 00:00:00",Regular
+C01440,"Uttar Pradesh","2023-12-13 00:00:00",Premium
+C01441,Karnataka,"2023-05-01 00:00:00",Regular
+C01442,Maharashtra,"2024-04-10 00:00:00",Regular
+C01443,Maharashtra,"2024-02-18 00:00:00",Regular
+C01444,Maharashtra,"2024-01-11 00:00:00",Premium
+C01445,Maharashtra,"2024-05-08 00:00:00",Regular
+C01446,"Tamil Nadu","2024-09-13 00:00:00",Regular
+C01447,Telangana,"2023-04-19 00:00:00",Regular
+C01448,"Tamil Nadu","2023-11-11 00:00:00",Regular
+C01449,"Tamil Nadu","2024-06-11 00:00:00",Regular
+C01450,Maharashtra,"2024-08-21 00:00:00",Regular
+C01451,Gujarat,"2024-07-22 00:00:00",Regular
+C01452,"Tamil Nadu","2024-08-06 00:00:00",Regular
+C01453,Telangana,"2024-09-16 00:00:00",Regular
+C01454,"Uttar Pradesh","2024-12-03 00:00:00",Regular
+C01455,Karnataka,"2024-03-19 00:00:00",Regular
+C01456,Maharashtra,"2023-07-01 00:00:00",Regular
+C01457,Karnataka,"2024-02-16 00:00:00",Regular
+C01458,Delhi,"2024-06-02 00:00:00",Regular
+C01459,"Uttar Pradesh","2023-03-15 00:00:00",Regular
+C01460,Karnataka,"2024-07-06 00:00:00",Regular
+C01461,Gujarat,"2024-02-02 00:00:00",Regular
+C01462,"Tamil Nadu","2024-11-14 00:00:00",Regular
+C01463,Maharashtra,"2023-06-04 00:00:00",Regular
+C01464,Karnataka,"2024-10-24 00:00:00",Regular
+C01465,"West Bengal","2023-11-24 00:00:00",Regular
+C01466,"West Bengal","2024-02-23 00:00:00",Regular
+C01467,Delhi,"2024-04-26 00:00:00",Regular
+C01468,Karnataka,"2024-02-27 00:00:00",Regular
+C01469,Gujarat,"2024-10-21 00:00:00",Regular
+C01470,Maharashtra,"2023-05-03 00:00:00",Regular
+C01471,"Uttar Pradesh","2024-06-16 00:00:00",Regular
+C01472,Maharashtra,"2024-12-12 00:00:00",Regular
+C01473,Maharashtra,"2023-06-10 00:00:00",Regular
+C01474,Delhi,"2023-07-06 00:00:00",Premium
+C01475,Delhi,"2023-12-13 00:00:00",Premium
+C01476,Delhi,"2024-06-13 00:00:00",Regular
+C01477,Delhi,"2024-12-01 00:00:00",Regular
+C01478,"Uttar Pradesh","2024-08-03 00:00:00",Regular
+C01479,Delhi,"2024-08-02 00:00:00",Regular
+C01480,Delhi,"2023-11-19 00:00:00",Regular
+C01481,Delhi,"2024-04-16 00:00:00",Regular
+C01482,Maharashtra,"2023-06-04 00:00:00",Regular
+C01483,"Tamil Nadu","2023-12-05 00:00:00",Premium
+C01484,Karnataka,"2023-05-18 00:00:00",Regular
+C01485,"Tamil Nadu","2023-01-20 00:00:00",Regular
+C01486,Maharashtra,"2024-09-17 00:00:00",Regular
+C01487,"Uttar Pradesh","2024-08-10 00:00:00",Regular
+C01488,Delhi,"2024-01-08 00:00:00",Regular
+C01489,Telangana,"2023-01-11 00:00:00",Premium
+C01490,Delhi,"2023-03-07 00:00:00",Regular
+C01491,NULL,"2023-03-23 00:00:00",Regular
+C01492,Telangana,"2024-06-07 00:00:00",Regular
+C01493,"West Bengal","2023-05-29 00:00:00",Premium
+C01494,Gujarat,"2023-07-02 00:00:00",Premium
+C01495,Delhi,"2024-09-20 00:00:00",Regular
+C01496,"Tamil Nadu","2024-10-01 00:00:00",Regular
+C01497,Telangana,"2024-07-11 00:00:00",Regular
+C01498,"Tamil Nadu","2023-08-14 00:00:00",Premium
+C01499,Karnataka,"2024-02-28 00:00:00",Premium
+C01500,"West Bengal","2023-05-27 00:00:00",Premium
+C01501,"West Bengal","2024-09-18 00:00:00",Regular
+C01502,"Uttar Pradesh","2023-03-03 00:00:00",Regular
+C01503,Karnataka,"2024-06-27 00:00:00",Regular
+C01504,Delhi,"2024-01-09 00:00:00",Regular
+C01505,Gujarat,"2024-07-06 00:00:00",Regular
+C01506,Delhi,"2023-11-26 00:00:00",Regular
+C01507,Gujarat,"2023-04-26 00:00:00",Regular
+C01508,Delhi,"2024-07-02 00:00:00",Premium
+C01509,Maharashtra,"2024-04-05 00:00:00",Regular
+C01510,Gujarat,"2023-12-06 00:00:00",Premium
+C01511,Maharashtra,"2023-09-30 00:00:00",Regular
+C01512,Maharashtra,"2023-09-08 00:00:00",Regular
+C01513,"Tamil Nadu","2023-12-18 00:00:00",Regular
+C01514,Gujarat,"2023-07-11 00:00:00",Regular
+C01515,Telangana,"2023-07-26 00:00:00",Regular
+C01516,Karnataka,"2023-07-23 00:00:00",Regular
+C01517,Maharashtra,"2023-01-10 00:00:00",Regular
+C01518,"Uttar Pradesh","2024-11-08 00:00:00",Premium
+C01519,Maharashtra,"2023-06-22 00:00:00",Regular
+C01520,Maharashtra,"2023-05-01 00:00:00",Premium
+C01521,Karnataka,"2023-04-21 00:00:00",Premium
+C01522,"Tamil Nadu","2024-12-22 00:00:00",Premium
+C01523,Telangana,"2023-12-15 00:00:00",Regular
+C01524,Gujarat,"2023-08-27 00:00:00",Premium
+C01525,"West Bengal","2023-10-22 00:00:00",Premium
+C01526,Maharashtra,"2023-03-06 00:00:00",Premium
+C01527,Karnataka,"2023-08-17 00:00:00",Regular
+C01528,Delhi,"2023-07-01 00:00:00",Regular
+C01529,Maharashtra,"2024-08-09 00:00:00",Premium
+C01530,Karnataka,"2023-02-12 00:00:00",Regular
+C01531,Karnataka,"2023-11-07 00:00:00",Regular
+C01532,Maharashtra,"2024-07-30 00:00:00",Regular
+C01533,"Tamil Nadu","2024-08-31 00:00:00",Regular
+C01534,"West Bengal","2024-01-10 00:00:00",Regular
+C01535,Maharashtra,"2023-06-12 00:00:00",Premium
+C01536,Delhi,"2023-09-04 00:00:00",Premium
+C01537,Gujarat,"2023-06-12 00:00:00",Premium
+C01538,Gujarat,"2024-04-28 00:00:00",Regular
+C01539,Gujarat,"2023-08-02 00:00:00",Regular
+C01540,Delhi,"2024-04-05 00:00:00",Regular
+C01541,Telangana,"2024-04-23 00:00:00",Regular
+C01542,Karnataka,"2024-11-17 00:00:00",Regular
+C01543,Karnataka,"2023-09-28 00:00:00",Regular
+C01544,Maharashtra,"2024-12-02 00:00:00",Premium
+C01545,Delhi,"2023-10-20 00:00:00",Regular
+C01546,Delhi,"2024-05-11 00:00:00",Regular
+C01547,Karnataka,"2024-04-27 00:00:00",Regular
+C01548,Gujarat,"2024-08-20 00:00:00",Regular
+C01549,Karnataka,"2023-12-09 00:00:00",Regular
+C01550,Karnataka,"2024-08-01 00:00:00",Regular
+C01551,Maharashtra,"2023-09-17 00:00:00",Regular
+C01552,Delhi,"2023-12-25 00:00:00",Regular
+C01553,Karnataka,"2023-12-31 00:00:00",Premium
+C01554,Karnataka,"2024-05-29 00:00:00",Regular
+C01555,Karnataka,"2024-03-27 00:00:00",Regular
+C01556,Gujarat,"2023-02-27 00:00:00",Regular
+C01557,"Uttar Pradesh","2024-08-13 00:00:00",Regular
+C01558,Delhi,"2024-07-07 00:00:00",Regular
+C01559,"West Bengal","2023-03-18 00:00:00",Premium
+C01560,Telangana,"2024-12-03 00:00:00",Premium
+C01561,"Uttar Pradesh","2024-04-27 00:00:00",Regular
+C01562,"Tamil Nadu","2023-03-04 00:00:00",Regular
+C01563,Telangana,"2023-12-25 00:00:00",Regular
+C01564,Telangana,"2024-09-02 00:00:00",Regular
+C01565,Gujarat,"2023-07-24 00:00:00",Regular
+C01566,Delhi,"2024-11-12 00:00:00",Premium
+C01567,Maharashtra,"2023-11-02 00:00:00",Regular
+C01568,Maharashtra,"2023-06-15 00:00:00",Regular
+C01569,Delhi,"2023-09-18 00:00:00",Regular
+C01570,Delhi,"2024-01-19 00:00:00",Regular
+C01571,Delhi,"2024-05-17 00:00:00",Premium
+C01572,"Tamil Nadu","2024-11-08 00:00:00",Regular
+C01573,"Tamil Nadu","2023-05-23 00:00:00",Regular
+C01574,Telangana,"2024-12-01 00:00:00",Regular
+C01575,Maharashtra,"2024-01-21 00:00:00",Premium
+C01576,Karnataka,"2023-04-04 00:00:00",Regular
+C01577,Gujarat,"2024-11-07 00:00:00",Regular
+C01578,Telangana,"2023-09-12 00:00:00",Regular
+C01579,"Uttar Pradesh","2024-03-29 00:00:00",Regular
+C01580,Telangana,"2024-05-24 00:00:00",Premium
+C01581,Telangana,"2023-01-10 00:00:00",Regular
+C01582,Karnataka,"2023-06-11 00:00:00",Regular
+C01583,Delhi,"2024-05-16 00:00:00",Regular
+C01584,Karnataka,"2023-08-26 00:00:00",Regular
+C01585,"Tamil Nadu","2023-01-07 00:00:00",Regular
+C01586,"Uttar Pradesh","2023-01-18 00:00:00",Premium
+C01587,Karnataka,"2024-08-26 00:00:00",Regular
+C01588,"Tamil Nadu","2023-04-23 00:00:00",Regular
+C01589,Karnataka,"2023-03-15 00:00:00",Regular
+C01590,Maharashtra,"2024-02-15 00:00:00",Regular
+C01591,Maharashtra,"2023-03-28 00:00:00",Regular
+C01592,Maharashtra,"2024-04-21 00:00:00",Regular
+C01593,"Uttar Pradesh","2024-02-02 00:00:00",Regular
+C01594,Delhi,"2024-04-18 00:00:00",Regular
+C01595,Telangana,"2023-12-25 00:00:00",Premium
+C01596,"West Bengal","2024-07-22 00:00:00",Regular
+C01597,Maharashtra,"2024-04-15 00:00:00",Regular
+C01598,Maharashtra,"2023-10-31 00:00:00",Regular
+C01599,Gujarat,"2023-01-12 00:00:00",Regular
+C01600,Karnataka,"2023-07-19 00:00:00",Regular
+C01601,Telangana,"2023-04-06 00:00:00",Regular
+C01602,Maharashtra,"2023-01-12 00:00:00",Regular
+C01603,"West Bengal","2023-07-19 00:00:00",Premium
+C01604,Gujarat,"2023-05-31 00:00:00",Premium
+C01605,Karnataka,"2023-02-26 00:00:00",Regular
+C01606,Karnataka,"2023-08-17 00:00:00",Premium
+C01607,"Uttar Pradesh","2024-01-05 00:00:00",Premium
+C01608,Karnataka,"2023-05-11 00:00:00",Regular
+C01609,Delhi,"2023-07-19 00:00:00",Regular
+C01610,Delhi,"2023-01-15 00:00:00",Regular
+C01611,Karnataka,"2023-02-06 00:00:00",Regular
+C01612,Gujarat,"2023-04-25 00:00:00",Regular
+C01613,Gujarat,"2023-11-27 00:00:00",Regular
+C01614,Karnataka,"2024-05-01 00:00:00",Premium
+C01615,Telangana,"2024-07-29 00:00:00",Regular
+C01616,Maharashtra,"2024-04-04 00:00:00",Regular
+C01617,NULL,"2024-03-26 00:00:00",Regular
+C01618,"Tamil Nadu","2024-11-14 00:00:00",Regular
+C01619,"Uttar Pradesh","2023-07-06 00:00:00",Premium
+C01620,Maharashtra,"2024-08-05 00:00:00",Regular
+C01621,Maharashtra,"2024-11-14 00:00:00",Regular
+C01622,Delhi,"2024-02-19 00:00:00",Regular
+C01623,Gujarat,"2024-09-05 00:00:00",Regular
+C01624,Maharashtra,"2023-04-11 00:00:00",Regular
+C01625,Delhi,"2024-10-03 00:00:00",Regular
+C01626,Gujarat,"2024-02-16 00:00:00",Regular
+C01627,Karnataka,"2023-06-11 00:00:00",Regular
+C01628,Maharashtra,"2023-02-14 00:00:00",Regular
+C01629,Maharashtra,"2024-06-09 00:00:00",Regular
+C01630,Delhi,"2023-11-11 00:00:00",Regular
+C01631,Delhi,"2023-08-15 00:00:00",Regular
+C01632,Telangana,"2023-10-12 00:00:00",Regular
+C01633,"West Bengal","2024-12-24 00:00:00",Regular
+C01634,"West Bengal","2023-11-09 00:00:00",Regular
+C01635,"Uttar Pradesh","2023-02-27 00:00:00",Regular
+C01636,Delhi,"2023-07-24 00:00:00",Regular
+C01637,Delhi,"2023-04-17 00:00:00",Premium
+C01638,"Uttar Pradesh","2024-05-15 00:00:00",Regular
+C01639,Karnataka,"2024-08-07 00:00:00",Regular
+C01640,Gujarat,"2024-09-05 00:00:00",Regular
+C01641,Gujarat,"2024-04-07 00:00:00",Regular
+C01642,Maharashtra,"2024-07-15 00:00:00",Regular
+C01643,Delhi,"2023-11-01 00:00:00",Regular
+C01644,Maharashtra,"2024-04-03 00:00:00",Regular
+C01645,Maharashtra,"2023-03-20 00:00:00",Regular
+C01646,Delhi,"2024-01-28 00:00:00",Regular
+C01647,Karnataka,"2024-02-11 00:00:00",Regular
+C01648,Gujarat,"2023-01-23 00:00:00",Regular
+C01649,Telangana,"2024-02-05 00:00:00",Premium
+C01650,Gujarat,"2024-06-11 00:00:00",Regular
+C01651,Karnataka,"2023-09-26 00:00:00",Premium
+C01652,Karnataka,"2024-02-02 00:00:00",Regular
+C01653,Karnataka,"2023-07-28 00:00:00",Regular
+C01654,Maharashtra,"2023-07-17 00:00:00",Regular
+C01655,"Uttar Pradesh","2023-04-05 00:00:00",Regular
+C01656,Delhi,"2023-08-28 00:00:00",Regular
+C01657,Karnataka,"2024-08-09 00:00:00",Regular
+C01658,Telangana,"2024-11-13 00:00:00",Regular
+C01659,Delhi,"2024-04-09 00:00:00",Regular
+C01660,Maharashtra,"2024-03-31 00:00:00",Premium
+C01661,Maharashtra,"2024-03-24 00:00:00",Regular
+C01662,"Tamil Nadu","2023-12-14 00:00:00",Regular
+C01663,Gujarat,"2023-11-05 00:00:00",Regular
+C01664,Maharashtra,"2024-03-29 00:00:00",Regular
+C01665,Telangana,"2024-07-26 00:00:00",Premium
+C01666,Telangana,"2023-10-30 00:00:00",Regular
+C01667,Telangana,"2024-02-18 00:00:00",Regular
+C01668,Karnataka,"2023-12-10 00:00:00",Regular
+C01669,Maharashtra,"2023-07-28 00:00:00",Regular
+C01670,Telangana,"2023-07-31 00:00:00",Regular
+C01671,Karnataka,"2023-02-27 00:00:00",Premium
+C01672,"Tamil Nadu","2023-11-18 00:00:00",Regular
+C01673,Gujarat,"2024-06-04 00:00:00",Regular
+C01674,Maharashtra,"2024-05-15 00:00:00",Regular
+C01675,Gujarat,"2024-12-20 00:00:00",Regular
+C01676,"Uttar Pradesh","2023-01-30 00:00:00",Premium
+C01677,Gujarat,"2024-07-09 00:00:00",Regular
+C01678,Delhi,"2024-08-03 00:00:00",Regular
+C01679,Telangana,"2023-11-15 00:00:00",Regular
+C01680,"Tamil Nadu","2023-07-26 00:00:00",Regular
+C01681,Gujarat,"2023-09-18 00:00:00",Regular
+C01682,Telangana,"2024-05-13 00:00:00",Regular
+C01683,Gujarat,"2024-09-21 00:00:00",Premium
+C01684,Karnataka,"2024-04-14 00:00:00",Regular
+C01685,Maharashtra,"2024-01-11 00:00:00",Regular
+C01686,Karnataka,"2024-04-21 00:00:00",Regular
+C01687,Delhi,"2023-02-21 00:00:00",Regular
+C01688,Delhi,"2024-03-19 00:00:00",Regular
+C01689,"Tamil Nadu","2023-01-31 00:00:00",Regular
+C01690,Delhi,"2024-12-01 00:00:00",Regular
+C01691,Gujarat,"2024-10-11 00:00:00",Premium
+C01692,Telangana,"2024-01-07 00:00:00",Regular
+C01693,Karnataka,"2023-10-01 00:00:00",Regular
+C01694,Gujarat,"2024-06-18 00:00:00",Regular
+C01695,"West Bengal","2024-04-10 00:00:00",Regular
+C01696,"Tamil Nadu","2024-05-29 00:00:00",Regular
+C01697,Maharashtra,"2024-01-12 00:00:00",Regular
+C01698,Gujarat,"2023-06-22 00:00:00",Regular
+C01699,"Uttar Pradesh","2023-02-23 00:00:00",Regular
+C01700,Gujarat,"2023-07-26 00:00:00",Premium
+C01701,Telangana,"2024-01-22 00:00:00",Regular
+C01702,"Uttar Pradesh","2023-11-06 00:00:00",Regular
+C01703,Karnataka,"2024-01-05 00:00:00",Regular
+C01704,"Tamil Nadu","2023-07-22 00:00:00",Regular
+C01705,Delhi,"2024-11-15 00:00:00",Regular
+C01706,"Uttar Pradesh","2023-09-25 00:00:00",Regular
+C01707,Maharashtra,"2024-09-09 00:00:00",Regular
+C01708,Delhi,"2023-10-13 00:00:00",Regular
+C01709,Telangana,"2023-11-20 00:00:00",Regular
+C01710,Karnataka,"2024-03-16 00:00:00",Premium
+C01711,Gujarat,"2023-07-12 00:00:00",Regular
+C01712,Delhi,"2023-06-10 00:00:00",Regular
+C01713,"Uttar Pradesh","2023-10-04 00:00:00",Regular
+C01714,Telangana,"2024-08-10 00:00:00",Regular
+C01715,Karnataka,"2023-04-16 00:00:00",Regular
+C01716,Gujarat,"2023-11-16 00:00:00",Regular
+C01717,Karnataka,"2024-05-05 00:00:00",Regular
+C01718,"Tamil Nadu","2024-05-30 00:00:00",Regular
+C01719,"West Bengal","2023-11-14 00:00:00",Regular
+C01720,Telangana,"2023-03-01 00:00:00",Regular
+C01721,Maharashtra,"2023-01-12 00:00:00",Regular
+C01722,Karnataka,"2023-12-10 00:00:00",Regular
+C01723,"West Bengal","2024-08-14 00:00:00",Regular
+C01724,"Tamil Nadu","2023-01-21 00:00:00",Regular
+C01725,Delhi,"2024-10-09 00:00:00",Regular
+C01726,Maharashtra,"2024-05-08 00:00:00",Regular
+C01727,Karnataka,"2023-01-06 00:00:00",Regular
+C01728,Telangana,"2023-09-08 00:00:00",Regular
+C01729,Maharashtra,"2023-06-10 00:00:00",Regular
+C01730,Delhi,"2024-11-23 00:00:00",Regular
+C01731,"Uttar Pradesh","2024-02-09 00:00:00",Premium
+C01732,Maharashtra,"2023-08-25 00:00:00",Regular
+C01733,Gujarat,"2023-07-22 00:00:00",Premium
+C01734,Karnataka,"2024-02-16 00:00:00",Regular
+C01735,Telangana,"2023-01-04 00:00:00",Regular
+C01736,Gujarat,"2023-07-07 00:00:00",Regular
+C01737,Telangana,"2023-05-01 00:00:00",Regular
+C01738,Maharashtra,"2024-03-28 00:00:00",Regular
+C01739,"Tamil Nadu","2024-05-03 00:00:00",Premium
+C01740,Gujarat,"2023-12-07 00:00:00",Regular
+C01741,Karnataka,"2023-04-13 00:00:00",Regular
+C01742,Karnataka,"2023-09-28 00:00:00",Regular
+C01743,Maharashtra,"2024-09-07 00:00:00",Regular
+C01744,"Uttar Pradesh","2023-05-29 00:00:00",Regular
+C01745,NULL,"2023-04-30 00:00:00",Regular
+C01746,"Tamil Nadu","2023-03-23 00:00:00",Regular
+C01747,Gujarat,"2024-08-19 00:00:00",Premium
+C01748,"Tamil Nadu","2023-03-29 00:00:00",Premium
+C01749,Delhi,"2024-02-29 00:00:00",Regular
+C01750,Delhi,"2024-12-30 00:00:00",Regular
+C01751,"West Bengal","2024-04-13 00:00:00",Premium
+C01752,NULL,"2023-10-28 00:00:00",Regular
+C01753,Telangana,"2023-05-31 00:00:00",Regular
+C01754,Gujarat,"2023-01-02 00:00:00",Regular
+C01755,Karnataka,"2023-04-24 00:00:00",Premium
+C01756,"Tamil Nadu","2024-11-26 00:00:00",Premium
+C01757,Maharashtra,"2023-04-15 00:00:00",Regular
+C01758,"Uttar Pradesh","2023-01-15 00:00:00",Regular
+C01759,Telangana,"2024-08-18 00:00:00",Regular
+C01760,"Uttar Pradesh","2023-11-02 00:00:00",Regular
+C01761,Karnataka,"2023-09-18 00:00:00",Premium
+C01762,Maharashtra,"2024-06-07 00:00:00",Regular
+C01763,Maharashtra,"2024-01-17 00:00:00",Regular
+C01764,Maharashtra,"2024-10-29 00:00:00",Regular
+C01765,Maharashtra,"2023-12-08 00:00:00",Regular
+C01766,Maharashtra,"2024-06-04 00:00:00",Premium
+C01767,"Uttar Pradesh","2024-10-03 00:00:00",Regular
+C01768,Maharashtra,"2023-12-05 00:00:00",Premium
+C01769,Maharashtra,"2023-07-27 00:00:00",Regular
+C01770,Telangana,"2024-12-12 00:00:00",Regular
+C01771,"Tamil Nadu","2023-06-15 00:00:00",Regular
+C01772,Gujarat,"2023-01-29 00:00:00",Regular
+C01773,"Tamil Nadu","2024-02-27 00:00:00",Regular
+C01774,Telangana,"2024-12-21 00:00:00",Regular
+C01775,"Tamil Nadu","2023-03-05 00:00:00",Regular
+C01776,"Tamil Nadu","2024-09-12 00:00:00",Regular
+C01777,"West Bengal","2024-08-29 00:00:00",Regular
+C01778,Delhi,"2024-11-09 00:00:00",Regular
+C01779,Karnataka,"2023-11-04 00:00:00",Regular
+C01780,Delhi,"2023-07-05 00:00:00",Regular
+C01781,Maharashtra,"2024-01-09 00:00:00",Regular
+C01782,Gujarat,"2023-04-14 00:00:00",Regular
+C01783,Karnataka,"2024-09-07 00:00:00",Regular
+C01784,Maharashtra,"2024-04-29 00:00:00",Regular
+C01785,Karnataka,"2023-12-19 00:00:00",Premium
+C01786,NULL,"2024-01-12 00:00:00",Regular
+C01787,Karnataka,"2024-06-03 00:00:00",Regular
+C01788,"West Bengal","2024-01-17 00:00:00",Premium
+C01789,Telangana,"2024-09-05 00:00:00",Regular
+C01790,Maharashtra,"2024-11-05 00:00:00",Premium
+C01791,Gujarat,"2024-11-24 00:00:00",Regular
+C01792,Karnataka,"2024-03-28 00:00:00",Premium
+C01793,NULL,"2024-06-26 00:00:00",Premium
+C01794,"West Bengal","2023-08-16 00:00:00",Premium
+C01795,Telangana,"2023-01-28 00:00:00",Regular
+C01796,Karnataka,"2023-10-20 00:00:00",Regular
+C01797,"Tamil Nadu","2024-09-28 00:00:00",Premium
+C01798,Karnataka,"2023-04-08 00:00:00",Regular
+C01799,"Tamil Nadu","2024-02-03 00:00:00",Regular
+C01800,"Tamil Nadu","2023-05-21 00:00:00",Premium
+C01801,NULL,"2023-11-10 00:00:00",Regular
+C01802,"Tamil Nadu","2023-04-15 00:00:00",Regular
+C01803,Maharashtra,"2024-06-20 00:00:00",Regular
+C01804,"West Bengal","2024-08-14 00:00:00",Regular
+C01805,"West Bengal","2024-07-07 00:00:00",Regular
+C01806,"West Bengal","2024-05-29 00:00:00",Regular
+C01807,Maharashtra,"2023-06-21 00:00:00",Regular
+C01808,Delhi,"2024-01-23 00:00:00",Premium
+C01809,Delhi,"2023-03-18 00:00:00",Regular
+C01810,Maharashtra,"2023-10-01 00:00:00",Regular
+C01811,Karnataka,"2024-01-05 00:00:00",Regular
+C01812,Delhi,"2024-05-03 00:00:00",Premium
+C01813,Gujarat,"2023-03-12 00:00:00",Premium
+C01814,Karnataka,"2024-08-16 00:00:00",Regular
+C01815,Telangana,"2023-12-02 00:00:00",Regular
+C01816,"Tamil Nadu","2024-10-05 00:00:00",Regular
+C01817,Gujarat,"2024-01-21 00:00:00",Regular
+C01818,Delhi,"2024-02-04 00:00:00",Regular
+C01819,Delhi,"2024-05-20 00:00:00",Regular
+C01820,"Tamil Nadu","2024-08-21 00:00:00",Regular
+C01821,"Uttar Pradesh","2023-04-26 00:00:00",Regular
+C01822,NULL,"2024-01-09 00:00:00",Regular
+C01823,"Tamil Nadu","2023-01-22 00:00:00",Premium
+C01824,"Tamil Nadu","2023-12-13 00:00:00",Regular
+C01825,Gujarat,"2024-08-16 00:00:00",Regular
+C01826,Maharashtra,"2024-09-23 00:00:00",Regular
+C01827,Delhi,"2023-07-26 00:00:00",Premium
+C01828,Delhi,"2023-10-10 00:00:00",Regular
+C01829,"Uttar Pradesh","2024-02-07 00:00:00",Regular
+C01830,Delhi,"2023-10-17 00:00:00",Regular
+C01831,Delhi,"2023-05-10 00:00:00",Regular
+C01832,"Uttar Pradesh","2023-08-11 00:00:00",Premium
+C01833,Delhi,"2023-10-22 00:00:00",Regular
+C01834,Maharashtra,"2024-01-14 00:00:00",Regular
+C01835,Maharashtra,"2024-11-03 00:00:00",Regular
+C01836,Maharashtra,"2024-02-02 00:00:00",Regular
+C01837,Maharashtra,"2023-10-10 00:00:00",Regular
+C01838,Delhi,"2024-04-27 00:00:00",Regular
+C01839,NULL,"2024-07-18 00:00:00",Regular
+C01840,Gujarat,"2023-11-11 00:00:00",Regular
+C01841,Maharashtra,"2023-12-24 00:00:00",Premium
+C01842,"Tamil Nadu","2023-06-09 00:00:00",Premium
+C01843,Maharashtra,"2024-09-23 00:00:00",Premium
+C01844,"Uttar Pradesh","2024-09-24 00:00:00",Regular
+C01845,Maharashtra,"2023-05-08 00:00:00",Regular
+C01846,"Tamil Nadu","2023-09-10 00:00:00",Regular
+C01847,Karnataka,"2023-07-18 00:00:00",Premium
+C01848,"West Bengal","2024-11-04 00:00:00",Regular
+C01849,Delhi,"2023-02-17 00:00:00",Regular
+C01850,Gujarat,"2023-06-01 00:00:00",Regular
+C01851,Karnataka,"2023-08-18 00:00:00",Regular
+C01852,Telangana,"2024-02-13 00:00:00",Premium
+C01853,Delhi,"2023-07-01 00:00:00",Regular
+C01854,Gujarat,"2024-01-27 00:00:00",Regular
+C01855,Telangana,"2024-06-29 00:00:00",Regular
+C01856,"Uttar Pradesh","2024-08-27 00:00:00",Regular
+C01857,Karnataka,"2023-03-14 00:00:00",Regular
+C01858,Karnataka,"2023-04-12 00:00:00",Premium
+C01859,Karnataka,"2023-03-11 00:00:00",Regular
+C01860,Karnataka,"2024-10-26 00:00:00",Regular
+C01861,"Tamil Nadu","2024-04-21 00:00:00",Regular
+C01862,"Uttar Pradesh","2024-01-23 00:00:00",Regular
+C01863,"Uttar Pradesh","2024-07-31 00:00:00",Regular
+C01864,"Tamil Nadu","2024-03-03 00:00:00",Regular
+C01865,"Tamil Nadu","2023-06-21 00:00:00",Premium
+C01866,Telangana,"2024-01-08 00:00:00",Regular
+C01867,"Uttar Pradesh","2024-05-28 00:00:00",Regular
+C01868,Maharashtra,"2023-01-27 00:00:00",Regular
+C01869,"Tamil Nadu","2024-03-18 00:00:00",Regular
+C01870,Telangana,"2023-12-29 00:00:00",Regular
+C01871,Karnataka,"2023-02-20 00:00:00",Premium
+C01872,Delhi,"2023-07-12 00:00:00",Regular
+C01873,"Uttar Pradesh","2023-11-24 00:00:00",Premium
+C01874,"Uttar Pradesh","2023-09-08 00:00:00",Regular
+C01875,Telangana,"2023-07-31 00:00:00",Regular
+C01876,Gujarat,"2024-04-18 00:00:00",Regular
+C01877,Karnataka,"2023-10-23 00:00:00",Regular
+C01878,Karnataka,"2023-12-30 00:00:00",Premium
+C01879,"Tamil Nadu","2024-08-05 00:00:00",Regular
+C01880,"Tamil Nadu","2023-03-10 00:00:00",Regular
+C01881,Delhi,"2023-09-20 00:00:00",Regular
+C01882,"Tamil Nadu","2023-02-23 00:00:00",Premium
+C01883,Delhi,"2024-11-07 00:00:00",Regular
+C01884,Gujarat,"2023-05-16 00:00:00",Regular
+C01885,Karnataka,"2024-08-21 00:00:00",Regular
+C01886,Karnataka,"2023-05-20 00:00:00",Premium
+C01887,Maharashtra,"2023-08-25 00:00:00",Regular
+C01888,Maharashtra,"2024-03-20 00:00:00",Regular
+C01889,Telangana,"2024-08-29 00:00:00",Premium
+C01890,Delhi,"2023-05-10 00:00:00",Regular
+C01891,Karnataka,"2023-06-05 00:00:00",Regular
+C01892,Gujarat,"2024-10-05 00:00:00",Regular
+C01893,"Tamil Nadu","2023-08-24 00:00:00",Regular
+C01894,Maharashtra,"2023-06-03 00:00:00",Regular
+C01895,Karnataka,"2024-06-26 00:00:00",Regular
+C01896,Maharashtra,"2023-03-08 00:00:00",Regular
+C01897,"West Bengal","2024-09-24 00:00:00",Regular
+C01898,Karnataka,"2024-10-01 00:00:00",Regular
+C01899,Maharashtra,"2024-09-17 00:00:00",Regular
+C01900,Maharashtra,"2023-08-04 00:00:00",Premium
+C01901,"Tamil Nadu","2023-03-25 00:00:00",Regular
+C01902,Maharashtra,"2023-11-07 00:00:00",Regular
+C01903,NULL,"2023-09-02 00:00:00",Regular
+C01904,Maharashtra,"2024-12-01 00:00:00",Regular
+C01905,"Tamil Nadu","2024-04-06 00:00:00",Regular
+C01906,NULL,"2024-11-20 00:00:00",Regular
+C01907,Delhi,"2024-07-02 00:00:00",Premium
+C01908,Maharashtra,"2024-06-05 00:00:00",Regular
+C01909,Gujarat,"2023-03-23 00:00:00",Regular
+C01910,Telangana,"2023-02-20 00:00:00",Regular
+C01911,Maharashtra,"2023-02-03 00:00:00",Regular
+C01912,Maharashtra,"2024-03-09 00:00:00",Regular
+C01913,Telangana,"2023-05-28 00:00:00",Regular
+C01914,"Tamil Nadu","2024-12-23 00:00:00",Premium
+C01915,Maharashtra,"2023-04-07 00:00:00",Regular
+C01916,Maharashtra,"2024-11-22 00:00:00",Regular
+C01917,"West Bengal","2024-05-02 00:00:00",Regular
+C01918,Gujarat,"2023-03-19 00:00:00",Regular
+C01919,"Tamil Nadu","2023-02-12 00:00:00",Premium
+C01920,"Uttar Pradesh","2023-10-17 00:00:00",Regular
+C01921,Delhi,"2023-09-05 00:00:00",Regular
+C01922,Karnataka,"2023-08-19 00:00:00",Regular
+C01923,Delhi,"2024-01-21 00:00:00",Regular
+C01924,Karnataka,"2023-04-05 00:00:00",Regular
+C01925,Karnataka,"2023-04-05 00:00:00",Regular
+C01926,Maharashtra,"2024-05-22 00:00:00",Regular
+C01927,Karnataka,"2024-12-23 00:00:00",Regular
+C01928,"West Bengal","2023-07-19 00:00:00",Regular
+C01929,Maharashtra,"2024-11-11 00:00:00",Regular
+C01930,Delhi,"2023-09-09 00:00:00",Regular
+C01931,"West Bengal","2023-09-03 00:00:00",Regular
+C01932,"Tamil Nadu","2023-03-07 00:00:00",Regular
+C01933,Gujarat,"2023-11-06 00:00:00",Regular
+C01934,Gujarat,"2023-12-30 00:00:00",Premium
+C01935,"West Bengal","2024-04-29 00:00:00",Regular
+C01936,Maharashtra,"2023-04-26 00:00:00",Regular
+C01937,Delhi,"2023-05-18 00:00:00",Regular
+C01938,"Tamil Nadu","2023-11-12 00:00:00",Regular
+C01939,Karnataka,"2023-02-20 00:00:00",Premium
+C01940,Maharashtra,"2023-04-15 00:00:00",Regular
+C01941,Karnataka,"2024-04-04 00:00:00",Regular
+C01942,Delhi,"2024-11-27 00:00:00",Premium
+C01943,Delhi,"2024-02-23 00:00:00",Premium
+C01944,Maharashtra,"2023-04-16 00:00:00",Premium
+C01945,Telangana,"2024-12-24 00:00:00",Regular
+C01946,NULL,"2024-01-16 00:00:00",Regular
+C01947,Maharashtra,"2024-06-07 00:00:00",Regular
+C01948,"Uttar Pradesh","2023-05-24 00:00:00",Regular
+C01949,Maharashtra,"2024-02-27 00:00:00",Regular
+C01950,"Uttar Pradesh","2023-02-25 00:00:00",Regular
+C01951,"Uttar Pradesh","2024-04-01 00:00:00",Regular
+C01952,Maharashtra,"2023-05-28 00:00:00",Regular
+C01953,Gujarat,"2024-10-25 00:00:00",Regular
+C01954,"Uttar Pradesh","2023-02-09 00:00:00",Regular
+C01955,Telangana,"2024-04-21 00:00:00",Regular
+C01956,"Uttar Pradesh","2023-04-12 00:00:00",Regular
+C01957,"Tamil Nadu","2024-05-16 00:00:00",Regular
+C01958,Maharashtra,"2023-12-27 00:00:00",Regular
+C01959,Telangana,"2024-12-07 00:00:00",Regular
+C01960,"Tamil Nadu","2024-04-20 00:00:00",Regular
+C01961,"Tamil Nadu","2023-09-29 00:00:00",Regular
+C01962,Delhi,"2023-03-05 00:00:00",Regular
+C01963,"Tamil Nadu","2024-03-10 00:00:00",Regular
+C01964,Maharashtra,"2023-11-18 00:00:00",Regular
+C01965,Gujarat,"2023-02-08 00:00:00",Regular
+C01966,Maharashtra,"2024-02-29 00:00:00",Premium
+C01967,Gujarat,"2023-06-03 00:00:00",Regular
+C01968,Telangana,"2023-06-20 00:00:00",Regular
+C01969,Delhi,"2023-01-07 00:00:00",Premium
+C01970,Delhi,"2023-09-29 00:00:00",Premium
+C01971,Karnataka,"2023-06-09 00:00:00",Regular
+C01972,"Uttar Pradesh","2023-02-22 00:00:00",Regular
+C01973,Gujarat,"2023-11-14 00:00:00",Premium
+C01974,Karnataka,"2023-06-10 00:00:00",Regular
+C01975,Maharashtra,"2023-04-08 00:00:00",Regular
+C01976,Maharashtra,"2023-12-07 00:00:00",Regular
+C01977,Delhi,"2023-02-16 00:00:00",Regular
+C01978,"Uttar Pradesh","2024-12-24 00:00:00",Regular
+C01979,Gujarat,"2023-12-10 00:00:00",Regular
+C01980,Maharashtra,"2024-12-28 00:00:00",Regular
+C01981,Telangana,"2024-10-05 00:00:00",Regular
+C01982,Karnataka,"2024-12-16 00:00:00",Regular
+C01983,Telangana,"2024-02-01 00:00:00",Premium
+C01984,Karnataka,"2023-11-05 00:00:00",Regular
+C01985,"Tamil Nadu","2024-06-09 00:00:00",Premium
+C01986,"Uttar Pradesh","2023-02-28 00:00:00",Premium
+C01987,Karnataka,"2024-09-05 00:00:00",Regular
+C01988,"West Bengal","2023-08-25 00:00:00",Regular
+C01989,"Uttar Pradesh","2023-01-06 00:00:00",Regular
+C01990,Maharashtra,"2023-06-23 00:00:00",Premium
+C01991,Maharashtra,"2023-06-26 00:00:00",Regular
+C01992,"West Bengal","2023-01-11 00:00:00",Regular
+C01993,Karnataka,"2024-05-03 00:00:00",Premium
+C01994,Maharashtra,"2023-03-11 00:00:00",Regular
+C01995,Delhi,"2024-09-10 00:00:00",Premium
+C01996,Gujarat,"2023-11-27 00:00:00",Regular
+C01997,Karnataka,"2024-06-08 00:00:00",Regular
+C01998,Karnataka,"2023-09-05 00:00:00",Regular
+C01999,Telangana,"2023-04-07 00:00:00",Regular
+C02000,"Tamil Nadu","2023-05-12 00:00:00",Regular
+C02001,Telangana,"2024-04-16 00:00:00",Premium
+C02002,Delhi,"2024-06-06 00:00:00",Regular
+C02003,"Uttar Pradesh","2023-07-15 00:00:00",Regular
+C02004,"West Bengal","2023-09-18 00:00:00",Premium
+C02005,Maharashtra,"2024-11-20 00:00:00",Regular
+C02006,Telangana,"2024-09-13 00:00:00",Regular
+C02007,Delhi,"2023-10-29 00:00:00",Premium
+C02008,Maharashtra,"2023-06-25 00:00:00",Regular
+C02009,Maharashtra,"2023-08-08 00:00:00",Regular
+C02010,"West Bengal","2024-01-29 00:00:00",Regular
+C02011,Maharashtra,"2024-02-18 00:00:00",Regular
+C02012,NULL,"2023-05-15 00:00:00",Regular
+C02013,Maharashtra,"2023-02-18 00:00:00",Regular
+C02014,Delhi,"2023-12-28 00:00:00",Regular
+C02015,Delhi,"2024-08-05 00:00:00",Regular
+C02016,"Tamil Nadu","2023-04-22 00:00:00",Regular
+C02017,Karnataka,"2023-10-26 00:00:00",Regular
+C02018,Maharashtra,"2023-04-28 00:00:00",Regular
+C02019,"Tamil Nadu","2023-06-26 00:00:00",Regular
+C02020,Karnataka,"2024-03-22 00:00:00",Regular
+C02021,"West Bengal","2023-07-28 00:00:00",Premium
+C02022,Maharashtra,"2023-07-12 00:00:00",Regular
+C02023,Maharashtra,"2024-12-27 00:00:00",Regular
+C02024,Karnataka,"2023-05-06 00:00:00",Regular
+C02025,Delhi,"2023-05-19 00:00:00",Regular
+C02026,Delhi,"2024-11-09 00:00:00",Premium
+C02027,Gujarat,"2024-02-06 00:00:00",Regular
+C02028,Karnataka,"2023-02-01 00:00:00",Regular
+C02029,"Tamil Nadu","2023-11-07 00:00:00",Regular
+C02030,"Tamil Nadu","2024-02-17 00:00:00",Regular
+C02031,Maharashtra,"2023-07-04 00:00:00",Regular
+C02032,Delhi,"2024-02-05 00:00:00",Premium
+C02033,Karnataka,"2024-04-18 00:00:00",Regular
+C02034,Delhi,"2023-07-02 00:00:00",Regular
+C02035,Maharashtra,"2024-08-16 00:00:00",Regular
+C02036,Gujarat,"2023-11-27 00:00:00",Regular
+C02037,"Uttar Pradesh","2024-12-04 00:00:00",Regular
+C02038,Maharashtra,"2023-03-06 00:00:00",Regular
+C02039,"Tamil Nadu","2023-08-25 00:00:00",Regular
+C02040,Gujarat,"2024-06-10 00:00:00",Regular
+C02041,Karnataka,"2024-10-15 00:00:00",Premium
+C02042,Gujarat,"2023-06-11 00:00:00",Regular
+C02043,"Tamil Nadu","2024-12-16 00:00:00",Premium
+C02044,"Uttar Pradesh","2023-05-22 00:00:00",Regular
+C02045,"Uttar Pradesh","2023-10-31 00:00:00",Regular
+C02046,Maharashtra,"2023-08-18 00:00:00",Premium
+C02047,Delhi,"2023-11-06 00:00:00",Regular
+C02048,"Tamil Nadu","2024-10-20 00:00:00",Regular
+C02049,Maharashtra,"2024-06-18 00:00:00",Regular
+C02050,Karnataka,"2024-08-04 00:00:00",Regular
+C02051,"Uttar Pradesh","2023-07-05 00:00:00",Premium
+C02052,Maharashtra,"2024-11-22 00:00:00",Regular
+C02053,Delhi,"2023-11-14 00:00:00",Premium
+C02054,Telangana,"2024-04-20 00:00:00",Regular
+C02055,Karnataka,"2024-05-24 00:00:00",Regular
+C02056,Delhi,"2024-04-28 00:00:00",Regular
+C02057,"Uttar Pradesh","2024-03-15 00:00:00",Premium
+C02058,Delhi,"2023-12-17 00:00:00",Regular
+C02059,Maharashtra,"2024-04-17 00:00:00",Premium
+C02060,Maharashtra,"2024-10-22 00:00:00",Regular
+C02061,"Uttar Pradesh","2023-10-12 00:00:00",Regular
+C02062,Karnataka,"2024-01-08 00:00:00",Regular
+C02063,Delhi,"2023-05-12 00:00:00",Regular
+C02064,Maharashtra,"2023-09-17 00:00:00",Premium
+C02065,Delhi,"2024-07-17 00:00:00",Regular
+C02066,"Uttar Pradesh","2024-04-12 00:00:00",Regular
+C02067,Delhi,"2023-06-04 00:00:00",Regular
+C02068,"Uttar Pradesh","2024-02-03 00:00:00",Regular
+C02069,Karnataka,"2024-08-15 00:00:00",Regular
+C02070,Delhi,"2023-04-01 00:00:00",Premium
+C02071,Telangana,"2023-02-15 00:00:00",Regular
+C02072,Delhi,"2023-10-14 00:00:00",Regular
+C02073,Karnataka,"2024-04-24 00:00:00",Regular
+C02074,Telangana,"2023-08-17 00:00:00",Regular
+C02075,Delhi,"2024-08-22 00:00:00",Regular
+C02076,"Tamil Nadu","2024-09-10 00:00:00",Regular
+C02077,"Uttar Pradesh","2024-01-24 00:00:00",Regular
+C02078,Maharashtra,"2023-10-04 00:00:00",Regular
+C02079,Karnataka,"2023-01-31 00:00:00",Premium
+C02080,Maharashtra,"2024-08-22 00:00:00",Premium
+C02081,Delhi,"2024-10-15 00:00:00",Premium
+C02082,Maharashtra,"2023-11-19 00:00:00",Regular
+C02083,"West Bengal","2024-01-13 00:00:00",Regular
+C02084,Maharashtra,"2024-07-04 00:00:00",Regular
+C02085,"West Bengal","2024-05-22 00:00:00",Regular
+C02086,Karnataka,"2023-04-09 00:00:00",Regular
+C02087,Karnataka,"2024-05-05 00:00:00",Regular
+C02088,Karnataka,"2024-11-05 00:00:00",Premium
+C02089,"West Bengal","2024-07-02 00:00:00",Premium
+C02090,Delhi,"2023-12-17 00:00:00",Regular
+C02091,Karnataka,"2024-01-17 00:00:00",Regular
+C02092,Telangana,"2023-07-09 00:00:00",Regular
+C02093,"Tamil Nadu","2024-04-27 00:00:00",Regular
+C02094,Maharashtra,"2023-06-26 00:00:00",Premium
+C02095,Telangana,"2023-09-07 00:00:00",Premium
+C02096,Karnataka,"2023-07-13 00:00:00",Regular
+C02097,Maharashtra,"2023-09-02 00:00:00",Regular
+C02098,Delhi,"2023-09-25 00:00:00",Regular
+C02099,Maharashtra,"2023-03-02 00:00:00",Regular
+C02100,Karnataka,"2024-06-07 00:00:00",Regular
+C02101,Gujarat,"2023-11-18 00:00:00",Regular
+C02102,Maharashtra,"2024-11-24 00:00:00",Regular
+C02103,Gujarat,"2023-05-13 00:00:00",Regular
+C02104,"Uttar Pradesh","2024-05-03 00:00:00",Regular
+C02105,"Tamil Nadu","2023-05-11 00:00:00",Regular
+C02106,"West Bengal","2024-02-04 00:00:00",Regular
+C02107,"West Bengal","2023-12-25 00:00:00",Premium
+C02108,"Uttar Pradesh","2023-11-24 00:00:00",Regular
+C02109,Karnataka,"2024-04-22 00:00:00",Regular
+C02110,Maharashtra,"2024-08-27 00:00:00",Regular
+C02111,Delhi,"2023-08-20 00:00:00",Regular
+C02112,"Tamil Nadu","2024-09-12 00:00:00",Regular
+C02113,Maharashtra,"2023-05-15 00:00:00",Regular
+C02114,"Tamil Nadu","2023-08-02 00:00:00",Regular
+C02115,Maharashtra,"2023-08-15 00:00:00",Premium
+C02116,"Uttar Pradesh","2024-11-26 00:00:00",Regular
+C02117,Karnataka,"2023-03-28 00:00:00",Regular
+C02118,Maharashtra,"2023-10-16 00:00:00",Premium
+C02119,Maharashtra,"2023-11-06 00:00:00",Regular
+C02120,Karnataka,"2024-08-07 00:00:00",Regular
+C02121,Karnataka,"2023-12-21 00:00:00",Premium
+C02122,Maharashtra,"2024-12-06 00:00:00",Regular
+C02123,Karnataka,"2024-06-24 00:00:00",Regular
+C02124,Maharashtra,"2024-05-28 00:00:00",Regular
+C02125,Karnataka,"2024-07-03 00:00:00",Regular
+C02126,Delhi,"2023-04-28 00:00:00",Premium
+C02127,Karnataka,"2023-11-24 00:00:00",Regular
+C02128,Karnataka,"2024-03-03 00:00:00",Regular
+C02129,Maharashtra,"2023-06-02 00:00:00",Regular
+C02130,Maharashtra,"2023-03-28 00:00:00",Regular
+C02131,Maharashtra,"2023-04-10 00:00:00",Regular
+C02132,Gujarat,"2024-07-30 00:00:00",Regular
+C02133,"Uttar Pradesh","2024-04-24 00:00:00",Premium
+C02134,"Uttar Pradesh","2023-07-25 00:00:00",Regular
+C02135,Delhi,"2024-06-22 00:00:00",Regular
+C02136,"Tamil Nadu","2024-05-22 00:00:00",Regular
+C02137,Karnataka,"2024-08-19 00:00:00",Regular
+C02138,Gujarat,"2024-10-26 00:00:00",Regular
+C02139,Gujarat,"2024-10-06 00:00:00",Regular
+C02140,Telangana,"2023-05-13 00:00:00",Regular
+C02141,Telangana,"2024-07-15 00:00:00",Regular
+C02142,Delhi,"2023-10-14 00:00:00",Premium
+C02143,Gujarat,"2023-10-22 00:00:00",Regular
+C02144,Gujarat,"2024-04-17 00:00:00",Regular
+C02145,Karnataka,"2024-03-15 00:00:00",Regular
+C02146,"Uttar Pradesh","2023-11-03 00:00:00",Regular
+C02147,Maharashtra,"2024-12-30 00:00:00",Regular
+C02148,"Uttar Pradesh","2023-05-08 00:00:00",Regular
+C02149,Gujarat,"2023-03-12 00:00:00",Premium
+C02150,Maharashtra,"2023-01-22 00:00:00",Regular
+C02151,"West Bengal","2024-08-17 00:00:00",Regular
+C02152,Maharashtra,"2023-10-24 00:00:00",Premium
+C02153,Gujarat,"2023-11-16 00:00:00",Regular
+C02154,Gujarat,"2024-04-18 00:00:00",Regular
+C02155,"Tamil Nadu","2023-11-14 00:00:00",Regular
+C02156,Telangana,"2024-02-24 00:00:00",Regular
+C02157,Maharashtra,"2023-02-12 00:00:00",Regular
+C02158,Karnataka,"2023-04-25 00:00:00",Premium
+C02159,Delhi,"2024-11-11 00:00:00",Regular
+C02160,Maharashtra,"2023-11-26 00:00:00",Regular
+C02161,Delhi,"2023-05-03 00:00:00",Regular
+C02162,Karnataka,"2023-09-27 00:00:00",Premium
+C02163,Delhi,"2023-09-02 00:00:00",Regular
+C02164,Delhi,"2023-07-20 00:00:00",Premium
+C02165,Telangana,"2023-08-03 00:00:00",Regular
+C02166,Karnataka,"2024-06-16 00:00:00",Regular
+C02167,Telangana,"2023-03-19 00:00:00",Premium
+C02168,Delhi,"2023-08-15 00:00:00",Regular
+C02169,Karnataka,"2023-12-08 00:00:00",Regular
+C02170,Delhi,"2024-01-30 00:00:00",Premium
+C02171,Delhi,"2024-10-04 00:00:00",Regular
+C02172,Karnataka,"2024-11-04 00:00:00",Regular
+C02173,Delhi,"2023-08-06 00:00:00",Regular
+C02174,Maharashtra,"2024-01-29 00:00:00",Regular
+C02175,Karnataka,"2023-01-17 00:00:00",Regular
+C02176,"Tamil Nadu","2024-03-26 00:00:00",Regular
+C02177,Delhi,"2023-04-22 00:00:00",Regular
+C02178,Telangana,"2023-02-23 00:00:00",Premium
+C02179,Karnataka,"2024-05-05 00:00:00",Regular
+C02180,"Uttar Pradesh","2023-05-11 00:00:00",Regular
+C02181,Gujarat,"2023-12-15 00:00:00",Regular
+C02182,"Uttar Pradesh","2023-03-15 00:00:00",Premium
+C02183,Telangana,"2024-06-28 00:00:00",Regular
+C02184,Maharashtra,"2024-07-12 00:00:00",Premium
+C02185,"Tamil Nadu","2024-02-24 00:00:00",Regular
+C02186,Maharashtra,"2024-09-02 00:00:00",Regular
+C02187,Gujarat,"2023-11-15 00:00:00",Premium
+C02188,"Tamil Nadu","2023-05-17 00:00:00",Premium
+C02189,Karnataka,"2023-04-21 00:00:00",Regular
+C02190,"Uttar Pradesh","2023-06-10 00:00:00",Regular
+C02191,Maharashtra,"2023-05-27 00:00:00",Regular
+C02192,"Tamil Nadu","2023-08-24 00:00:00",Regular
+C02193,Gujarat,"2023-06-06 00:00:00",Premium
+C02194,Maharashtra,"2024-03-07 00:00:00",Premium
+C02195,"Tamil Nadu","2023-04-19 00:00:00",Regular
+C02196,Gujarat,"2024-03-29 00:00:00",Regular
+C02197,Maharashtra,"2023-09-01 00:00:00",Regular
+C02198,Delhi,"2024-05-16 00:00:00",Regular
+C02199,Karnataka,"2024-01-10 00:00:00",Regular
+C02200,"West Bengal","2024-10-22 00:00:00",Regular
+C02201,Maharashtra,"2023-11-18 00:00:00",Regular
+C02202,"Uttar Pradesh","2023-08-04 00:00:00",Regular
+C02203,Telangana,"2024-03-06 00:00:00",Premium
+C02204,Maharashtra,"2024-04-25 00:00:00",Regular
+C02205,Karnataka,"2023-11-17 00:00:00",Regular
+C02206,"Tamil Nadu","2024-02-13 00:00:00",Regular
+C02207,"West Bengal","2023-12-10 00:00:00",Regular
+C02208,Delhi,"2023-08-12 00:00:00",Regular
+C02209,Maharashtra,"2023-08-17 00:00:00",Regular
+C02210,Maharashtra,"2024-10-24 00:00:00",Regular
+C02211,"Uttar Pradesh","2024-05-07 00:00:00",Regular
+C02212,Delhi,"2023-03-11 00:00:00",Premium
+C02213,Telangana,"2024-12-03 00:00:00",Regular
+C02214,Delhi,"2024-06-03 00:00:00",Regular
+C02215,"Uttar Pradesh","2023-02-06 00:00:00",Regular
+C02216,Maharashtra,"2024-06-15 00:00:00",Premium
+C02217,Maharashtra,"2024-03-06 00:00:00",Regular
+C02218,"Uttar Pradesh","2024-10-30 00:00:00",Premium
+C02219,"Uttar Pradesh","2023-12-24 00:00:00",Regular
+C02220,Karnataka,"2024-01-14 00:00:00",Regular
+C02221,Karnataka,"2023-08-18 00:00:00",Regular
+C02222,Delhi,"2023-08-23 00:00:00",Regular
+C02223,Delhi,"2024-03-27 00:00:00",Regular
+C02224,Maharashtra,"2024-08-27 00:00:00",Regular
+C02225,Telangana,"2024-10-12 00:00:00",Regular
+C02226,Karnataka,"2024-07-16 00:00:00",Regular
+C02227,"West Bengal","2024-03-21 00:00:00",Regular
+C02228,Maharashtra,"2024-01-01 00:00:00",Regular
+C02229,Maharashtra,"2023-09-05 00:00:00",Regular
+C02230,"West Bengal","2024-07-14 00:00:00",Regular
+C02231,Karnataka,"2023-08-21 00:00:00",Premium
+C02232,"West Bengal","2023-07-15 00:00:00",Regular
+C02233,Maharashtra,"2024-09-25 00:00:00",Premium
+C02234,"Uttar Pradesh","2024-03-06 00:00:00",Regular
+C02235,Gujarat,"2023-09-16 00:00:00",Regular
+C02236,Telangana,"2024-09-23 00:00:00",Premium
+C02237,Maharashtra,"2024-12-03 00:00:00",Regular
+C02238,Karnataka,"2023-08-21 00:00:00",Regular
+C02239,Karnataka,"2024-01-16 00:00:00",Regular
+C02240,"Tamil Nadu","2023-12-19 00:00:00",Regular
+C02241,Karnataka,"2024-05-27 00:00:00",Regular
+C02242,Maharashtra,"2024-11-25 00:00:00",Regular
+C02243,Karnataka,"2024-02-05 00:00:00",Regular
+C02244,Karnataka,"2024-08-05 00:00:00",Regular
+C02245,Delhi,"2024-03-10 00:00:00",Regular
+C02246,Maharashtra,"2024-10-09 00:00:00",Regular
+C02247,Karnataka,"2023-10-23 00:00:00",Regular
+C02248,"Tamil Nadu","2023-10-09 00:00:00",Regular
+C02249,Delhi,"2023-11-05 00:00:00",Regular
+C02250,Karnataka,"2024-12-28 00:00:00",Regular
+C02251,"Tamil Nadu","2024-03-22 00:00:00",Regular
+C02252,Gujarat,"2023-04-22 00:00:00",Regular
+C02253,Karnataka,"2023-01-30 00:00:00",Regular
+C02254,"Tamil Nadu","2024-01-14 00:00:00",Premium
+C02255,"Uttar Pradesh","2024-08-11 00:00:00",Regular
+C02256,"Tamil Nadu","2023-12-16 00:00:00",Regular
+C02257,Telangana,"2024-02-13 00:00:00",Regular
+C02258,Gujarat,"2024-08-05 00:00:00",Premium
+C02259,Maharashtra,"2024-01-12 00:00:00",Regular
+C02260,Delhi,"2024-10-25 00:00:00",Regular
+C02261,"West Bengal","2024-04-10 00:00:00",Regular
+C02262,"Uttar Pradesh","2024-06-17 00:00:00",Regular
+C02263,Delhi,"2024-07-24 00:00:00",Premium
+C02264,Maharashtra,"2024-04-02 00:00:00",Regular
+C02265,"Tamil Nadu","2023-02-06 00:00:00",Regular
+C02266,Maharashtra,"2023-11-09 00:00:00",Regular
+C02267,Gujarat,"2023-04-14 00:00:00",Premium
+C02268,Delhi,"2024-01-08 00:00:00",Regular
+C02269,Gujarat,"2023-04-15 00:00:00",Premium
+C02270,Telangana,"2024-01-07 00:00:00",Regular
+C02271,"Tamil Nadu","2023-09-09 00:00:00",Regular
+C02272,"Tamil Nadu","2023-01-15 00:00:00",Regular
+C02273,Gujarat,"2023-04-02 00:00:00",Regular
+C02274,Telangana,"2024-01-03 00:00:00",Premium
+C02275,Telangana,"2023-02-27 00:00:00",Regular
+C02276,Maharashtra,"2024-09-16 00:00:00",Regular
+C02277,"Tamil Nadu","2024-07-07 00:00:00",Regular
+C02278,Maharashtra,"2024-06-01 00:00:00",Regular
+C02279,Telangana,"2023-05-06 00:00:00",Regular
+C02280,"West Bengal","2024-08-03 00:00:00",Regular
+C02281,Delhi,"2024-04-08 00:00:00",Regular
+C02282,Maharashtra,"2023-10-13 00:00:00",Regular
+C02283,Karnataka,"2023-01-01 00:00:00",Regular
+C02284,"West Bengal","2024-01-22 00:00:00",Regular
+C02285,NULL,"2024-08-04 00:00:00",Regular
+C02286,Maharashtra,"2023-01-25 00:00:00",Regular
+C02287,Telangana,"2023-02-08 00:00:00",Regular
+C02288,Gujarat,"2023-10-07 00:00:00",Regular
+C02289,Maharashtra,"2024-01-09 00:00:00",Regular
+C02290,NULL,"2023-12-13 00:00:00",Premium
+C02291,"Uttar Pradesh","2023-11-08 00:00:00",Regular
+C02292,"West Bengal","2023-07-06 00:00:00",Regular
+C02293,"Tamil Nadu","2023-02-13 00:00:00",Regular
+C02294,Karnataka,"2023-01-23 00:00:00",Regular
+C02295,Karnataka,"2023-03-14 00:00:00",Regular
+C02296,Maharashtra,"2024-05-18 00:00:00",Regular
+C02297,Gujarat,"2024-07-27 00:00:00",Regular
+C02298,Maharashtra,"2023-11-14 00:00:00",Regular
+C02299,Maharashtra,"2023-02-26 00:00:00",Regular
+C02300,Gujarat,"2023-10-31 00:00:00",Regular
+C02301,"Uttar Pradesh","2024-12-20 00:00:00",Regular
+C02302,Gujarat,"2023-07-02 00:00:00",Regular
+C02303,Delhi,"2023-12-25 00:00:00",Regular
+C02304,Delhi,"2024-01-28 00:00:00",Regular
+C02305,Delhi,"2023-08-29 00:00:00",Premium
+C02306,Karnataka,"2023-11-16 00:00:00",Regular
+C02307,"Tamil Nadu","2023-12-11 00:00:00",Regular
+C02308,Delhi,"2023-12-13 00:00:00",Premium
+C02309,"Tamil Nadu","2024-06-07 00:00:00",Regular
+C02310,Telangana,"2024-02-29 00:00:00",Regular
+C02311,"Uttar Pradesh","2023-02-08 00:00:00",Regular
+C02312,Maharashtra,"2023-01-05 00:00:00",Regular
+C02313,Delhi,"2023-10-27 00:00:00",Regular
+C02314,Maharashtra,"2024-10-24 00:00:00",Regular
+C02315,Karnataka,"2023-01-27 00:00:00",Regular
+C02316,Karnataka,"2023-02-21 00:00:00",Regular
+C02317,Maharashtra,"2024-05-10 00:00:00",Regular
+C02318,Gujarat,"2023-11-26 00:00:00",Regular
+C02319,Delhi,"2023-06-18 00:00:00",Regular
+C02320,Telangana,"2023-06-01 00:00:00",Premium
+C02321,Maharashtra,"2024-04-30 00:00:00",Regular
+C02322,Maharashtra,"2024-01-18 00:00:00",Premium
+C02323,Delhi,"2024-04-10 00:00:00",Regular
+C02324,Maharashtra,"2023-07-24 00:00:00",Regular
+C02325,Karnataka,"2024-01-20 00:00:00",Regular
+C02326,"Uttar Pradesh","2024-09-19 00:00:00",Regular
+C02327,Maharashtra,"2023-08-20 00:00:00",Regular
+C02328,Maharashtra,"2023-10-17 00:00:00",Premium
+C02329,"Tamil Nadu","2023-04-30 00:00:00",Regular
+C02330,Delhi,"2024-04-11 00:00:00",Regular
+C02331,"Tamil Nadu","2023-01-24 00:00:00",Regular
+C02332,Karnataka,"2023-07-01 00:00:00",Regular
+C02333,Telangana,"2024-06-04 00:00:00",Regular
+C02334,Maharashtra,"2023-01-15 00:00:00",Premium
+C02335,Delhi,"2024-12-23 00:00:00",Regular
+C02336,"West Bengal","2023-10-23 00:00:00",Regular
+C02337,Telangana,"2023-10-19 00:00:00",Regular
+C02338,Karnataka,"2024-01-27 00:00:00",Regular
+C02339,"Tamil Nadu","2024-04-11 00:00:00",Premium
+C02340,Maharashtra,"2023-12-02 00:00:00",Premium
+C02341,Maharashtra,"2024-10-07 00:00:00",Regular
+C02342,Maharashtra,"2024-12-03 00:00:00",Premium
+C02343,Gujarat,"2023-05-27 00:00:00",Regular
+C02344,Karnataka,"2024-05-30 00:00:00",Regular
+C02345,Gujarat,"2023-08-08 00:00:00",Regular
+C02346,Maharashtra,"2024-12-27 00:00:00",Regular
+C02347,Telangana,"2023-07-04 00:00:00",Regular
+C02348,Telangana,"2023-08-04 00:00:00",Regular
+C02349,Maharashtra,"2024-06-05 00:00:00",Regular
+C02350,Maharashtra,"2024-07-30 00:00:00",Premium
+C02351,Maharashtra,"2023-04-04 00:00:00",Premium
+C02352,Telangana,"2024-02-10 00:00:00",Regular
+C02353,Karnataka,"2023-09-10 00:00:00",Regular
+C02354,"Tamil Nadu","2024-03-22 00:00:00",Regular
+C02355,Delhi,"2024-02-11 00:00:00",Regular
+C02356,Gujarat,"2024-12-20 00:00:00",Regular
+C02357,Delhi,"2024-11-12 00:00:00",Regular
+C02358,Delhi,"2024-04-22 00:00:00",Regular
+C02359,"Uttar Pradesh","2024-05-10 00:00:00",Regular
+C02360,Maharashtra,"2024-10-18 00:00:00",Regular
+C02361,Telangana,"2023-05-14 00:00:00",Regular
+C02362,Maharashtra,"2024-06-13 00:00:00",Premium
+C02363,Delhi,"2024-07-17 00:00:00",Regular
+C02364,Telangana,"2023-04-03 00:00:00",Regular
+C02365,"West Bengal","2024-10-05 00:00:00",Regular
+C02366,"West Bengal","2024-05-25 00:00:00",Regular
+C02367,Karnataka,"2023-09-11 00:00:00",Regular
+C02368,Delhi,"2023-12-20 00:00:00",Regular
+C02369,Karnataka,"2023-12-24 00:00:00",Regular
+C02370,"Tamil Nadu","2024-11-01 00:00:00",Regular
+C02371,Delhi,"2024-12-08 00:00:00",Regular
+C02372,Karnataka,"2024-08-11 00:00:00",Regular
+C02373,Karnataka,"2024-04-21 00:00:00",Regular
+C02374,Karnataka,"2023-03-18 00:00:00",Regular
+C02375,Karnataka,"2024-10-29 00:00:00",Regular
+C02376,Maharashtra,"2023-04-08 00:00:00",Regular
+C02377,Telangana,"2023-05-02 00:00:00",Regular
+C02378,"Tamil Nadu","2023-02-20 00:00:00",Regular
+C02379,Maharashtra,"2024-11-22 00:00:00",Regular
+C02380,"West Bengal","2023-12-27 00:00:00",Regular
+C02381,Telangana,"2023-06-22 00:00:00",Regular
+C02382,Karnataka,"2023-02-28 00:00:00",Regular
+C02383,Maharashtra,"2023-10-28 00:00:00",Regular
+C02384,Maharashtra,"2024-06-12 00:00:00",Premium
+C02385,Maharashtra,"2024-12-27 00:00:00",Premium
+C02386,Gujarat,"2024-02-08 00:00:00",Premium
+C02387,"Uttar Pradesh","2024-03-19 00:00:00",Regular
+C02388,Maharashtra,"2024-09-02 00:00:00",Regular
+C02389,Gujarat,"2024-10-20 00:00:00",Regular
+C02390,Maharashtra,"2023-07-24 00:00:00",Regular
+C02391,"Tamil Nadu","2024-12-25 00:00:00",Regular
+C02392,Gujarat,"2024-01-14 00:00:00",Regular
+C02393,Karnataka,"2024-11-10 00:00:00",Regular
+C02394,Maharashtra,"2023-03-27 00:00:00",Regular
+C02395,"Tamil Nadu","2023-03-13 00:00:00",Regular
+C02396,"Uttar Pradesh","2024-10-07 00:00:00",Regular
+C02397,Karnataka,"2024-05-05 00:00:00",Premium
+C02398,Maharashtra,"2023-05-08 00:00:00",Regular
+C02399,Maharashtra,"2024-10-15 00:00:00",Regular
+C02400,"Tamil Nadu","2023-03-16 00:00:00",Premium
+C02401,"Tamil Nadu","2024-05-13 00:00:00",Regular
+C02402,Gujarat,"2023-05-30 00:00:00",Regular
+C02403,Gujarat,"2023-02-21 00:00:00",Regular
+C02404,Telangana,"2024-08-11 00:00:00",Regular
+C02405,Gujarat,"2024-09-10 00:00:00",Regular
+C02406,Karnataka,"2023-03-19 00:00:00",Premium
+C02407,"Tamil Nadu","2023-03-09 00:00:00",Regular
+C02408,Karnataka,"2024-03-24 00:00:00",Premium
+C02409,Karnataka,"2023-01-21 00:00:00",Premium
+C02410,"Uttar Pradesh","2024-06-28 00:00:00",Regular
+C02411,"West Bengal","2024-10-30 00:00:00",Regular
+C02412,"Uttar Pradesh","2024-07-02 00:00:00",Regular
+C02413,Delhi,"2023-06-18 00:00:00",Regular
+C02414,"Tamil Nadu","2023-05-19 00:00:00",Regular
+C02415,Delhi,"2024-05-11 00:00:00",Regular
+C02416,NULL,"2023-02-14 00:00:00",Premium
+C02417,Karnataka,"2024-01-28 00:00:00",Regular
+C02418,"Tamil Nadu","2023-11-24 00:00:00",Regular
+C02419,Maharashtra,"2024-06-27 00:00:00",Regular
+C02420,"Uttar Pradesh","2023-05-28 00:00:00",Regular
+C02421,Maharashtra,"2024-07-10 00:00:00",Regular
+C02422,Maharashtra,"2024-05-25 00:00:00",Regular
+C02423,Gujarat,"2023-06-24 00:00:00",Regular
+C02424,Maharashtra,"2023-09-18 00:00:00",Regular
+C02425,Telangana,"2023-02-18 00:00:00",Regular
+C02426,Gujarat,"2023-11-25 00:00:00",Regular
+C02427,Maharashtra,"2023-07-10 00:00:00",Regular
+C02428,"West Bengal","2023-03-24 00:00:00",Premium
+C02429,"Tamil Nadu","2024-02-13 00:00:00",Regular
+C02430,Gujarat,"2024-02-19 00:00:00",Premium
+C02431,Telangana,"2023-03-04 00:00:00",Regular
+C02432,"West Bengal","2023-05-16 00:00:00",Regular
+C02433,"Tamil Nadu","2023-03-02 00:00:00",Regular
+C02434,Karnataka,"2024-05-10 00:00:00",Regular
+C02435,"West Bengal","2023-09-04 00:00:00",Regular
+C02436,"Uttar Pradesh","2023-02-21 00:00:00",Regular
+C02437,"Tamil Nadu","2023-05-20 00:00:00",Premium
+C02438,"West Bengal","2024-12-13 00:00:00",Regular
+C02439,Delhi,"2023-07-06 00:00:00",Regular
+C02440,Gujarat,"2024-05-14 00:00:00",Regular
+C02441,"Uttar Pradesh","2023-12-08 00:00:00",Regular
+C02442,Maharashtra,"2023-05-13 00:00:00",Regular
+C02443,Maharashtra,"2023-08-13 00:00:00",Regular
+C02444,"Tamil Nadu","2023-01-11 00:00:00",Regular
+C02445,Delhi,"2024-06-29 00:00:00",Regular
+C02446,"Tamil Nadu","2023-09-02 00:00:00",Regular
+C02447,Maharashtra,"2023-12-31 00:00:00",Regular
+C02448,Delhi,"2023-04-22 00:00:00",Regular
+C02449,"Tamil Nadu","2024-08-24 00:00:00",Regular
+C02450,"Tamil Nadu","2023-06-09 00:00:00",Premium
+C02451,"West Bengal","2024-02-18 00:00:00",Regular
+C02452,Gujarat,"2024-09-29 00:00:00",Premium
+C02453,"West Bengal","2024-06-04 00:00:00",Regular
+C02454,Gujarat,"2024-03-16 00:00:00",Regular
+C02455,"Tamil Nadu","2024-10-10 00:00:00",Regular
+C02456,"Tamil Nadu","2023-05-09 00:00:00",Regular
+C02457,"Tamil Nadu","2024-12-04 00:00:00",Regular
+C02458,Maharashtra,"2024-02-11 00:00:00",Regular
+C02459,Karnataka,"2023-10-27 00:00:00",Regular
+C02460,"Tamil Nadu","2023-07-06 00:00:00",Premium
+C02461,Telangana,"2024-06-27 00:00:00",Regular
+C02462,"West Bengal","2024-12-13 00:00:00",Regular
+C02463,Maharashtra,"2024-05-18 00:00:00",Regular
+C02464,"Tamil Nadu","2023-01-24 00:00:00",Regular
+C02465,Karnataka,"2023-12-09 00:00:00",Regular
+C02466,Gujarat,"2024-06-18 00:00:00",Regular
+C02467,Telangana,"2023-10-18 00:00:00",Regular
+C02468,NULL,"2024-07-18 00:00:00",Regular
+C02469,"Tamil Nadu","2024-05-31 00:00:00",Regular
+C02470,Karnataka,"2023-02-19 00:00:00",Regular
+C02471,Delhi,"2024-02-12 00:00:00",Regular
+C02472,Telangana,"2023-05-06 00:00:00",Regular
+C02473,Gujarat,"2023-12-22 00:00:00",Regular
+C02474,Delhi,"2023-10-08 00:00:00",Premium
+C02475,Karnataka,"2024-08-12 00:00:00",Regular
+C02476,Maharashtra,"2024-09-25 00:00:00",Regular
+C02477,Maharashtra,"2023-12-03 00:00:00",Premium
+C02478,Maharashtra,"2024-01-28 00:00:00",Regular
+C02479,Karnataka,"2024-04-02 00:00:00",Regular
+C02480,"Uttar Pradesh","2024-04-23 00:00:00",Regular
+C02481,Delhi,"2024-04-08 00:00:00",Premium
+C02482,Karnataka,"2024-07-25 00:00:00",Premium
+C02483,Maharashtra,"2024-12-17 00:00:00",Regular
+C02484,Karnataka,"2024-08-27 00:00:00",Regular
+C02485,Gujarat,"2023-04-09 00:00:00",Regular
+C02486,Delhi,"2023-12-14 00:00:00",Regular
+C02487,Gujarat,"2023-12-03 00:00:00",Regular
+C02488,Gujarat,"2024-01-07 00:00:00",Regular
+C02489,Maharashtra,"2024-01-21 00:00:00",Regular
+C02490,"Tamil Nadu","2024-06-08 00:00:00",Regular
+C02491,"Uttar Pradesh","2023-11-04 00:00:00",Regular
+C02492,Delhi,"2023-07-12 00:00:00",Regular
+C02493,Maharashtra,"2023-12-01 00:00:00",Premium
+C02494,"Uttar Pradesh","2024-09-15 00:00:00",Regular
+C02495,Telangana,"2023-08-16 00:00:00",Regular
+C02496,"Tamil Nadu","2023-01-16 00:00:00",Premium
+C02497,"Tamil Nadu","2024-12-13 00:00:00",Regular
+C02498,Maharashtra,"2023-05-23 00:00:00",Regular
+C02499,Gujarat,"2024-03-16 00:00:00",Premium
+C02500,Delhi,"2024-08-07 00:00:00",Regular
+C02501,Maharashtra,"2023-07-20 00:00:00",Regular
+C02502,"West Bengal","2023-09-06 00:00:00",Premium
+C02503,"Uttar Pradesh","2023-07-24 00:00:00",Regular
+C02504,Telangana,"2023-04-20 00:00:00",Regular
+C02505,Karnataka,"2023-04-22 00:00:00",Premium
+C02506,Maharashtra,"2023-05-17 00:00:00",Regular
+C02507,"Uttar Pradesh","2023-12-01 00:00:00",Premium
+C02508,"Uttar Pradesh","2024-01-23 00:00:00",Regular
+C02509,"Tamil Nadu","2023-01-12 00:00:00",Regular
+C02510,"West Bengal","2024-09-09 00:00:00",Regular
+C02511,Delhi,"2024-05-08 00:00:00",Regular
+C02512,Delhi,"2023-02-21 00:00:00",Premium
+C02513,NULL,"2024-09-07 00:00:00",Regular
+C02514,Maharashtra,"2023-01-23 00:00:00",Regular
+C02515,Karnataka,"2024-02-14 00:00:00",Regular
+C02516,Telangana,"2023-12-06 00:00:00",Premium
+C02517,Maharashtra,"2024-01-02 00:00:00",Regular
+C02518,Karnataka,"2024-11-29 00:00:00",Regular
+C02519,"Tamil Nadu","2024-11-07 00:00:00",Regular
+C02520,Maharashtra,"2023-07-23 00:00:00",Regular
+C02521,Maharashtra,"2024-02-28 00:00:00",Premium
+C02522,"Tamil Nadu","2024-12-01 00:00:00",Premium
+C02523,Karnataka,"2024-06-16 00:00:00",Regular
+C02524,"Tamil Nadu","2024-10-10 00:00:00",Regular
+C02525,Telangana,"2023-11-14 00:00:00",Regular
+C02526,Maharashtra,"2023-07-26 00:00:00",Regular
+C02527,Telangana,"2024-01-08 00:00:00",Regular
+C02528,Telangana,"2024-08-19 00:00:00",Regular
+C02529,Telangana,"2024-11-09 00:00:00",Regular
+C02530,"Tamil Nadu","2024-05-15 00:00:00",Premium
+C02531,"Tamil Nadu","2024-05-30 00:00:00",Regular
+C02532,"Tamil Nadu","2024-01-09 00:00:00",Regular
+C02533,"West Bengal","2023-08-22 00:00:00",Regular
+C02534,Maharashtra,"2023-11-05 00:00:00",Regular
+C02535,"Uttar Pradesh","2023-12-30 00:00:00",Regular
+C02536,"Tamil Nadu","2024-08-18 00:00:00",Regular
+C02537,Gujarat,"2024-02-10 00:00:00",Regular
+C02538,Karnataka,"2024-08-01 00:00:00",Regular
+C02539,Maharashtra,"2023-01-20 00:00:00",Premium
+C02540,Delhi,"2024-07-06 00:00:00",Premium
+C02541,Delhi,"2024-01-06 00:00:00",Regular
+C02542,Delhi,"2024-12-29 00:00:00",Regular
+C02543,Karnataka,"2023-12-11 00:00:00",Regular
+C02544,Karnataka,"2023-12-16 00:00:00",Regular
+C02545,"Tamil Nadu","2023-04-04 00:00:00",Premium
+C02546,Karnataka,"2024-08-12 00:00:00",Premium
+C02547,"Uttar Pradesh","2024-05-27 00:00:00",Regular
+C02548,Maharashtra,"2024-09-21 00:00:00",Regular
+C02549,Karnataka,"2023-03-09 00:00:00",Regular
+C02550,Karnataka,"2023-06-04 00:00:00",Regular
+C02551,"Tamil Nadu","2024-10-02 00:00:00",Premium
+C02552,Delhi,"2023-01-31 00:00:00",Regular
+C02553,"West Bengal","2024-01-06 00:00:00",Regular
+C02554,"Uttar Pradesh","2023-10-23 00:00:00",Regular
+C02555,Karnataka,"2024-11-16 00:00:00",Regular
+C02556,"West Bengal","2024-09-17 00:00:00",Regular
+C02557,Maharashtra,"2024-10-16 00:00:00",Premium
+C02558,Karnataka,"2023-07-31 00:00:00",Regular
+C02559,Delhi,"2024-03-04 00:00:00",Regular
+C02560,Maharashtra,"2024-05-26 00:00:00",Regular
+C02561,"Tamil Nadu","2024-12-07 00:00:00",Regular
+C02562,"West Bengal","2023-01-06 00:00:00",Regular
+C02563,Gujarat,"2024-12-14 00:00:00",Regular
+C02564,Delhi,"2023-09-17 00:00:00",Regular
+C02565,"Tamil Nadu","2023-04-04 00:00:00",Regular
+C02566,Delhi,"2024-03-25 00:00:00",Premium
+C02567,Maharashtra,"2024-07-24 00:00:00",Regular
+C02568,Maharashtra,"2023-04-05 00:00:00",Premium
+C02569,"West Bengal","2023-01-30 00:00:00",Regular
+C02570,"Uttar Pradesh","2024-10-16 00:00:00",Regular
+C02571,Maharashtra,"2024-11-12 00:00:00",Regular
+C02572,"Tamil Nadu","2023-04-25 00:00:00",Regular
+C02573,Gujarat,"2024-10-21 00:00:00",Regular
+C02574,Telangana,"2024-10-26 00:00:00",Regular
+C02575,"Tamil Nadu","2024-12-29 00:00:00",Regular
+C02576,"Tamil Nadu","2023-06-07 00:00:00",Regular
+C02577,"West Bengal","2024-02-27 00:00:00",Regular
+C02578,Telangana,"2024-12-26 00:00:00",Premium
+C02579,Maharashtra,"2024-10-20 00:00:00",Regular
+C02580,"Uttar Pradesh","2024-03-17 00:00:00",Premium
+C02581,Maharashtra,"2023-05-24 00:00:00",Premium
+C02582,Telangana,"2023-03-03 00:00:00",Premium
+C02583,Maharashtra,"2023-07-09 00:00:00",Regular
+C02584,NULL,"2023-02-17 00:00:00",Regular
+C02585,Maharashtra,"2023-05-23 00:00:00",Regular
+C02586,Delhi,"2023-02-24 00:00:00",Regular
+C02587,Karnataka,"2024-07-10 00:00:00",Regular
+C02588,Maharashtra,"2024-03-06 00:00:00",Regular
+C02589,Delhi,"2024-01-14 00:00:00",Regular
+C02590,Delhi,"2024-08-13 00:00:00",Regular
+C02591,Gujarat,"2023-10-27 00:00:00",Regular
+C02592,Telangana,"2023-10-22 00:00:00",Regular
+C02593,"West Bengal","2023-06-01 00:00:00",Premium
+C02594,Maharashtra,"2023-11-21 00:00:00",Regular
+C02595,Karnataka,"2023-05-08 00:00:00",Regular
+C02596,Telangana,"2024-03-06 00:00:00",Regular
+C02597,Maharashtra,"2024-12-29 00:00:00",Regular
+C02598,Delhi,"2024-01-25 00:00:00",Regular
+C02599,"Uttar Pradesh","2023-08-07 00:00:00",Regular
+C02600,"Uttar Pradesh","2024-05-17 00:00:00",Regular
+C02601,Delhi,"2024-08-21 00:00:00",Regular
+C02602,"West Bengal","2023-12-11 00:00:00",Regular
+C02603,Delhi,"2023-07-02 00:00:00",Regular
+C02604,Gujarat,"2024-06-05 00:00:00",Regular
+C02605,Maharashtra,"2023-05-17 00:00:00",Regular
+C02606,Maharashtra,"2024-12-29 00:00:00",Regular
+C02607,"Tamil Nadu","2023-08-21 00:00:00",Regular
+C02608,Karnataka,"2023-09-13 00:00:00",Regular
+C02609,"West Bengal","2024-06-14 00:00:00",Regular
+C02610,Karnataka,"2023-01-09 00:00:00",Regular
+C02611,Telangana,"2023-05-29 00:00:00",Premium
+C02612,Gujarat,"2023-04-02 00:00:00",Regular
+C02613,Delhi,"2023-10-13 00:00:00",Regular
+C02614,Gujarat,"2024-02-09 00:00:00",Regular
+C02615,Karnataka,"2023-05-12 00:00:00",Premium
+C02616,Delhi,"2023-09-09 00:00:00",Premium
+C02617,Maharashtra,"2024-07-17 00:00:00",Regular
+C02618,Telangana,"2024-11-17 00:00:00",Regular
+C02619,Telangana,"2023-01-11 00:00:00",Regular
+C02620,Telangana,"2024-04-03 00:00:00",Regular
+C02621,Telangana,"2023-01-19 00:00:00",Regular
+C02622,"Uttar Pradesh","2024-01-15 00:00:00",Regular
+C02623,Karnataka,"2024-10-04 00:00:00",Premium
+C02624,"Uttar Pradesh","2024-08-05 00:00:00",Premium
+C02625,"Tamil Nadu","2023-06-19 00:00:00",Regular
+C02626,Delhi,"2023-07-08 00:00:00",Premium
+C02627,"Tamil Nadu","2024-07-25 00:00:00",Regular
+C02628,Karnataka,"2024-08-21 00:00:00",Regular
+C02629,Karnataka,"2023-07-25 00:00:00",Premium
+C02630,Karnataka,"2023-01-03 00:00:00",Regular
+C02631,Maharashtra,"2023-11-21 00:00:00",Regular
+C02632,Delhi,"2024-03-28 00:00:00",Regular
+C02633,Telangana,"2023-11-20 00:00:00",Regular
+C02634,"Tamil Nadu","2024-11-13 00:00:00",Regular
+C02635,"Tamil Nadu","2024-08-16 00:00:00",Regular
+C02636,Delhi,"2024-07-29 00:00:00",Regular
+C02637,Delhi,"2023-01-15 00:00:00",Regular
+C02638,Maharashtra,"2024-09-15 00:00:00",Regular
+C02639,Telangana,"2024-07-05 00:00:00",Regular
+C02640,Maharashtra,"2023-10-17 00:00:00",Regular
+C02641,"West Bengal","2024-03-06 00:00:00",Regular
+C02642,Gujarat,"2024-08-24 00:00:00",Regular
+C02643,"Tamil Nadu","2024-10-23 00:00:00",Regular
+C02644,Telangana,"2024-02-07 00:00:00",Regular
+C02645,Karnataka,"2023-01-31 00:00:00",Premium
+C02646,Telangana,"2024-03-27 00:00:00",Regular
+C02647,Gujarat,"2024-05-11 00:00:00",Regular
+C02648,Gujarat,"2023-02-13 00:00:00",Regular
+C02649,"West Bengal","2024-08-19 00:00:00",Regular
+C02650,Telangana,"2023-05-28 00:00:00",Regular
+C02651,"Uttar Pradesh","2024-10-12 00:00:00",Regular
+C02652,Delhi,"2024-02-07 00:00:00",Regular
+C02653,Gujarat,"2023-08-24 00:00:00",Premium
+C02654,Gujarat,"2023-02-12 00:00:00",Regular
+C02655,Delhi,"2023-01-14 00:00:00",Premium
+C02656,"Uttar Pradesh","2024-06-25 00:00:00",Regular
+C02657,Delhi,"2023-10-03 00:00:00",Premium
+C02658,"Tamil Nadu","2024-09-05 00:00:00",Premium
+C02659,Maharashtra,"2023-06-18 00:00:00",Regular
+C02660,Karnataka,"2024-11-02 00:00:00",Regular
+C02661,Telangana,"2024-11-18 00:00:00",Regular
+C02662,Delhi,"2023-03-16 00:00:00",Regular
+C02663,Delhi,"2024-04-17 00:00:00",Regular
+C02664,Karnataka,"2024-11-16 00:00:00",Regular
+C02665,Delhi,"2023-08-24 00:00:00",Premium
+C02666,Gujarat,"2023-02-19 00:00:00",Regular
+C02667,Telangana,"2024-10-01 00:00:00",Regular
+C02668,Maharashtra,"2023-12-13 00:00:00",Regular
+C02669,"Tamil Nadu","2023-01-20 00:00:00",Regular
+C02670,Delhi,"2024-09-05 00:00:00",Regular
+C02671,"Tamil Nadu","2024-05-10 00:00:00",Regular
+C02672,Delhi,"2023-02-21 00:00:00",Regular
+C02673,Delhi,"2023-07-08 00:00:00",Regular
+C02674,Delhi,"2023-01-14 00:00:00",Regular
+C02675,"Tamil Nadu","2024-11-28 00:00:00",Regular
+C02676,Delhi,"2023-01-19 00:00:00",Regular
+C02677,Delhi,"2024-08-03 00:00:00",Regular
+C02678,Gujarat,"2024-01-09 00:00:00",Premium
+C02679,Gujarat,"2024-03-01 00:00:00",Premium
+C02680,Karnataka,"2024-08-15 00:00:00",Regular
+C02681,Gujarat,"2024-10-15 00:00:00",Regular
+C02682,Telangana,"2023-04-04 00:00:00",Regular
+C02683,Maharashtra,"2023-01-14 00:00:00",Regular
+C02684,"Tamil Nadu","2023-04-01 00:00:00",Regular
+C02685,Karnataka,"2024-05-13 00:00:00",Regular
+C02686,Gujarat,"2024-02-20 00:00:00",Regular
+C02687,Karnataka,"2023-03-03 00:00:00",Regular
+C02688,"West Bengal","2023-06-21 00:00:00",Regular
+C02689,Karnataka,"2024-01-28 00:00:00",Regular
+C02690,Delhi,"2024-06-17 00:00:00",Regular
+C02691,"Uttar Pradesh","2023-09-08 00:00:00",Regular
+C02692,Delhi,"2024-11-24 00:00:00",Regular
+C02693,Telangana,"2024-12-25 00:00:00",Regular
+C02694,"Uttar Pradesh","2024-07-13 00:00:00",Regular
+C02695,Telangana,"2023-11-28 00:00:00",Regular
+C02696,Maharashtra,"2024-10-02 00:00:00",Premium
+C02697,Gujarat,"2024-06-15 00:00:00",Regular
+C02698,Maharashtra,"2024-01-15 00:00:00",Premium
+C02699,Delhi,"2023-11-20 00:00:00",Regular
+C02700,Telangana,"2024-08-30 00:00:00",Regular
+C02701,"West Bengal","2024-02-11 00:00:00",Regular
+C02702,"Tamil Nadu","2023-05-14 00:00:00",Regular
+C02703,Delhi,"2024-12-30 00:00:00",Regular
+C02704,Gujarat,"2023-02-19 00:00:00",Premium
+C02705,"West Bengal","2024-05-22 00:00:00",Regular
+C02706,Delhi,"2024-04-23 00:00:00",Regular
+C02707,Telangana,"2024-03-03 00:00:00",Regular
+C02708,Karnataka,"2023-02-07 00:00:00",Regular
+C02709,Maharashtra,"2023-12-26 00:00:00",Regular
+C02710,"West Bengal","2024-10-13 00:00:00",Regular
+C02711,"Uttar Pradesh","2023-06-24 00:00:00",Regular
+C02712,Karnataka,"2024-05-19 00:00:00",Regular
+C02713,Karnataka,"2024-09-18 00:00:00",Regular
+C02714,Maharashtra,"2024-11-26 00:00:00",Regular
+C02715,Telangana,"2024-01-12 00:00:00",Premium
+C02716,Karnataka,"2023-08-18 00:00:00",Regular
+C02717,Delhi,"2024-05-25 00:00:00",Regular
+C02718,"Uttar Pradesh","2023-12-21 00:00:00",Regular
+C02719,Maharashtra,"2024-04-02 00:00:00",Regular
+C02720,"Tamil Nadu","2024-06-25 00:00:00",Regular
+C02721,Delhi,"2024-06-02 00:00:00",Regular
+C02722,Gujarat,"2023-06-27 00:00:00",Regular
+C02723,Karnataka,"2024-07-05 00:00:00",Regular
+C02724,Delhi,"2024-01-31 00:00:00",Regular
+C02725,Maharashtra,"2024-11-10 00:00:00",Regular
+C02726,NULL,"2024-04-26 00:00:00",Regular
+C02727,Gujarat,"2024-10-13 00:00:00",Regular
+C02728,Maharashtra,"2024-12-15 00:00:00",Regular
+C02729,Delhi,"2024-12-26 00:00:00",Regular
+C02730,Telangana,"2024-06-27 00:00:00",Premium
+C02731,Maharashtra,"2024-03-12 00:00:00",Regular
+C02732,NULL,"2023-03-28 00:00:00",Regular
+C02733,"Tamil Nadu","2023-10-09 00:00:00",Regular
+C02734,Karnataka,"2023-12-13 00:00:00",Regular
+C02735,Karnataka,"2024-07-23 00:00:00",Regular
+C02736,Delhi,"2024-03-05 00:00:00",Regular
+C02737,Maharashtra,"2023-11-17 00:00:00",Regular
+C02738,"Tamil Nadu","2023-04-18 00:00:00",Regular
+C02739,"West Bengal","2024-06-06 00:00:00",Regular
+C02740,"Tamil Nadu","2023-11-12 00:00:00",Premium
+C02741,Maharashtra,"2023-01-27 00:00:00",Regular
+C02742,Telangana,"2023-07-27 00:00:00",Regular
+C02743,NULL,"2024-10-04 00:00:00",Regular
+C02744,Gujarat,"2023-03-28 00:00:00",Premium
+C02745,Karnataka,"2023-10-24 00:00:00",Regular
+C02746,Gujarat,"2024-01-09 00:00:00",Premium
+C02747,Maharashtra,"2023-03-03 00:00:00",Premium
+C02748,Maharashtra,"2023-05-01 00:00:00",Regular
+C02749,Delhi,"2024-11-17 00:00:00",Regular
+C02750,Maharashtra,"2024-03-07 00:00:00",Regular
+C02751,Karnataka,"2023-06-03 00:00:00",Regular
+C02752,Gujarat,"2023-05-04 00:00:00",Regular
+C02753,Telangana,"2023-11-07 00:00:00",Premium
+C02754,Maharashtra,"2024-06-12 00:00:00",Regular
+C02755,Telangana,"2024-06-17 00:00:00",Regular
+C02756,Gujarat,"2023-05-23 00:00:00",Regular
+C02757,Telangana,"2024-06-13 00:00:00",Regular
+C02758,"West Bengal","2024-10-16 00:00:00",Premium
+C02759,NULL,"2023-06-15 00:00:00",Regular
+C02760,"Tamil Nadu","2023-01-20 00:00:00",Regular
+C02761,"West Bengal","2024-11-30 00:00:00",Premium
+C02762,Telangana,"2024-01-17 00:00:00",Premium
+C02763,Maharashtra,"2024-07-20 00:00:00",Regular
+C02764,Karnataka,"2023-08-22 00:00:00",Regular
+C02765,Maharashtra,"2023-08-07 00:00:00",Regular
+C02766,"Uttar Pradesh","2023-06-14 00:00:00",Regular
+C02767,Delhi,"2023-06-08 00:00:00",Regular
+C02768,"West Bengal","2023-12-11 00:00:00",Regular
+C02769,Telangana,"2023-03-19 00:00:00",Premium
+C02770,"Uttar Pradesh","2024-09-06 00:00:00",Regular
+C02771,Maharashtra,"2024-01-09 00:00:00",Premium
+C02772,Gujarat,"2024-10-30 00:00:00",Premium
+C02773,Telangana,"2024-01-02 00:00:00",Regular
+C02774,Maharashtra,"2023-08-10 00:00:00",Regular
+C02775,Gujarat,"2024-01-11 00:00:00",Regular
+C02776,NULL,"2023-04-23 00:00:00",Regular
+C02777,"West Bengal","2024-08-24 00:00:00",Regular
+C02778,Delhi,"2024-06-09 00:00:00",Regular
+C02779,Karnataka,"2023-04-18 00:00:00",Regular
+C02780,Maharashtra,"2024-02-29 00:00:00",Regular
+C02781,Maharashtra,"2024-01-28 00:00:00",Regular
+C02782,NULL,"2023-05-27 00:00:00",Regular
+C02783,"Tamil Nadu","2023-03-31 00:00:00",Regular
+C02784,Karnataka,"2024-07-09 00:00:00",Regular
+C02785,Maharashtra,"2023-07-12 00:00:00",Premium
+C02786,"West Bengal","2024-01-14 00:00:00",Premium
+C02787,"West Bengal","2023-06-30 00:00:00",Regular
+C02788,"Tamil Nadu","2024-04-21 00:00:00",Regular
+C02789,"Uttar Pradesh","2023-02-05 00:00:00",Regular
+C02790,Delhi,"2023-09-20 00:00:00",Regular
+C02791,Telangana,"2024-02-04 00:00:00",Regular
+C02792,Maharashtra,"2023-11-17 00:00:00",Regular
+C02793,Gujarat,"2024-03-23 00:00:00",Premium
+C02794,"Uttar Pradesh","2023-05-12 00:00:00",Regular
+C02795,Telangana,"2023-11-19 00:00:00",Regular
+C02796,"Tamil Nadu","2024-07-06 00:00:00",Premium
+C02797,"Tamil Nadu","2023-09-01 00:00:00",Regular
+C02798,NULL,"2023-04-25 00:00:00",Regular
+C02799,"West Bengal","2024-09-10 00:00:00",Premium
+C02800,Gujarat,"2024-07-22 00:00:00",Regular
+C02801,"Uttar Pradesh","2024-05-11 00:00:00",Regular
+C02802,Delhi,"2024-08-05 00:00:00",Regular
+C02803,Maharashtra,"2024-07-22 00:00:00",Premium
+C02804,"Tamil Nadu","2024-06-29 00:00:00",Regular
+C02805,Maharashtra,"2024-01-07 00:00:00",Regular
+C02806,Karnataka,"2023-01-15 00:00:00",Regular
+C02807,Karnataka,"2024-03-11 00:00:00",Regular
+C02808,Gujarat,"2023-07-19 00:00:00",Regular
+C02809,Maharashtra,"2024-07-18 00:00:00",Regular
+C02810,Maharashtra,"2023-12-08 00:00:00",Regular
+C02811,Maharashtra,"2024-10-22 00:00:00",Regular
+C02812,Telangana,"2024-03-10 00:00:00",Regular
+C02813,"West Bengal","2024-02-06 00:00:00",Regular
+C02814,Maharashtra,"2024-11-02 00:00:00",Regular
+C02815,Maharashtra,"2023-12-13 00:00:00",Regular
+C02816,"Tamil Nadu","2023-10-02 00:00:00",Regular
+C02817,Karnataka,"2023-09-29 00:00:00",Premium
+C02818,"Tamil Nadu","2024-09-30 00:00:00",Premium
+C02819,Delhi,"2024-07-06 00:00:00",Regular
+C02820,"Uttar Pradesh","2023-04-30 00:00:00",Regular
+C02821,Karnataka,"2023-12-26 00:00:00",Regular
+C02822,"West Bengal","2023-09-29 00:00:00",Regular
+C02823,Maharashtra,"2024-04-17 00:00:00",Regular
+C02824,"Uttar Pradesh","2023-02-08 00:00:00",Premium
+C02825,"Uttar Pradesh","2024-06-05 00:00:00",Regular
+C02826,Gujarat,"2024-06-26 00:00:00",Regular
+C02827,Delhi,"2023-06-15 00:00:00",Premium
+C02828,Maharashtra,"2023-04-20 00:00:00",Regular
+C02829,Gujarat,"2024-04-03 00:00:00",Regular
+C02830,Gujarat,"2023-07-07 00:00:00",Regular
+C02831,Karnataka,"2024-11-18 00:00:00",Regular
+C02832,Delhi,"2024-07-19 00:00:00",Premium
+C02833,Delhi,"2024-11-28 00:00:00",Regular
+C02834,Telangana,"2024-01-26 00:00:00",Regular
+C02835,"West Bengal","2024-11-16 00:00:00",Regular
+C02836,"West Bengal","2023-01-11 00:00:00",Premium
+C02837,"West Bengal","2023-07-31 00:00:00",Regular
+C02838,Karnataka,"2023-01-02 00:00:00",Regular
+C02839,Karnataka,"2024-05-09 00:00:00",Regular
+C02840,Maharashtra,"2024-01-08 00:00:00",Premium
+C02841,Gujarat,"2023-07-29 00:00:00",Regular
+C02842,Delhi,"2023-08-11 00:00:00",Regular
+C02843,Delhi,"2024-04-14 00:00:00",Premium
+C02844,Karnataka,"2023-05-12 00:00:00",Regular
+C02845,Maharashtra,"2024-01-11 00:00:00",Regular
+C02846,"Tamil Nadu","2024-03-23 00:00:00",Regular
+C02847,Karnataka,"2023-06-25 00:00:00",Regular
+C02848,Maharashtra,"2023-06-16 00:00:00",Regular
+C02849,Gujarat,"2023-09-16 00:00:00",Regular
+C02850,Karnataka,"2024-03-08 00:00:00",Regular
+C02851,Delhi,"2023-07-05 00:00:00",Regular
+C02852,Delhi,"2023-10-04 00:00:00",Regular
+C02853,Gujarat,"2024-02-01 00:00:00",Premium
+C02854,Karnataka,"2023-05-17 00:00:00",Regular
+C02855,Gujarat,"2024-02-20 00:00:00",Regular
+C02856,"Uttar Pradesh","2023-04-11 00:00:00",Regular
+C02857,"West Bengal","2023-04-15 00:00:00",Regular
+C02858,Delhi,"2023-06-22 00:00:00",Regular
+C02859,Gujarat,"2023-07-29 00:00:00",Regular
+C02860,Delhi,"2023-01-22 00:00:00",Regular
+C02861,Delhi,"2024-12-02 00:00:00",Regular
+C02862,"Tamil Nadu","2023-08-13 00:00:00",Regular
+C02863,Karnataka,"2024-08-10 00:00:00",Premium
+C02864,Maharashtra,"2024-10-20 00:00:00",Premium
+C02865,Delhi,"2024-08-07 00:00:00",Regular
+C02866,Maharashtra,"2024-08-29 00:00:00",Regular
+C02867,Delhi,"2023-03-15 00:00:00",Regular
+C02868,"Tamil Nadu","2023-09-29 00:00:00",Regular
+C02869,"Uttar Pradesh","2024-06-28 00:00:00",Premium
+C02870,Maharashtra,"2024-02-25 00:00:00",Premium
+C02871,"Tamil Nadu","2023-01-05 00:00:00",Regular
+C02872,Delhi,"2024-02-19 00:00:00",Premium
+C02873,Maharashtra,"2024-08-10 00:00:00",Regular
+C02874,Karnataka,"2024-08-27 00:00:00",Premium
+C02875,Maharashtra,"2023-10-08 00:00:00",Regular
+C02876,Maharashtra,"2023-06-22 00:00:00",Regular
+C02877,Karnataka,"2023-08-14 00:00:00",Regular
+C02878,Delhi,"2023-08-05 00:00:00",Premium
+C02879,"Tamil Nadu","2023-09-11 00:00:00",Regular
+C02880,Maharashtra,"2023-08-09 00:00:00",Regular
+C02881,Maharashtra,"2023-11-30 00:00:00",Regular
+C02882,Maharashtra,"2023-01-30 00:00:00",Regular
+C02883,NULL,"2023-07-20 00:00:00",Premium
+C02884,Karnataka,"2023-08-18 00:00:00",Regular
+C02885,"Tamil Nadu","2023-04-22 00:00:00",Regular
+C02886,Karnataka,"2024-10-02 00:00:00",Regular
+C02887,Maharashtra,"2024-05-08 00:00:00",Regular
+C02888,"Uttar Pradesh","2024-10-27 00:00:00",Regular
+C02889,Maharashtra,"2024-02-14 00:00:00",Regular
+C02890,Maharashtra,"2023-03-22 00:00:00",Regular
+C02891,Maharashtra,"2024-10-22 00:00:00",Regular
+C02892,"Uttar Pradesh","2023-12-01 00:00:00",Regular
+C02893,"Tamil Nadu","2024-05-14 00:00:00",Regular
+C02894,"Tamil Nadu","2023-10-06 00:00:00",Regular
+C02895,"Uttar Pradesh","2023-12-27 00:00:00",Premium
+C02896,Maharashtra,"2023-12-24 00:00:00",Premium
+C02897,"Uttar Pradesh","2023-07-27 00:00:00",Regular
+C02898,Maharashtra,"2024-02-09 00:00:00",Regular
+C02899,"Tamil Nadu","2024-06-19 00:00:00",Premium
+C02900,NULL,"2023-01-15 00:00:00",Regular
+C02901,Delhi,"2023-04-06 00:00:00",Regular
+C02902,"Uttar Pradesh","2024-09-06 00:00:00",Regular
+C02903,Maharashtra,"2024-02-20 00:00:00",Regular
+C02904,"Uttar Pradesh","2024-12-11 00:00:00",Regular
+C02905,NULL,"2024-03-17 00:00:00",Regular
+C02906,"West Bengal","2024-04-21 00:00:00",Regular
+C02907,"Uttar Pradesh","2024-10-18 00:00:00",Premium
+C02908,Maharashtra,"2024-04-27 00:00:00",Regular
+C02909,"Uttar Pradesh","2023-08-29 00:00:00",Regular
+C02910,"Tamil Nadu","2024-01-21 00:00:00",Regular
+C02911,"West Bengal","2023-06-21 00:00:00",Regular
+C02912,Maharashtra,"2023-09-02 00:00:00",Regular
+C02913,"Tamil Nadu","2024-05-11 00:00:00",Regular
+C02914,"West Bengal","2023-04-19 00:00:00",Regular
+C02915,Delhi,"2024-05-05 00:00:00",Regular
+C02916,Maharashtra,"2024-03-02 00:00:00",Premium
+C02917,Karnataka,"2023-08-14 00:00:00",Regular
+C02918,Telangana,"2023-02-02 00:00:00",Premium
+C02919,Maharashtra,"2024-05-29 00:00:00",Regular
+C02920,"West Bengal","2024-08-24 00:00:00",Regular
+C02921,"Uttar Pradesh","2024-06-16 00:00:00",Regular
+C02922,Maharashtra,"2023-11-04 00:00:00",Regular
+C02923,Maharashtra,"2024-04-22 00:00:00",Regular
+C02924,"West Bengal","2023-10-30 00:00:00",Regular
+C02925,Maharashtra,"2023-09-19 00:00:00",Regular
+C02926,"Tamil Nadu","2023-08-27 00:00:00",Regular
+C02927,"West Bengal","2023-06-03 00:00:00",Premium
+C02928,"Tamil Nadu","2024-12-08 00:00:00",Regular
+C02929,Karnataka,"2024-05-01 00:00:00",Regular
+C02930,"West Bengal","2023-05-08 00:00:00",Premium
+C02931,"Tamil Nadu","2024-09-23 00:00:00",Premium
+C02932,Maharashtra,"2023-04-21 00:00:00",Regular
+C02933,"Tamil Nadu","2024-03-09 00:00:00",Regular
+C02934,Telangana,"2023-05-01 00:00:00",Regular
+C02935,"West Bengal","2023-09-21 00:00:00",Regular
+C02936,Delhi,"2024-04-25 00:00:00",Regular
+C02937,Karnataka,"2024-12-30 00:00:00",Regular
+C02938,Maharashtra,"2024-12-25 00:00:00",Regular
+C02939,Karnataka,"2024-10-15 00:00:00",Regular
+C02940,Maharashtra,"2023-06-21 00:00:00",Premium
+C02941,"Uttar Pradesh","2023-03-10 00:00:00",Premium
+C02942,Karnataka,"2024-10-23 00:00:00",Premium
+C02943,Gujarat,"2024-11-04 00:00:00",Regular
+C02944,Maharashtra,"2023-07-23 00:00:00",Regular
+C02945,Karnataka,"2023-01-14 00:00:00",Regular
+C02946,Delhi,"2024-04-17 00:00:00",Regular
+C02947,Karnataka,"2023-02-25 00:00:00",Regular
+C02948,NULL,"2023-01-30 00:00:00",Regular
+C02949,"Uttar Pradesh","2024-11-15 00:00:00",Regular
+C02950,Telangana,"2023-12-28 00:00:00",Regular
+C02951,Maharashtra,"2023-03-23 00:00:00",Regular
+C02952,Gujarat,"2024-04-22 00:00:00",Regular
+C02953,Maharashtra,"2023-09-27 00:00:00",Regular
+C02954,Telangana,"2024-01-27 00:00:00",Regular
+C02955,Delhi,"2024-10-18 00:00:00",Premium
+C02956,Karnataka,"2023-06-23 00:00:00",Regular
+C02957,Maharashtra,"2024-04-16 00:00:00",Regular
+C02958,Maharashtra,"2024-08-27 00:00:00",Premium
+C02959,Karnataka,"2023-11-06 00:00:00",Regular
+C02960,Telangana,"2024-12-09 00:00:00",Regular
+C02961,Gujarat,"2023-11-24 00:00:00",Regular
+C02962,NULL,"2023-12-02 00:00:00",Regular
+C02963,Maharashtra,"2024-10-07 00:00:00",Regular
+C02964,"Tamil Nadu","2024-04-09 00:00:00",Premium
+C02965,Karnataka,"2024-09-26 00:00:00",Premium
+C02966,"Tamil Nadu","2024-07-31 00:00:00",Regular
+C02967,Karnataka,"2024-06-04 00:00:00",Regular
+C02968,Karnataka,"2023-06-26 00:00:00",Regular
+C02969,"Tamil Nadu","2023-10-19 00:00:00",Regular
+C02970,Maharashtra,"2024-09-23 00:00:00",Regular
+C02971,Delhi,"2024-03-25 00:00:00",Regular
+C02972,"West Bengal","2023-07-24 00:00:00",Premium
+C02973,Maharashtra,"2023-08-27 00:00:00",Regular
+C02974,"Uttar Pradesh","2024-07-20 00:00:00",Regular
+C02975,Delhi,"2023-05-11 00:00:00",Regular
+C02976,Gujarat,"2023-03-23 00:00:00",Regular
+C02977,"West Bengal","2024-07-12 00:00:00",Regular
+C02978,"West Bengal","2023-07-30 00:00:00",Regular
+C02979,"West Bengal","2024-07-12 00:00:00",Regular
+C02980,Telangana,"2024-01-25 00:00:00",Premium
+C02981,"Tamil Nadu","2024-12-29 00:00:00",Regular
+C02982,Karnataka,"2024-01-19 00:00:00",Premium
+C02983,Maharashtra,"2024-09-25 00:00:00",Regular
+C02984,"Tamil Nadu","2024-09-12 00:00:00",Regular
+C02985,Maharashtra,"2023-06-04 00:00:00",Regular
+C02986,Karnataka,"2024-12-28 00:00:00",Regular
+C02987,Maharashtra,"2024-06-28 00:00:00",Regular
+C02988,"Tamil Nadu","2023-03-20 00:00:00",Regular
+C02989,Maharashtra,"2023-01-05 00:00:00",Regular
+C02990,"Tamil Nadu","2023-07-18 00:00:00",Regular
+C02991,Gujarat,"2023-01-12 00:00:00",Premium
+C02992,Telangana,"2023-09-19 00:00:00",Premium
+C02993,Karnataka,"2024-12-28 00:00:00",Regular
+C02994,"Tamil Nadu","2023-12-16 00:00:00",Regular
+C02995,"Tamil Nadu","2023-01-18 00:00:00",Premium
+C02996,Delhi,"2023-12-27 00:00:00",Regular
+C02997,"West Bengal","2023-06-09 00:00:00",Regular
+C02998,Maharashtra,"2024-09-17 00:00:00",Regular
+C02999,"Uttar Pradesh","2023-03-08 00:00:00",Regular
+C03000,Maharashtra,"2024-07-16 00:00:00",Regular

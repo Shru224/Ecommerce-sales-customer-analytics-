@@ -1,0 +1,151 @@
+product_id,product_name,category,unit_price,unit_cost
+P0001,"Electronics Item 1",Electronics,13785,12131
+P0002,"Electronics Item 2",Electronics,18979,16702
+P0003,"Electronics Item 3",Electronics,6735,5927
+P0004,"Electronics Item 4",Electronics,12485,10987
+P0005,"Electronics Item 5",Electronics,14482,12744
+P0006,"Electronics Item 6",Electronics,19050,16764
+P0007,"Electronics Item 7",Electronics,24200,21296
+P0008,"Electronics Item 8",Electronics,21586,18996
+P0009,"Electronics Item 9",Electronics,16484,14506
+P0010,"Electronics Item 10",Electronics,15632,13756
+P0011,"Electronics Item 11",Electronics,16072,14143
+P0012,"Electronics Item 12",Electronics,14767,12995
+P0013,"Electronics Item 13",Electronics,3836,3376
+P0014,"Electronics Item 14",Electronics,18212,16027
+P0015,"Electronics Item 15",Electronics,18618,16384
+P0016,"Electronics Item 16",Electronics,14031,12347
+P0017,"Electronics Item 17",Electronics,22084,19434
+P0018,"Electronics Item 18",Electronics,17630,15514
+P0019,"Electronics Item 19",Electronics,10660,9381
+P0020,"Electronics Item 20",Electronics,2943,2590
+P0021,"Electronics Item 21",Electronics,3831,3371
+P0022,"Electronics Item 22",Electronics,10415,9165
+P0023,"Electronics Item 23",Electronics,12897,11349
+P0024,"Electronics Item 24",Electronics,6255,5504
+P0025,"Electronics Item 25",Electronics,6760,5949
+P0026,"Fashion Item 26",Fashion,1229,737
+P0027,"Fashion Item 27",Fashion,3210,1926
+P0028,"Fashion Item 28",Fashion,3177,1906
+P0029,"Fashion Item 29",Fashion,1779,1067
+P0030,"Fashion Item 30",Fashion,1021,613
+P0031,"Fashion Item 31",Fashion,799,479
+P0032,"Fashion Item 32",Fashion,714,428
+P0033,"Fashion Item 33",Fashion,1809,1085
+P0034,"Fashion Item 34",Fashion,564,338
+P0035,"Fashion Item 35",Fashion,1601,961
+P0036,"Fashion Item 36",Fashion,3862,2317
+P0037,"Fashion Item 37",Fashion,2227,1336
+P0038,"Fashion Item 38",Fashion,3362,2017
+P0039,"Fashion Item 39",Fashion,865,519
+P0040,"Fashion Item 40",Fashion,1365,819
+P0041,"Fashion Item 41",Fashion,3808,2285
+P0042,"Fashion Item 42",Fashion,1781,1069
+P0043,"Fashion Item 43",Fashion,2734,1640
+P0044,"Fashion Item 44",Fashion,3914,2348
+P0045,"Fashion Item 45",Fashion,2383,1430
+P0046,"Fashion Item 46",Fashion,1499,899
+P0047,"Fashion Item 47",Fashion,2315,1389
+P0048,"Fashion Item 48",Fashion,597,358
+P0049,"Fashion Item 49",Fashion,805,483
+P0050,"Fashion Item 50",Fashion,426,256
+P0051,"Home & Kitchen Item 51","Home & Kitchen",5340,4005
+P0052,"Home & Kitchen Item 52","Home & Kitchen",4126,3094
+P0053,"Home & Kitchen Item 53","Home & Kitchen",2000,1500
+P0054,"Home & Kitchen Item 54","Home & Kitchen",1561,1171
+P0055,"Home & Kitchen Item 55","Home & Kitchen",4194,3146
+P0056,"Home & Kitchen Item 56","Home & Kitchen",5541,4156
+P0057,"Home & Kitchen Item 57","Home & Kitchen",2005,1504
+P0058,"Home & Kitchen Item 58","Home & Kitchen",2133,1600
+P0059,"Home & Kitchen Item 59","Home & Kitchen",5169,3877
+P0060,"Home & Kitchen Item 60","Home & Kitchen",5392,4044
+P0061,"Home & Kitchen Item 61","Home & Kitchen",5510,4132
+P0062,"Home & Kitchen Item 62","Home & Kitchen",1971,1478
+P0063,"Home & Kitchen Item 63","Home & Kitchen",986,740
+P0064,"Home & Kitchen Item 64","Home & Kitchen",2808,2106
+P0065,"Home & Kitchen Item 65","Home & Kitchen",1986,1490
+P0066,"Home & Kitchen Item 66","Home & Kitchen",5338,4004
+P0067,"Home & Kitchen Item 67","Home & Kitchen",509,382
+P0068,"Home & Kitchen Item 68","Home & Kitchen",3913,2935
+P0069,"Home & Kitchen Item 69","Home & Kitchen",5465,4099
+P0070,"Home & Kitchen Item 70","Home & Kitchen",5867,4400
+P0071,"Home & Kitchen Item 71","Home & Kitchen",4006,3004
+P0072,"Home & Kitchen Item 72","Home & Kitchen",5715,4286
+P0073,"Home & Kitchen Item 73","Home & Kitchen",731,548
+P0074,"Home & Kitchen Item 74","Home & Kitchen",2348,1761
+P0075,"Home & Kitchen Item 75","Home & Kitchen",350,262
+P0076,"Beauty Item 76",Beauty,2457,1597
+P0077,"Beauty Item 77",Beauty,2276,1479
+P0078,"Beauty Item 78",Beauty,265,172
+P0079,"Beauty Item 79",Beauty,242,157
+P0080,"Beauty Item 80",Beauty,1044,679
+P0081,"Beauty Item 81",Beauty,795,517
+P0082,"Beauty Item 82",Beauty,2148,1396
+P0083,"Beauty Item 83",Beauty,569,370
+P0084,"Beauty Item 84",Beauty,2018,1312
+P0085,"Beauty Item 85",Beauty,1475,959
+P0086,"Beauty Item 86",Beauty,1068,694
+P0087,"Beauty Item 87",Beauty,535,348
+P0088,"Beauty Item 88",Beauty,2495,1622
+P0089,"Beauty Item 89",Beauty,1621,1054
+P0090,"Beauty Item 90",Beauty,1211,787
+P0091,"Beauty Item 91",Beauty,1054,685
+P0092,"Beauty Item 92",Beauty,2283,1484
+P0093,"Beauty Item 93",Beauty,2089,1358
+P0094,"Beauty Item 94",Beauty,2066,1343
+P0095,"Beauty Item 95",Beauty,1617,1051
+P0096,"Beauty Item 96",Beauty,2242,1457
+P0097,"Beauty Item 97",Beauty,888,577
+P0098,"Beauty Item 98",Beauty,1819,1182
+P0099,"Beauty Item 99",Beauty,1130,734
+P0100,"Beauty Item 100",Beauty,1580,1027
+P0101,"Books Item 101",Books,899,719
+P0102,"Books Item 102",Books,888,710
+P0103,"Books Item 103",Books,534,427
+P0104,"Books Item 104",Books,580,464
+P0105,"Books Item 105",Books,823,658
+P0106,"Books Item 106",Books,889,711
+P0107,"Books Item 107",Books,734,587
+P0108,"Books Item 108",Books,199,159
+P0109,"Books Item 109",Books,392,314
+P0110,"Books Item 110",Books,822,658
+P0111,"Books Item 111",Books,726,581
+P0112,"Books Item 112",Books,707,566
+P0113,"Books Item 113",Books,651,521
+P0114,"Books Item 114",Books,461,369
+P0115,"Books Item 115",Books,452,362
+P0116,"Books Item 116",Books,757,606
+P0117,"Books Item 117",Books,370,296
+P0118,"Books Item 118",Books,664,531
+P0119,"Books Item 119",Books,695,556
+P0120,"Books Item 120",Books,783,626
+P0121,"Books Item 121",Books,390,312
+P0122,"Books Item 122",Books,706,565
+P0123,"Books Item 123",Books,230,184
+P0124,"Books Item 124",Books,254,203
+P0125,"Books Item 125",Books,463,370
+P0126,"Sports Item 126",Sports,914,658
+P0127,"Sports Item 127",Sports,7608,5478
+P0128,"Sports Item 128",Sports,7264,5230
+P0129,"Sports Item 129",Sports,867,624
+P0130,"Sports Item 130",Sports,6787,4887
+P0131,"Sports Item 131",Sports,4317,3108
+P0132,"Sports Item 132",Sports,5765,4151
+P0133,"Sports Item 133",Sports,7152,5149
+P0134,"Sports Item 134",Sports,4827,3475
+P0135,"Sports Item 135",Sports,1372,988
+P0136,"Sports Item 136",Sports,519,374
+P0137,"Sports Item 137",Sports,4227,3043
+P0138,"Sports Item 138",Sports,7619,5486
+P0139,"Sports Item 139",Sports,4795,3452
+P0140,"Sports Item 140",Sports,3297,2374
+P0141,"Sports Item 141",Sports,732,527
+P0142,"Sports Item 142",Sports,7362,5301
+P0143,"Sports Item 143",Sports,2954,2127
+P0144,"Sports Item 144",Sports,5786,4166
+P0145,"Sports Item 145",Sports,5707,4109
+P0146,"Sports Item 146",Sports,2404,1731
+P0147,"Sports Item 147",Sports,978,704
+P0148,"Sports Item 148",Sports,3388,2439
+P0149,"Sports Item 149",Sports,2878,2072
+P0150,"Sports Item 150",Sports,5752,4141
